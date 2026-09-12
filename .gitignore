@@ -1,1 +1,3 @@
 node_modules\ndist\nandroid\n.env
+.vercel
+.env*
