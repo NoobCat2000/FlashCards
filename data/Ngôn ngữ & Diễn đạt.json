@@ -1,0 +1,475 @@
+[
+  {
+    "word": "connotation",
+    "pronunciation": "/ˌkɒnəˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàm ý, nghĩa bóng, sắc thái cảm xúc kèm theo của một từ",
+        "examples": [
+          "The word 'home' has warm connotations of safety and belonging.",
+          "Be careful: 'cheap' has negative connotations — use 'affordable' instead.",
+          "The connotations of a word can vary significantly between cultures."
+        ],
+        "synonyms": [
+          "implication",
+          "overtone",
+          "nuance",
+          "association"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "Đối lập: 'denotation' (nghĩa đen, nghĩa từ điển). Connotation là sắc thái cảm xúc/văn hóa đi kèm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conjunction",
+    "pronunciation": "/kənˈdʒʌŋkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Liên từ (ngữ pháp); sự kết hợp, sự trùng hợp của các yếu tố",
+        "examples": [
+          "'And', 'but', and 'because' are common conjunctions in English.",
+          "The project succeeded through the conjunction of talent, timing, and luck.",
+          "The drug works best in conjunction with regular physical exercise."
+        ],
+        "synonyms": [
+          "connector",
+          "link",
+          "combination",
+          "coincidence"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "'In conjunction with' = kết hợp với, đi cùng với (cụm giới từ rất phổ biến).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nuance",
+    "pronunciation": "/ˈnjuːɑːns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sắc thái nhỏ, chi tiết tinh tế (trong ý nghĩa, cảm xúc, tình huống)",
+        "examples": [
+          "The translator failed to capture the nuances of the original text.",
+          "She appreciated the subtle nuances in his performance.",
+          "You need to understand the cultural nuances to communicate effectively."
+        ],
+        "synonyms": [
+          "subtlety",
+          "shade",
+          "distinction",
+          "finesse"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "Gốc tiếng Pháp. 'Nuanced' (adj) = tinh tế, không đơn giản hóa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "analogue",
+    "pronunciation": "/ˈænəlɒɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bản tương đương, vật/khái niệm tương tự",
+        "examples": [
+          "The analogue of a computer program in biology is the gene.",
+          "He found a historical analogue for the current political crisis.",
+          "Ancient Greek tragedy is the analogue of modern psychological drama."
+        ],
+        "synonyms": [
+          "equivalent",
+          "counterpart",
+          "parallel"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Tương tự (tín hiệu/đồng hồ liên tục — đối lập với kỹ thuật số)",
+        "examples": [
+          "Analogue clocks use hands to display the time.",
+          "Vinyl records use analogue technology to store sound.",
+          "The country completed its switch from analogue to digital television."
+        ],
+        "synonyms": [
+          "non-digital"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "language",
+      "science",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ: 'analog'. Tiếng Anh Anh: 'analogue'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ambiguity",
+    "pronunciation": "/ˌæmbɪˈɡjuːɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự mơ hồ, không rõ ràng; câu/từ có thể hiểu theo nhiều cách",
+        "examples": [
+          "The contract was full of legal ambiguity that led to disputes later.",
+          "The poem's deliberate ambiguity is what makes it so fascinating.",
+          "The politician's vague answer was designed to preserve deliberate ambiguity."
+        ],
+        "synonyms": [
+          "vagueness",
+          "uncertainty",
+          "obscurity",
+          "double meaning"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "'Ambiguous' (adj) = mơ hồ. Đối lập: 'clarity', 'unambiguous'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "articulate",
+    "pronunciation": "/ɑːˈtɪkjʊlət/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Diễn đạt rõ ràng, mạch lạc, trôi chảy",
+        "examples": [
+          "She was articulate and confident throughout the interview.",
+          "An articulate speaker can convey complex ideas in simple terms.",
+          "He's not very articulate, but his intentions are genuine."
+        ],
+        "synonyms": [
+          "eloquent",
+          "fluent",
+          "well-spoken",
+          "expressive"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Phát biểu, trình bày rõ ràng; phát âm rõ",
+        "examples": [
+          "She struggled to articulate her feelings after the loss.",
+          "Can you articulate precisely what you mean by that?",
+          "Singers must articulate every word clearly for the audience."
+        ],
+        "synonyms": [
+          "express",
+          "communicate",
+          "voice",
+          "pronounce"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "verb",
+      "language",
+      "abstract"
+    ],
+    "note": "Adj phát âm /ɑːˈtɪkjʊlət/; v phát âm /ɑːˈtɪkjʊleɪt/ — chú ý sự khác biệt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "excerpt",
+    "pronunciation": "/ˈeksɜːpt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đoạn trích (từ sách, bài báo, bài phát biểu, video...)",
+        "examples": [
+          "She read an excerpt from her new novel at the book launch.",
+          "The documentary included excerpts from interviews with survivors.",
+          "The teacher asked students to read the excerpt and summarize it."
+        ],
+        "synonyms": [
+          "extract",
+          "passage",
+          "quote",
+          "snippet"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "metaphor",
+    "pronunciation": "/ˈmetəfər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ẩn dụ (so sánh ngầm, không dùng 'like/as')",
+        "examples": [
+          "Calling life 'a journey' is a common metaphor.",
+          "'The world is a stage' is a famous metaphor from Shakespeare.",
+          "She used the metaphor of a storm to describe her turbulent emotions."
+        ],
+        "synonyms": [
+          "figure of speech",
+          "image",
+          "symbol",
+          "analogy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "Khác 'simile' (so sánh tu từ dùng 'like/as'): 'Life is a journey' (metaphor) vs 'Life is like a journey' (simile).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "adage",
+    "pronunciation": "/ˈædɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Châm ngôn, tục ngữ (câu nói ngắn truyền đạo lý qua nhiều thế hệ)",
+        "examples": [
+          "The old adage 'time is money' still rings true in the business world.",
+          "'Look before you leap' is a well-known adage about caution.",
+          "As the adage goes, 'actions speak louder than words'."
+        ],
+        "synonyms": [
+          "proverb",
+          "saying",
+          "maxim",
+          "aphorism"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "Tương tự 'proverb' nhưng thường chỉ câu nói đã lâu đời và được công nhận rộng rãi.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "expound",
+    "pronunciation": "/ɪkˈspaʊnd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Trình bày chi tiết, giải thích tường tận (một lý thuyết, quan điểm)",
+        "examples": [
+          "The professor expounded his theory at great length.",
+          "She expounded on the risks of the new environmental policy.",
+          "He was asked to expound on his earlier comments about the economy."
+        ],
+        "synonyms": [
+          "explain",
+          "elaborate",
+          "expand on",
+          "clarify"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "language",
+      "abstract"
+    ],
+    "note": "Thường dùng: 'expound on/upon something'. Mang nghĩa giải thích đầy đủ hơn là chỉ nêu ra.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "concise",
+    "pronunciation": "/kənˈsaɪs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Ngắn gọn, súc tích (đủ ý mà không dài dòng)",
+        "examples": [
+          "Please keep your answer concise — no more than three sentences.",
+          "A good summary should be both clear and concise.",
+          "His concise writing style was highly regarded by literary editors."
+        ],
+        "synonyms": [
+          "brief",
+          "succinct",
+          "pithy",
+          "terse"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "language"
+    ],
+    "note": "'Concise' tích cực; 'terse' có thể tiêu cực (lạnh lùng, cộc lốc). Đối lập: 'verbose', 'wordy'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "elicit",
+    "pronunciation": "/ɪˈlɪsɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Khơi gợi, gợi ra (phản hồi, thông tin, cảm xúc)",
+        "examples": [
+          "The teacher's open question elicited a lively discussion in class.",
+          "The film elicited strong emotional responses from the audience.",
+          "Investigators use careful questioning techniques to elicit the truth."
+        ],
+        "synonyms": [
+          "draw out",
+          "evoke",
+          "provoke",
+          "extract"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "language",
+      "abstract"
+    ],
+    "note": "Phân biệt: 'elicit' (v: khơi gợi) ≠ 'illicit' (adj: bất hợp pháp, phi pháp).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allude",
+    "pronunciation": "/əˈluːd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ám chỉ, đề cập gián tiếp (không nói thẳng ra)",
+        "examples": [
+          "He alluded to the problem without directly addressing it.",
+          "The speech alluded to recent political tensions without naming them.",
+          "She alluded to personal struggles in the interview but gave no details."
+        ],
+        "synonyms": [
+          "hint at",
+          "refer indirectly",
+          "suggest",
+          "imply"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "language",
+      "abstract"
+    ],
+    "note": "Dùng với 'to': 'allude to something'. Đừng nhầm với 'elude' (trốn thoát/né tránh).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "proverbial",
+    "pronunciation": "/prəˈvɜːbiəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về tục ngữ; nổi tiếng đến mức thành điển tích, ai cũng biết",
+        "examples": [
+          "She was the proverbial cat with nine lives — always escaping disaster.",
+          "This scandal is the proverbial tip of the iceberg.",
+          "The proverbial wisdom of 'less is more' applies to good writing."
+        ],
+        "synonyms": [
+          "well-known",
+          "legendary",
+          "notorious",
+          "archetypal"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "language",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "colloquial",
+    "pronunciation": "/kəˈləʊkwiəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thông tục, mang tính khẩu ngữ (ngôn ngữ dùng trong giao tiếp không chính thức)",
+        "examples": [
+          "The word 'gonna' is a colloquial form of 'going to'.",
+          "Her essay was too colloquial in tone for an academic submission.",
+          "Colloquial expressions can be hard to find in formal dictionaries."
+        ],
+        "synonyms": [
+          "informal",
+          "conversational",
+          "casual",
+          "vernacular"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "language"
+    ],
+    "note": "Đối lập: 'formal', 'academic'. Khẩu ngữ thân mật ≠ sai ngữ pháp.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "collocation",
+    "pronunciation": "/ˌkɒləˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kết hợp từ tự nhiên trong ngôn ngữ (ngôn ngữ học)",
+        "examples": [
+          "'Make a mistake' is the correct collocation in English, not 'do a mistake'.",
+          "Learning collocations is key to sounding natural in a foreign language.",
+          "A collocation dictionary shows which words most naturally go together."
+        ],
+        "synonyms": [
+          "word combination",
+          "word partnership"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "language",
+      "abstract"
+    ],
+    "note": "Collocation không thể đoán từ nghĩa từng từ riêng lẻ — phải học cả cụm.",
+    "needsEnrichment": false
+  }
+]

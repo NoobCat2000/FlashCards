@@ -1,0 +1,3765 @@
+[
+  {
+    "word": "authoritarian",
+    "pronunciation": "/ɔːˌθɒrɪˈteəriən/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Độc đoán, chuyên quyền",
+        "examples": [
+          "His manner is extremely authoritarian.",
+          "Father was an authoritarian figure.",
+          "His speech provides further evidence of his increasingly authoritarian approach."
+        ],
+        "synonyms": [
+          "autocratic",
+          "dictatorial",
+          "tyrannical"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "acumen",
+    "pronunciation": "/ˈækjuːmən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự nhạy bén, tinh tường",
+        "examples": [
+          "He had demonstrated considerable business acumen.",
+          "I respect her business flair, her acumen.",
+          "Winterthur's prosperity was built on business acumen and new industries."
+        ],
+        "synonyms": [
+          "shrewdness",
+          "insight",
+          "astuteness",
+          "perspicacity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bossy",
+    "pronunciation": "/ˈbɒsi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thích ra lệnh, hay chỉ huy",
+        "examples": [
+          "She turned me off with her bossy manner.",
+          "Her staff find her bossy and dogmatic.",
+          "She found Molly to be bossy and interfering."
+        ],
+        "synonyms": [
+          "domineering",
+          "controlling",
+          "overbearing",
+          "pushy"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "combative",
+    "pronunciation": "/ˈkɒmbətɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hiếu chiến, hay gây hấn",
+        "examples": [
+          "Congress is in a combative mood.",
+          "The international airline business is a fiercely combative arena, where competitors enjoy nothing more than slitting each other's throats.",
+          "He was a passionate, combative, choleric, and difficult man, frequently embroiled in legal disputes."
+        ],
+        "synonyms": [
+          "aggressive",
+          "belligerent",
+          "pugnacious",
+          "confrontational"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dogmatic",
+    "pronunciation": "/dɒɡˈmætɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Giáo điều, cứng nhắc",
+        "examples": [
+          "You can't be dogmatic in matters of taste.",
+          "He was strident and dogmatic in giving his opinions.",
+          "Her employees find her bossy and dogmatic."
+        ],
+        "synonyms": [
+          "rigid",
+          "inflexible",
+          "doctrinaire",
+          "opinionated"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "interfering",
+    "pronunciation": "/ˌɪntəˈfɪərɪŋ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lắm chuyện, hay xen vào chuyện người khác",
+        "examples": [
+          "That interfering old cow has never liked me.",
+          "Some interfering busybody had rung the police.",
+          "As he is always interfering, I told him to mind his own business."
+        ],
+        "synonyms": [
+          "meddlesome",
+          "intrusive",
+          "nosy",
+          "prying"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "flair",
+    "pronunciation": "/fleər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Năng khiếu, tài năng tự nhiên",
+        "examples": [
+          "Jo has a flair for languages.",
+          "His business skill complements her flair for design.",
+          "He shows a flair for clerical work, though."
+        ],
+        "synonyms": [
+          "talent",
+          "knack",
+          "gift",
+          "aptitude"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deftness",
+    "pronunciation": "/ˈdeftnɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự khéo léo, nhanh nhẹn",
+        "examples": [
+          "The deftness of his fingering captivates her.",
+          "Handling delicate instruments requires deftness.",
+          "All your skill and deftness are necessary for you in this intergalactic war."
+        ],
+        "synonyms": [
+          "skill",
+          "dexterity",
+          "nimbleness",
+          "agility"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dexterity",
+    "pronunciation": "/dekˈsterɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự khéo léo, nhanh tay",
+        "examples": [
+          "He caught the ball with great dexterity.",
+          "She handled the discussion with dexterity.",
+          "No great manual dexterity is required to perform the technique."
+        ],
+        "synonyms": [
+          "skill",
+          "agility",
+          "nimbleness",
+          "finesse"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "decent",
+    "pronunciation": "/ˈdiːsnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tử tế, đứng đắn, tươm tất",
+        "examples": [
+          "Nearby is a village with a decent pub.",
+          "He seemed like a decent sort of a fellow.",
+          "Are you decent?"
+        ],
+        "synonyms": [
+          "respectable",
+          "proper",
+          "upright",
+          "honourable"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "vain",
+    "pronunciation": "/veɪn/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Phù phiếm, kiêu ngạo",
+        "examples": [
+          "He was self-important, vain and ignorant.",
+          "I think he is shallow, vain and untrustworthy.",
+          "She's just a vain, foolish woman."
+        ],
+        "synonyms": [
+          "conceited",
+          "narcissistic",
+          "self-admiring",
+          "pompous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "decisive",
+    "pronunciation": "/dɪˈsaɪsɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Quyết đoán, dứt khoát",
+        "examples": [
+          "You need to be more decisive.",
+          "He has a decisive majority over his main rivals.",
+          "A decisive person acts quickly and often succeeds."
+        ],
+        "synonyms": [
+          "resolute",
+          "determined",
+          "firm",
+          "unwavering"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enthusiastic",
+    "pronunciation": "/ɪnˌθjuːziˈæstɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhiệt tình, hào hứng",
+        "examples": [
+          "He is enthusiastic about pop music.",
+          "All the staff are enthusiastic about the project.",
+          "I am enthusiastic over a project for building a new bridge."
+        ],
+        "synonyms": [
+          "eager",
+          "keen",
+          "ardent",
+          "passionate"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "guile",
+    "pronunciation": "/ɡaɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mưu mô, thủ đoạn",
+        "examples": [
+          "I love children's innocence and lack of guile.",
+          "The qualities these men admired included guile alongside bravery.",
+          "Her guile and genius has helped Cane establish a seemingly unassailable lead over the weak and divided Opposition."
+        ],
+        "synonyms": [
+          "cunning",
+          "deceit",
+          "slyness",
+          "trickery"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "insubordinate",
+    "pronunciation": "/ˌɪnsəˈbɔːrdɪnɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất phục tùng, không tuân lệnh",
+        "examples": [
+          "Many teachers dislike insubordinate children.",
+          "That's an insubordinate response.",
+          "In industry, a worker who is grossly insubordinate is threatened with discharge."
+        ],
+        "synonyms": [
+          "defiant",
+          "disobedient",
+          "rebellious",
+          "mutinous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "indiscriminate",
+    "pronunciation": "/ˌɪndɪˈskrɪmɪnɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bừa bãi, không phân biệt",
+        "examples": [
+          "The indiscriminate use of fertilizers can cause long-term problems.",
+          "She's always been indiscriminate in her choice of friends.",
+          "She disapproved of her son's indiscriminate television viewing."
+        ],
+        "synonyms": [
+          "random",
+          "wholesale",
+          "haphazard",
+          "unselective"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "knowledgeable",
+    "pronunciation": "/ˈnɒlɪdʒəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hiểu biết rộng, thông thạo",
+        "examples": [
+          "Her lawyer seemed very knowledgeable and experienced.",
+          "Cocaine addicts get specialized support from knowledgeable staff.",
+          "We had a knowledgeable guide in the person of George Adams."
+        ],
+        "synonyms": [
+          "well-informed",
+          "learned",
+          "expert",
+          "erudite"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "presumptuous",
+    "pronunciation": "/prɪˈzʌmptʃuəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tự phụ, hỗn láo, lố lăng",
+        "examples": [
+          "It is too presumptuous of him to do so.",
+          "It would be presumptuous to judge what the outcome will be.",
+          "If not, perhaps he should before making such presumptuous statements."
+        ],
+        "synonyms": [
+          "arrogant",
+          "overconfident",
+          "forward",
+          "impertinent"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pragmatic",
+    "pronunciation": "/præɡˈmætɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thực dụng, thực tế",
+        "examples": [
+          "Our approach is essentially pragmatic.",
+          "They're pragmatic about the spending cuts.",
+          "It originally existed for pragmatic reasons."
+        ],
+        "synonyms": [
+          "practical",
+          "realistic",
+          "sensible",
+          "down-to-earth"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "benevolent",
+    "pronunciation": "/bɪˈnevələnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhân từ, nhân hậu",
+        "examples": [
+          "A benevolent uncle paid for her to have music lessons.",
+          "The boss smiled at us all like a benevolent uncle.",
+          "Their whole system of belief presupposes a benevolent God."
+        ],
+        "synonyms": [
+          "kind",
+          "charitable",
+          "generous",
+          "philanthropic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "staunch",
+    "pronunciation": "/stɔːntʃ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Trung thành, kiên định",
+        "examples": [
+          "Politically, she is a staunch opponent of reform.",
+          "He also initiated a staunch campaign urging retractions.",
+          "She's a staunch advocate of free trade."
+        ],
+        "synonyms": [
+          "loyal",
+          "devoted",
+          "steadfast",
+          "unwavering"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "underappreciated",
+    "pronunciation": "/ˌʌndərəˈpriːʃieɪtɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bị đánh giá thấp, không được trân trọng",
+        "examples": [
+          "Aspiring filmmakers, are you feeling overlooked, underappreciated, and undiscovered?",
+          "Teachers are often underappreciated despite the crucial role they play.",
+          "She felt underappreciated and decided to look for a new job."
+        ],
+        "synonyms": [
+          "undervalued",
+          "overlooked",
+          "unrecognised"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "flabby",
+    "pronunciation": "/ˈflæbi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhão, mềm nhẽo, thiếu cơ bắp",
+        "examples": [
+          "Exercises to firm up flabby thighs.",
+          "Because he is so flabby in his body I think.",
+          "Weak muscles will give you a flabby shape and bad posture."
+        ],
+        "synonyms": [
+          "flaccid",
+          "soft",
+          "weak",
+          "out of shape"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "posture",
+    "pronunciation": "/ˈpɒstʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tư thế, dáng đứng",
+        "examples": [
+          "If bad posture becomes habitual, you risk long-term effects.",
+          "Poor posture will give you backache.",
+          "Back pains can be the result of bad posture."
+        ],
+        "synonyms": [
+          "stance",
+          "bearing",
+          "position",
+          "attitude"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "negligent",
+    "pronunciation": "/ˈneɡlɪdʒənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cẩu thả, thiếu trách nhiệm",
+        "examples": [
+          "The judge said that the teacher had been negligent in allowing the children to swim in dangerous water.",
+          "She was negligent in her work.",
+          "Mr Brown was found guilty of negligent driving."
+        ],
+        "synonyms": [
+          "careless",
+          "neglectful",
+          "remiss",
+          "irresponsible"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "feeble",
+    "pronunciation": "/ˈfiːbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Yếu đuối, thiếu hiệu quả",
+        "examples": [
+          "She ignored his feeble attempt at humour.",
+          "She replied in but a feeble voice.",
+          "The heartbeat was feeble and irregular."
+        ],
+        "synonyms": [
+          "weak",
+          "frail",
+          "ineffective",
+          "faint"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "folly",
+    "pronunciation": "/ˈfɒli/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ngu ngốc, hành động dại dột",
+        "examples": [
+          "Folly is an incurable disease.",
+          "Answer a fool according to his folly.",
+          "It is the nature of folly to see the faults of others and forget his own."
+        ],
+        "synonyms": [
+          "foolishness",
+          "stupidity",
+          "recklessness",
+          "absurdity"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fond",
+    "pronunciation": "/fɒnd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Yêu thích, trìu mến",
+        "examples": [
+          "Boys are fond of playing football.",
+          "Many people are fond of French cheeses.",
+          "She is looking fondly at the plants he had nurtured."
+        ],
+        "synonyms": [
+          "affectionate",
+          "loving",
+          "devoted",
+          "attached"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "frailty",
+    "pronunciation": "/ˈfreɪlti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự yếu đuối, mong manh",
+        "examples": [
+          "Though ill for most of her life, physical frailty never stopped her from working.",
+          "Most important is the factor of human frailty.",
+          "His impatience was sharpened by the girl's frailty."
+        ],
+        "synonyms": [
+          "weakness",
+          "fragility",
+          "vulnerability",
+          "delicacy"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "frenetic",
+    "pronunciation": "/frəˈnetɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Điên cuồng, hỗn loạn, hối hả",
+        "examples": [
+          "It generated much excitement and frenetic activity.",
+          "Liverpool scored two goals in a frenetic final ten minutes.",
+          "She rushed from city to city at a frenetic pace."
+        ],
+        "synonyms": [
+          "frantic",
+          "hectic",
+          "frenzied",
+          "chaotic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deaf",
+    "pronunciation": "/def/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Điếc, không chịu lắng nghe",
+        "examples": [
+          "Deaf people and dumb people are disabled.",
+          "The teachers were deaf to our requests.",
+          "His grandfather became deaf in old age."
+        ],
+        "synonyms": [
+          "hearing-impaired",
+          "unhearing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dignity",
+    "pronunciation": "/ˈdɪɡnɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phẩm giá, sự trang nghiêm",
+        "examples": [
+          "He is a man of dignity and calm determination.",
+          "The dignity of the occasion was spoilt when she fell down the steps.",
+          "I struggled to regain some dignity."
+        ],
+        "synonyms": [
+          "self-respect",
+          "honour",
+          "poise",
+          "gravitas"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "defiant",
+    "pronunciation": "/dɪˈfaɪənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thách thức, ngang ngạnh",
+        "examples": [
+          "She had suddenly turned into a defiant teenager.",
+          "She looked at him with a defiant air.",
+          "With a last defiant gesture, they sang a revolutionary song as they were led away to prison."
+        ],
+        "synonyms": [
+          "rebellious",
+          "resistant",
+          "insubordinate",
+          "confrontational"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "insidious",
+    "pronunciation": "/ɪnˈsɪdiəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nham hiểm, xảo quyệt, ngấm ngầm",
+        "examples": [
+          "Organized crime has an insidious influence on all who come into contact with it.",
+          "High-blood pressure is an insidious condition which has few symptoms.",
+          "Employee advocates argue that the policies are an insidious way for companies to take away statutory rights that Congress granted workers."
+        ],
+        "synonyms": [
+          "treacherous",
+          "cunning",
+          "subtle",
+          "devious"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "droll",
+    "pronunciation": "/droʊl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hài hước kỳ lạ, buồn cười",
+        "examples": [
+          "Normally his expression was droll, with a hint of humour about the mouth and eyes.",
+          "He looked at her with a droll sort of awakening.",
+          "So he thinks I'm going to apologize? How very droll!"
+        ],
+        "synonyms": [
+          "quirky",
+          "whimsical",
+          "comical",
+          "amusing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deft",
+    "pronunciation": "/deft/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Khéo léo, nhanh nhẹn",
+        "examples": [
+          "Her movements were deft and quick.",
+          "With deft fingers she untangled the wire.",
+          "The pianist has deft fingers."
+        ],
+        "synonyms": [
+          "skilful",
+          "adroit",
+          "nimble",
+          "agile"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "despot",
+    "pronunciation": "/ˈdespɒt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ độc tài, bạo chúa",
+        "examples": [
+          "Qin was a cruel despot who burned books and had scholars put to death.",
+          "The local despot trenched on the temple's property.",
+          "He was a despot with a heart of granite."
+        ],
+        "synonyms": [
+          "tyrant",
+          "dictator",
+          "autocrat",
+          "oppressor"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sluggish",
+    "pronunciation": "/ˈslʌɡɪʃ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Uể oải, trì trệ, chậm chạp",
+        "examples": [
+          "This humid heat makes you feel rather sluggish.",
+          "A heavy lunch makes me sluggish in the afternoon.",
+          "Alex woke late feeling tired and sluggish."
+        ],
+        "synonyms": [
+          "lethargic",
+          "slow",
+          "listless",
+          "torpid"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arrogance",
+    "pronunciation": "/ˈærəɡəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự kiêu ngạo, ngạo mạn",
+        "examples": [
+          "I disliked him for his arrogance.",
+          "His arrogance made him absolutely unbearable!",
+          "Her arrogance has disenchanted many of her former admirers."
+        ],
+        "synonyms": [
+          "conceit",
+          "haughtiness",
+          "pomposity",
+          "hubris"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "righteous",
+    "pronunciation": "/ˈraɪtʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chính trực, ngay thẳng",
+        "examples": [
+          "He was regarded as a righteous and holy man.",
+          "They were full of righteous indignation at the thought of being cheated.",
+          "No matter how good and righteous you think your cause is, you cannot break the law."
+        ],
+        "synonyms": [
+          "moral",
+          "upright",
+          "virtuous",
+          "principled"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dastardly",
+    "pronunciation": "/ˈdæstərdli/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hèn hạ, đê tiện, nham hiểm",
+        "examples": [
+          "A dastardly plot to assassinate the king.",
+          "Finally the dastardly renegade arrives, and engages Sister Chiang in conversation.",
+          "Let's suppose someone were dastardly enough to harbor such thoughts."
+        ],
+        "synonyms": [
+          "villainous",
+          "cowardly",
+          "despicable",
+          "contemptible"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "despicable",
+    "pronunciation": "/dɪˈspɪkəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đáng khinh bỉ, đê hèn",
+        "examples": [
+          "It's despicable the way he treats those kids.",
+          "From beginning to end his conduct had been despicable and wicked.",
+          "It is despicable to desert your children."
+        ],
+        "synonyms": [
+          "contemptible",
+          "vile",
+          "loathsome",
+          "wretched"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "wicked",
+    "pronunciation": "/ˈwɪkɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Độc ác, gian ác",
+        "examples": [
+          "From beginning to end his conduct had been despicable and wicked.",
+          "It's wicked of them to say such things.",
+          "Wicked men obey from fear, good man from love."
+        ],
+        "synonyms": [
+          "evil",
+          "sinful",
+          "vicious",
+          "immoral"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dodgy",
+    "pronunciation": "/ˈdɒdʒi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đáng ngờ, không đáng tin, lén lút",
+        "examples": [
+          "I don't want to get involved in anything dodgy.",
+          "One girl thought the men looked dodgy.",
+          "The weather might be a bit dodgy at this time of year."
+        ],
+        "synonyms": [
+          "dubious",
+          "suspicious",
+          "shady",
+          "unreliable"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dexterous",
+    "pronunciation": "/ˈdekstrəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Khéo léo, khéo tay",
+        "examples": [
+          "As people grow older they generally become less dexterous.",
+          "The manager was dexterous in handling his staff.",
+          "This little girl is dexterous."
+        ],
+        "synonyms": [
+          "skilled",
+          "adroit",
+          "nimble",
+          "deft"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dull",
+    "pronunciation": "/dʌl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Buồn tẻ, đần độn, chậm chạp",
+        "examples": [
+          "After a dull start, it should brighten up later.",
+          "The house was dull, old-fashioned and in bad condition.",
+          "The first half of the game was pretty dull."
+        ],
+        "synonyms": [
+          "boring",
+          "tedious",
+          "dim",
+          "slow"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "usher",
+    "pronunciation": "/ˈʌʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người hướng dẫn, người dẫn chỗ",
+        "examples": [
+          "The usher bowed us into the theatre.",
+          "The guests were bowed in by the usher.",
+          "He did part-time work as an usher in a theatre."
+        ],
+        "synonyms": [
+          "guide",
+          "attendant",
+          "escort",
+          "doorman"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "unyielding",
+    "pronunciation": "/ˌʌnˈjiːldɪŋ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cứng đầu, không nhượng bộ",
+        "examples": [
+          "The mattress was hard and unyielding.",
+          "His father was very strict and unyielding.",
+          "It was unyielding as iron, yet he had never felt so peaceful."
+        ],
+        "synonyms": [
+          "stubborn",
+          "inflexible",
+          "resolute",
+          "steadfast"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sentimental",
+    "pronunciation": "/ˌsentɪˈmentl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đa sầu đa cảm, ủy mị",
+        "examples": [
+          "In the sentimental days, I take time, messy floating.",
+          "He has a strong sentimental attachment to the place.",
+          "For sentimental reasons I wanted to delay my departure until June."
+        ],
+        "synonyms": [
+          "nostalgic",
+          "emotional",
+          "mawkish",
+          "soppy"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "curt",
+    "pronunciation": "/kɜːrt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cộc lốc, ngắn gọn thô lỗ",
+        "examples": [
+          "He dismissed them with a curt nod.",
+          "The boss was rather curt with him.",
+          "He gave me an extremely curt answer."
+        ],
+        "synonyms": [
+          "abrupt",
+          "blunt",
+          "terse",
+          "brusque"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "upright",
+    "pronunciation": "/ˈʌpraɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thẳng đứng, chính trực, ngay thẳng",
+        "examples": [
+          "An empty bag cannot stand upright.",
+          "The nursery teacher made the children sit bolt upright.",
+          "He was an upright and noble man who was always willing to help in any way he could."
+        ],
+        "synonyms": [
+          "honest",
+          "virtuous",
+          "principled",
+          "moral"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Trụ đứng, cột thẳng (kiến trúc, thể thao)",
+        "examples": [
+          "He nailed the upright to the wall.",
+          "The ball hit the goal upright and bounced back.",
+          "The tent poles serve as uprights to hold up the canopy."
+        ],
+        "synonyms": [
+          "post",
+          "column",
+          "vertical support"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "aide",
+    "pronunciation": "/eɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trợ lý",
+        "examples": [
+          "He served as an aide to the former president.",
+          "You've been an excellent aide to me.",
+          "Afterward, Brown asked an aide for some coffee."
+        ],
+        "synonyms": [
+          "assistant",
+          "helper",
+          "adviser",
+          "right-hand man"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "profiteer",
+    "pronunciation": "/ˌprɒfɪˈtɪər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ trục lợi",
+        "examples": [
+          "War profiteers were condemned for exploiting the crisis.",
+          "He was exposed as a profiteer who had inflated prices during the shortage.",
+          "The government introduced laws to crack down on profiteers."
+        ],
+        "synonyms": [
+          "opportunist",
+          "exploiter"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "steward",
+    "pronunciation": "/ˈstjuːərd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quản gia",
+        "examples": [
+          "The flight steward helped passengers with their luggage.",
+          "He served as steward of the estate for over thirty years.",
+          "The steward ensured that all guests were seated before the ceremony began."
+        ],
+        "synonyms": [
+          "administrator",
+          "manager",
+          "caretaker",
+          "flight attendant"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stern",
+    "pronunciation": "/stɜːrn/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nghiêm khắc, đuôi tàu",
+        "examples": [
+          "Mercy should alloy our stern resentment.",
+          "Mr Straw issued a stern warning to those who persist in violence.",
+          "Our team made a stern resolve to win."
+        ],
+        "synonyms": [
+          "strict",
+          "severe",
+          "austere",
+          "uncompromising"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Đuôi tàu (thuyền)",
+        "examples": [
+          "The captain stood at the stern of the ship.",
+          "The boat's stern was damaged in the collision.",
+          "She leaned over the stern to watch the wake."
+        ],
+        "synonyms": [
+          "back of ship",
+          "aft",
+          "rear"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stubborn",
+    "pronunciation": "/ˈstʌbərn/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cứng đầu, bướng bỉnh",
+        "examples": [
+          "She has inherited her mother's stubborn streak.",
+          "The stubborn student finally began to buckle under.",
+          "Use an abrasive pad for stubborn stains."
+        ],
+        "synonyms": [
+          "obstinate",
+          "tenacious",
+          "pig-headed",
+          "intransigent"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "vicious",
+    "pronunciation": "/ˈvɪʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hung dữ, tàn ác",
+        "examples": [
+          "His murder triggered vicious race riots.",
+          "He had a vicious side to his nature.",
+          "Let go of me, you vicious monster!"
+        ],
+        "synonyms": [
+          "brutal",
+          "savage",
+          "ferocious",
+          "cruel"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "subjectivity",
+    "pronunciation": "/ˌsʌbdʒekˈtɪvɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tính chủ quan",
+        "examples": [
+          "In studying a problem, we must shun subjectivity.",
+          "There's always an element of subjectivity in decision-making.",
+          "The tendency to keep falling into the subjectivity trap usually brings with it a tendency to confuse goals with methods."
+        ],
+        "synonyms": [
+          "bias",
+          "personal view",
+          "prejudice",
+          "partiality"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "grin",
+    "pronunciation": "/ɡrɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nụ cười toe toét, cười toe toét",
+        "examples": [
+          "She had a big grin on her face.",
+          "Bobby looked at her with a sheepish grin.",
+          "He gave me a toothy grin."
+        ],
+        "synonyms": [
+          "smile",
+          "smirk",
+          "beam"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cười toe toét, nở nụ cười rộng",
+        "examples": [
+          "She grinned with delight when she heard the news.",
+          "He grinned at her from across the room.",
+          "Stop grinning and tell me what's so funny."
+        ],
+        "synonyms": [
+          "smile broadly",
+          "beam",
+          "smirk"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "giggle",
+    "pronunciation": "/ˈɡɪɡl/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Cười khúc khích",
+        "examples": [
+          "Both girls began to giggle.",
+          "We had quite a giggle about the new office romance.",
+          "I just managed to stifle a giggle at the absurd idea."
+        ],
+        "synonyms": [
+          "titter",
+          "snicker",
+          "chuckle"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Tiếng cười khúc khích",
+        "examples": [
+          "She let out a nervous giggle.",
+          "The children burst into giggles at the clown's act.",
+          "He suppressed a giggle during the serious speech."
+        ],
+        "synonyms": [
+          "titter",
+          "snicker",
+          "chuckle"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shrewd",
+    "pronunciation": "/ʃruːd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tinh khôn, sắc sảo",
+        "examples": [
+          "She is a shrewd politician who wants to avoid offending the electorate unnecessarily.",
+          "Malcolm is a shrewd and realistic businessman.",
+          "Her novels were a vehicle for shrewd social comment."
+        ],
+        "synonyms": [
+          "astute",
+          "clever",
+          "sharp",
+          "perceptive"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scrawny",
+    "pronunciation": "/ˈskrɔːni/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Gầy còm, xương xẩu",
+        "examples": [
+          "There were a few scrawny chickens in the yard.",
+          "The most you will see is a scrawny arm waving desperately from between the bars.",
+          "We had a lot of scrawny veterans and their scrawny wives for friends."
+        ],
+        "synonyms": [
+          "skinny",
+          "bony",
+          "gaunt",
+          "lanky"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "squalor",
+    "pronunciation": "/ˈskwɒlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cảnh nghèo khổ nhếch nhác, ô uế",
+        "examples": [
+          "He was born in squalor next to London's docks.",
+          "I began to feel sentimental about the familiar squalor.",
+          "He had lost his job and was living in squalor."
+        ],
+        "synonyms": [
+          "filth",
+          "deprivation",
+          "poverty",
+          "wretchedness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "subservient",
+    "pronunciation": "/səbˈsɜːrviənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Phục tùng, lệ thuộc",
+        "examples": [
+          "She is expected to be subservient to her uncle.",
+          "His wife refused to accept a traditional subservient role.",
+          "The needs of individuals were subservient to those of the group as a whole."
+        ],
+        "synonyms": [
+          "submissive",
+          "obsequious",
+          "servile",
+          "deferential"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ingrate",
+    "pronunciation": "/ˈɪnɡreɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Kẻ vô ơn, bạc bẽo",
+        "examples": [
+          "This ingrate attitude and the unhealthy consumption negatively impact.",
+          "I will never make friends with such an ingrate again.",
+          "How could you be so ungrateful! Ingrate!"
+        ],
+        "synonyms": [
+          "ungrateful",
+          "thankless",
+          "unappreciative"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Kẻ vô ơn",
+        "examples": [
+          "She's an ingrate who never once thanked anyone for their help.",
+          "He called them ingrates after everything he had sacrificed.",
+          "History remembers him as an ingrate who betrayed his benefactors."
+        ],
+        "synonyms": [
+          "ingrate",
+          "thankless person"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "jealousy",
+    "pronunciation": "/ˈdʒeləsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ghen tuông, ganh ghét",
+        "examples": [
+          "His jealousy sets him on an inexorable course towards murder.",
+          "Love is never without jealousy.",
+          "His judgement was clouded by jealousy."
+        ],
+        "synonyms": [
+          "envy",
+          "possessiveness",
+          "covetousness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "inept",
+    "pronunciation": "/ɪˈnept/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Vụng về, thiếu năng lực",
+        "examples": [
+          "He was criticized for his inept handling of the problem.",
+          "He was always rather inept at sport.",
+          "He was an inept politician."
+        ],
+        "synonyms": [
+          "incompetent",
+          "clumsy",
+          "unskilled",
+          "bungling"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "irritability",
+    "pronunciation": "/ɪˌrɪtəˈbɪlɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tính cáu kỉnh, dễ bực bội",
+        "examples": [
+          "Patients usually suffer from increased irritability.",
+          "The following day is filled with fatigue and irritability, and just making it through the workday is a major feat.",
+          "It also causes irritability and lowers the immune system."
+        ],
+        "synonyms": [
+          "bad temper",
+          "testiness",
+          "prickliness",
+          "touchiness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ingenious",
+    "pronunciation": "/ɪnˈdʒiːniəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tài tình, khéo léo sáng tạo",
+        "examples": [
+          "His plots are always very ingenious.",
+          "The idea sounds quite ingenious.",
+          "He invented an ingenious excuse for his absence."
+        ],
+        "synonyms": [
+          "clever",
+          "creative",
+          "inventive",
+          "resourceful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "inquisitive",
+    "pronunciation": "/ɪnˈkwɪzɪtɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tò mò, hay hỏi han",
+        "examples": [
+          "Children are naturally inquisitive.",
+          "He's not by nature an inquisitive person.",
+          "Don't be so inquisitive. It's none of your business!"
+        ],
+        "synonyms": [
+          "curious",
+          "nosy",
+          "enquiring",
+          "probing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "impulsive",
+    "pronunciation": "/ɪmˈpʌlsɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bốc đồng, hành động theo cảm tính",
+        "examples": [
+          "His impulsive temperament regularly got him into difficulties.",
+          "He is impulsive in his actions.",
+          "In a burst of impulsive generosity, I offered to pay."
+        ],
+        "synonyms": [
+          "rash",
+          "spontaneous",
+          "hasty",
+          "impetuous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "generosity",
+    "pronunciation": "/ˌdʒenəˈrɒsɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự rộng lượng, hào phóng",
+        "examples": [
+          "In a burst of impulsive generosity, I offered to pay.",
+          "We adore them for their generosity.",
+          "Your generosity puts me to shame."
+        ],
+        "synonyms": [
+          "charity",
+          "liberality",
+          "magnanimity",
+          "altruism"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "immoral",
+    "pronunciation": "/ɪˈmɒrəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Vô đạo, bất lương",
+        "examples": [
+          "Deliberately making people suffer is immoral.",
+          "There's nothing immoral about wanting to earn more money.",
+          "It is my belief that nuclear weapons are immoral."
+        ],
+        "synonyms": [
+          "unethical",
+          "unprincipled",
+          "corrupt",
+          "indecent"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ingenuity",
+    "pronunciation": "/ˌɪndʒɪˈnjuːɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự thông minh sáng tạo, khéo léo",
+        "examples": [
+          "The children showed a lot of ingenuity.",
+          "We are looking for someone with ingenuity and imagination.",
+          "They adapted the available materials with great ingenuity."
+        ],
+        "synonyms": [
+          "creativity",
+          "inventiveness",
+          "resourcefulness",
+          "cleverness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tenacity",
+    "pronunciation": "/tɪˈnæsɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự kiên trì, bền bỉ",
+        "examples": [
+          "She succeeded by virtue of her tenacity rather than her talent.",
+          "Good luck is another name for tenacity of purpose.",
+          "They competed with skill and tenacity."
+        ],
+        "synonyms": [
+          "persistence",
+          "determination",
+          "stubbornness",
+          "perseverance"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tenacious",
+    "pronunciation": "/tɪˈneɪʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Kiên trì, bền bỉ, không bỏ cuộc",
+        "examples": [
+          "We should be tenacious of our rights.",
+          "She is tenacious in defence of her rights.",
+          "The approach is as persistent and tenacious as it is conventional and unimaginative."
+        ],
+        "synonyms": [
+          "persistent",
+          "determined",
+          "stubborn",
+          "resolute"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "astute",
+    "pronunciation": "/əˈstjuːt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tinh tế, nhạy bén, sắc sảo",
+        "examples": [
+          "He is an extremely astute political tactician.",
+          "She made an astute observation that changed the entire debate.",
+          "An astute reader will notice the symbolism woven throughout the text."
+        ],
+        "synonyms": [
+          "shrewd",
+          "clever",
+          "perceptive",
+          "sharp"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "timid",
+    "pronunciation": "/ˈtɪmɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhút nhát, rụt rè",
+        "examples": [
+          "Lucy is a rather timid child.",
+          "Timid children need gentle handling to build up their confidence.",
+          "These timid little creatures exude a pungent smell when threatened."
+        ],
+        "synonyms": [
+          "shy",
+          "fearful",
+          "meek",
+          "tentative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "timorous",
+    "pronunciation": "/ˈtɪmərəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Rụt rè, nhát gan",
+        "examples": [
+          "He is a reclusive, timorous creature.",
+          "She is as timorous as a rabbit.",
+          "Some delegates believe the final declaration is likely to be too timorous."
+        ],
+        "synonyms": [
+          "timid",
+          "fearful",
+          "nervous",
+          "cowardly"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reclusive",
+    "pronunciation": "/rɪˈkluːsɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Sống ẩn dật, xa lánh xã hội",
+        "examples": [
+          "She is very reclusive, to the point of shutting me out of her life.",
+          "She had been living a reclusive life in Los Angeles since her marriage broke up.",
+          "She had become increasingly ill and reclusive."
+        ],
+        "synonyms": [
+          "solitary",
+          "withdrawn",
+          "isolated",
+          "hermit-like"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "proficient",
+    "pronunciation": "/prəˈfɪʃnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thành thạo, giỏi",
+        "examples": [
+          "With practice, you should become proficient within six months.",
+          "She's proficient in two languages.",
+          "She's fairly proficient in Italian."
+        ],
+        "synonyms": [
+          "skilled",
+          "competent",
+          "adept",
+          "accomplished"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "polite",
+    "pronunciation": "/pəˈlaɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lịch sự",
+        "examples": [
+          "It's difficult to contradict someone politely.",
+          "He cannot refuse if you ask politely.",
+          "He is always polite to everyone."
+        ],
+        "synonyms": [
+          "courteous",
+          "well-mannered",
+          "civil",
+          "respectful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pride",
+    "pronunciation": "/praɪd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Lòng tự hào, tự hào",
+        "examples": [
+          "Pride goes before a fall.",
+          "By ignorance is pride increased, those most assume who know the least.",
+          "They have a fierce pride in their traditions."
+        ],
+        "synonyms": [
+          "take pride in",
+          "glory in",
+          "exult in"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Lòng tự hào; niềm kiêu hãnh; đàn sư tử",
+        "examples": [
+          "His pride would not allow him to admit defeat.",
+          "National pride was at stake in the competition.",
+          "She took great pride in her work."
+        ],
+        "synonyms": [
+          "self-respect",
+          "dignity",
+          "honour",
+          "vanity"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "precocious",
+    "pronunciation": "/prɪˈkoʊʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Sớm trưởng thành, phát triển sớm",
+        "examples": [
+          "He shows a precocious interest in the opposite sex.",
+          "From childhood, he was evidently at once rebellious and precocious.",
+          "In any case, I am cautious about pushing a precocious child on to first grade."
+        ],
+        "synonyms": [
+          "gifted",
+          "advanced",
+          "prodigious"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prudent",
+    "pronunciation": "/ˈpruːdnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thận trọng, khôn ngoan",
+        "examples": [
+          "He prudently pursued his plan.",
+          "They very prudently decided not to take the case to court.",
+          "It would be prudent to save some of the money."
+        ],
+        "synonyms": [
+          "wise",
+          "cautious",
+          "careful",
+          "sensible"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "petulant",
+    "pronunciation": "/ˈpetʃʊlənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hay hờn dỗi, hay cáu kỉnh",
+        "examples": [
+          "Her tone of voice became abrupt and petulant.",
+          "He became more petulant than ever.",
+          "He behaved like a petulant child and refused to cooperate."
+        ],
+        "synonyms": [
+          "irritable",
+          "peevish",
+          "sulky",
+          "pettish"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reluctant",
+    "pronunciation": "/rɪˈlʌktənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Miễn cưỡng, không tình nguyện",
+        "examples": [
+          "She was reluctant to share her personal information online.",
+          "He gave a reluctant nod and agreed to the terms.",
+          "The reluctant volunteer did his best despite his reservations."
+        ],
+        "synonyms": [
+          "unwilling",
+          "hesitant",
+          "loath",
+          "resistant"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reprehensible",
+    "pronunciation": "/ˌreprɪˈhensɪbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đáng chê trách, đáng lên án",
+        "examples": [
+          "His behaviour at the meeting was utterly reprehensible.",
+          "Stealing from the elderly is morally reprehensible.",
+          "The committee condemned the reprehensible treatment of prisoners."
+        ],
+        "synonyms": [
+          "blameworthy",
+          "shameful",
+          "deplorable",
+          "condemnable"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rapacious",
+    "pronunciation": "/rəˈpeɪʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tham lam, háo của",
+        "examples": [
+          "The rapacious corporation destroyed the local ecosystem.",
+          "His rapacious appetite for wealth alienated his friends.",
+          "Rapacious landlords were blamed for the housing crisis."
+        ],
+        "synonyms": [
+          "greedy",
+          "grasping",
+          "avaricious",
+          "predatory"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rational",
+    "pronunciation": "/ˈræʃnəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lý trí, hợp lý",
+        "examples": [
+          "Try to remain rational even when emotions run high.",
+          "She made a rational decision based on the available evidence.",
+          "It's not always easy to be rational in a crisis."
+        ],
+        "synonyms": [
+          "logical",
+          "reasonable",
+          "sensible",
+          "level-headed"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "repentant",
+    "pronunciation": "/rɪˈpentənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hối lỗi, thực sự ăn năn",
+        "examples": [
+          "The repentant offender was given a lighter sentence.",
+          "She appeared genuinely repentant at the hearing.",
+          "A repentant heart is the first step toward change."
+        ],
+        "synonyms": [
+          "remorseful",
+          "penitent",
+          "contrite",
+          "regretful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "boorish",
+    "pronunciation": "/ˈbʊərɪʃ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thô lỗ, cục cằn",
+        "examples": [
+          "His boorish behaviour at the dinner table embarrassed everyone.",
+          "She refused to tolerate his boorish attitude any longer.",
+          "Boorish guests who ignore social norms are difficult to invite back."
+        ],
+        "synonyms": [
+          "rude",
+          "crude",
+          "loutish",
+          "uncouth"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cruel",
+    "pronunciation": "/kruːəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tàn nhẫn, độc ác",
+        "examples": [
+          "It was cruel of him to mock someone for their appearance.",
+          "The cruel treatment of animals is a serious legal offence.",
+          "War can bring out both the best and cruellest sides of humanity."
+        ],
+        "synonyms": [
+          "brutal",
+          "heartless",
+          "merciless",
+          "sadistic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brutal",
+    "pronunciation": "/ˈbruːtl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tàn bạo, hung hãn, thẳng thừng đến mức khó chịu",
+        "examples": [
+          "The brutal attack left the victim in critical condition.",
+          "She appreciated his brutal honesty, even if it hurt.",
+          "The training regime was brutal but effective."
+        ],
+        "synonyms": [
+          "savage",
+          "violent",
+          "vicious",
+          "harsh"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "manipulative",
+    "pronunciation": "/məˈnɪpjʊlɪtɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hay thao túng người khác",
+        "examples": [
+          "He was charming but ultimately manipulative.",
+          "Manipulative behaviour undermines trust in any relationship.",
+          "The film explores how a manipulative leader controls his followers."
+        ],
+        "synonyms": [
+          "scheming",
+          "devious",
+          "calculating",
+          "exploitative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cantankerous",
+    "pronunciation": "/kænˈtæŋkərəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hay cáu kỉnh, khó tính",
+        "examples": [
+          "The cantankerous old man complained about everything.",
+          "Her cantankerous attitude made collaboration nearly impossible.",
+          "Despite his cantankerous exterior, he was kind-hearted."
+        ],
+        "synonyms": [
+          "bad-tempered",
+          "grumpy",
+          "irritable",
+          "quarrelsome"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clumsy",
+    "pronunciation": "/ˈklʌmzi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Vụng về, kém khéo léo",
+        "examples": [
+          "He was so clumsy that he knocked over three glasses in one evening.",
+          "Her clumsy attempt at an apology only made things worse.",
+          "Even a clumsy first draft can become a masterpiece with revision."
+        ],
+        "synonyms": [
+          "awkward",
+          "ungainly",
+          "ham-fisted",
+          "maladroit"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coward",
+    "pronunciation": "/ˈkaʊərd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ hèn nhát",
+        "examples": [
+          "Don't be a coward — stand up for what you believe in.",
+          "He was branded a coward for abandoning his unit.",
+          "It takes more courage to admit fear than to pretend you're not a coward."
+        ],
+        "synonyms": [
+          "weakling",
+          "chicken",
+          "poltroon"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cowardice",
+    "pronunciation": "/ˈkaʊərdɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự hèn nhát",
+        "examples": [
+          "Cowardice in the face of injustice is its own kind of crime.",
+          "He was accused of cowardice for refusing to speak out.",
+          "The general called their retreat cowardice, others called it strategy."
+        ],
+        "synonyms": [
+          "timidity",
+          "fearfulness",
+          "spinelessness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "complacent",
+    "pronunciation": "/kəmˈpleɪsnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tự mãn, thoả mãn với hiện tại một cách thụ động",
+        "examples": [
+          "Don't become complacent just because things are going well.",
+          "The team grew complacent after winning several matches in a row.",
+          "A complacent attitude toward security can lead to serious breaches."
+        ],
+        "synonyms": [
+          "self-satisfied",
+          "smug",
+          "uncritical",
+          "content"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conscientiousness",
+    "pronunciation": "/ˌkɒnʃiˈenʃəsnɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tính cẩn thận, tận tâm",
+        "examples": [
+          "Her conscientiousness made her the most reliable employee.",
+          "Conscientiousness is one of the strongest predictors of career success.",
+          "He approached every task with admirable conscientiousness."
+        ],
+        "synonyms": [
+          "diligence",
+          "care",
+          "thoroughness",
+          "meticulousness"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "contrite",
+    "pronunciation": "/ˈkɒntraɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hối hận, ăn năn thật sự",
+        "examples": [
+          "She sent a contrite apology letter the following morning.",
+          "He looked genuinely contrite after realising what he had done.",
+          "A contrite tone can go a long way in resolving conflict."
+        ],
+        "synonyms": [
+          "remorseful",
+          "penitent",
+          "repentant",
+          "regretful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cocky",
+    "pronunciation": "/ˈkɒki/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tự phụ, kiêu ngạo",
+        "examples": [
+          "His cocky attitude rubbed his teammates the wrong way.",
+          "She was cocky at first but humbled after losing the competition.",
+          "Being confident is good, being cocky is off-putting."
+        ],
+        "synonyms": [
+          "arrogant",
+          "overconfident",
+          "brash",
+          "presumptuous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cocksure",
+    "pronunciation": "/ˌkɒkˈʃɔːr/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Quá tự tin đến mức ngạo mạn",
+        "examples": [
+          "His cocksure manner in the boardroom alienated his colleagues.",
+          "Don't be so cocksure — the outcome is far from certain.",
+          "She was cocksure about winning until the final round."
+        ],
+        "synonyms": [
+          "overconfident",
+          "brash",
+          "arrogant",
+          "complacent"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brashness",
+    "pronunciation": "/ˈbræʃnɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bốc đồng, hỗn láo, tự tin quá mức",
+        "examples": [
+          "His brashness in the meeting was off-putting to the senior staff.",
+          "Youthful brashness can sometimes be mistaken for confidence.",
+          "She tempered her natural brashness as she gained experience."
+        ],
+        "synonyms": [
+          "impudence",
+          "audacity",
+          "boldness",
+          "insolence"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brusque",
+    "pronunciation": "/brʌsk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cộc lốc, nói chuyện thẳng thắn thô lỗ",
+        "examples": [
+          "His brusque reply made her feel unwelcome.",
+          "She was brusque but fair — no one ever doubted where they stood.",
+          "The doctor was efficient but a little brusque with patients."
+        ],
+        "synonyms": [
+          "abrupt",
+          "curt",
+          "blunt",
+          "gruff"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barbaric",
+    "pronunciation": "/bɑːrˈbærɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Man rợ, dã man",
+        "examples": [
+          "The prisoners were subjected to barbaric treatment.",
+          "Many considered the public execution barbaric.",
+          "The documentary exposed the barbaric conditions in the facility."
+        ],
+        "synonyms": [
+          "savage",
+          "brutal",
+          "uncivilised",
+          "primitive"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "notorious",
+    "pronunciation": "/noʊˈtɔːriəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nổi tiếng xấu, khét tiếng",
+        "examples": [
+          "He was notorious for arriving late to every meeting.",
+          "The area was notorious for its high crime rate.",
+          "She became notorious after the scandal broke in the press."
+        ],
+        "synonyms": [
+          "infamous",
+          "disreputable",
+          "scandalous",
+          "ill-famed"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nefarious",
+    "pronunciation": "/nɪˈfeəriəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Độc ác, gian ác",
+        "examples": [
+          "The investigation uncovered his nefarious business practices.",
+          "She refused to be part of any nefarious scheme.",
+          "Nefarious actors online try to steal personal data."
+        ],
+        "synonyms": [
+          "wicked",
+          "criminal",
+          "villainous",
+          "evil"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nimble",
+    "pronunciation": "/ˈnɪmbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhanh nhẹn, linh hoạt",
+        "examples": [
+          "She was nimble enough to dodge the falling object.",
+          "His nimble fingers worked the instrument with ease.",
+          "A nimble mind adapts quickly to new situations."
+        ],
+        "synonyms": [
+          "agile",
+          "quick",
+          "spry",
+          "dexterous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nasty",
+    "pronunciation": "/ˈnæsti/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Khó chịu, ghê tởm, ác ý",
+        "examples": [
+          "He made a nasty remark about her appearance.",
+          "That was a nasty fall — are you sure you're not hurt?",
+          "The weather turned nasty just as we reached the summit."
+        ],
+        "synonyms": [
+          "unpleasant",
+          "horrible",
+          "vicious",
+          "mean"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lenient",
+    "pronunciation": "/ˈliːniənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Khoan dung, nhẹ tay",
+        "examples": [
+          "The judge was lenient because it was his first offence.",
+          "Critics argued the penalty was too lenient.",
+          "Her lenient parenting style allowed her children creative freedom."
+        ],
+        "synonyms": [
+          "merciful",
+          "tolerant",
+          "forgiving",
+          "easy-going"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lecherous",
+    "pronunciation": "/ˈletʃərəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dâm dật, háo sắc",
+        "examples": [
+          "The lecherous boss was reported to HR for inappropriate behaviour.",
+          "She was uncomfortable with his lecherous stares.",
+          "The novel's villain is portrayed as lecherous and power-hungry."
+        ],
+        "synonyms": [
+          "lustful",
+          "licentious",
+          "lascivious",
+          "lewd"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "laborious",
+    "pronunciation": "/ləˈbɔːriəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cực nhọc, tốn nhiều công sức",
+        "examples": [
+          "The laborious task of translating the ancient text took years.",
+          "Sorting through ten thousand documents was a laborious process.",
+          "He found the laborious climb rewarding once he reached the top."
+        ],
+        "synonyms": [
+          "arduous",
+          "tedious",
+          "strenuous",
+          "toilsome"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "assiduous",
+    "pronunciation": "/əˈsɪdjuəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chuyên cần, cần cù",
+        "examples": [
+          "Her assiduous preparation paid off in the final exam.",
+          "He was assiduous in documenting every detail of the experiment.",
+          "Assiduous students consistently outperform less dedicated peers."
+        ],
+        "synonyms": [
+          "diligent",
+          "industrious",
+          "hard-working",
+          "persevering"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "audacious",
+    "pronunciation": "/ɔːˈdeɪʃəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Táo bạo, liều lĩnh nhưng đầy tự tin",
+        "examples": [
+          "The audacious plan worked, much to everyone's surprise.",
+          "It was audacious of him to challenge the CEO publicly.",
+          "Her audacious fashion choices made headlines."
+        ],
+        "synonyms": [
+          "bold",
+          "daring",
+          "fearless",
+          "brazen"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "autocratic",
+    "pronunciation": "/ˌɔːtəˈkrætɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Độc đoán, chuyên quyền",
+        "examples": [
+          "His autocratic leadership style created a culture of fear.",
+          "The autocratic ruler refused to allow free elections.",
+          "An autocratic manager rarely gets the best from their team."
+        ],
+        "synonyms": [
+          "dictatorial",
+          "despotic",
+          "authoritarian",
+          "tyrannical"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ardent",
+    "pronunciation": "/ˈɑːrdnt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhiệt thành, say mê",
+        "examples": [
+          "She was an ardent supporter of environmental causes.",
+          "He remained an ardent believer in peaceful protest.",
+          "His ardent love for music shaped every decision in his life."
+        ],
+        "synonyms": [
+          "passionate",
+          "fervent",
+          "eager",
+          "zealous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "amicable",
+    "pronunciation": "/ˈæmɪkəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hòa nhã, thân thiện, ôn hòa",
+        "examples": [
+          "They reached an amicable settlement without going to court.",
+          "The divorce was surprisingly amicable.",
+          "He was known for his amicable nature and easy smile."
+        ],
+        "synonyms": [
+          "friendly",
+          "affable",
+          "cordial",
+          "pleasant"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "altruism",
+    "pronunciation": "/ˈæltruɪzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lòng vị tha",
+        "examples": [
+          "She volunteered out of pure altruism, expecting nothing in return.",
+          "Altruism is the foundation of many great humanitarian movements.",
+          "Some psychologists debate whether true altruism exists."
+        ],
+        "synonyms": [
+          "selflessness",
+          "generosity",
+          "philanthropy",
+          "benevolence"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "affluent",
+    "pronunciation": "/ˈæfluənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Giàu có, sung túc",
+        "examples": [
+          "The school attracted students from affluent families.",
+          "She grew up in an affluent neighbourhood with every advantage.",
+          "Affluent nations have a responsibility to aid developing countries."
+        ],
+        "synonyms": [
+          "wealthy",
+          "prosperous",
+          "rich",
+          "well-off"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "affectation",
+    "pronunciation": "/ˌæfekˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cách cư xử giả tạo, điệu bộ",
+        "examples": [
+          "His British accent was an affectation — he had never been to England.",
+          "She dropped all affectation and spoke plainly for once.",
+          "The film mocks the affectations of high society."
+        ],
+        "synonyms": [
+          "pretension",
+          "airs",
+          "mannerism",
+          "pose"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "articulate",
+    "pronunciation": "/ɑːrˈtɪkjʊlɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Diễn đạt rõ ràng mạch lạc",
+        "examples": [
+          "She is one of the most articulate speakers I have ever heard.",
+          "He struggled to articulate his feelings after the shock.",
+          "An articulate leader can inspire even in times of crisis."
+        ],
+        "synonyms": [
+          "eloquent",
+          "well-spoken",
+          "fluent",
+          "expressive"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Diễn đạt rõ ràng bằng lời nói; phát âm rõ",
+        "examples": [
+          "She articulated her concerns clearly at the meeting.",
+          "He found it hard to articulate what he was feeling.",
+          "The speaker articulated each point with great precision."
+        ],
+        "synonyms": [
+          "express",
+          "communicate",
+          "voice",
+          "verbalise"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "avarice",
+    "pronunciation": "/ˈævərɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lòng tham lam (đặc biệt về tiền bạc)",
+        "examples": [
+          "His avarice ultimately led to his downfall.",
+          "The fable warns against avarice and selfishness.",
+          "Avarice blinds people to everything except material gain."
+        ],
+        "synonyms": [
+          "greed",
+          "covetousness",
+          "cupidity",
+          "materialism"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "artifice",
+    "pronunciation": "/ˈɑːrtɪfɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mưu mẹo, thủ đoạn, sự giả tạo",
+        "examples": [
+          "The magician's act was full of artifice and illusion.",
+          "She saw through his artifice and refused to be deceived.",
+          "Great literature uses artifice to reveal deeper truths."
+        ],
+        "synonyms": [
+          "cunning",
+          "deception",
+          "trickery",
+          "guile"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "treacherous",
+    "pronunciation": "/ˈtretʃərəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Xảo quyệt, đang có ý định hãm hại bạn, nguy hiểm",
+        "examples": [
+          "He publicly left the party and denounced its treacherous leaders.",
+          "She was swept away by the treacherous currents.",
+          "His treacherous actions brought down ruin on himself."
+        ],
+        "synonyms": [
+          "traitorous",
+          "disloyal",
+          "deceitful",
+          "backstabbing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "devious",
+    "pronunciation": "/ˈdiːviəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Xảo quyệt",
+        "examples": [
+          "She led him by devious ways to the meeting place.",
+          "He has a very devious mind.",
+          "Susan is a devious person and we can't depend on her."
+        ],
+        "synonyms": [
+          "cunning",
+          "scheming",
+          "sly",
+          "deceitful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "petty",
+    "pronunciation": "/ˈpeti/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhỏ nhen, vặt vãnh",
+        "examples": [
+          "Don't be so petty about such a small thing.",
+          "He was charged with petty theft.",
+          "It's petty to hold a grudge over something so trivial."
+        ],
+        "synonyms": [
+          "trivial",
+          "small-minded",
+          "unimportant",
+          "mean"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "industrious",
+    "pronunciation": "/ɪnˈdʌstriəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chăm chỉ, cần cù",
+        "examples": [
+          "She is industrious and always meets her deadlines.",
+          "The industrious student finished the assignment ahead of time.",
+          "He built his fortune through decades of industrious work."
+        ],
+        "synonyms": [
+          "hard-working",
+          "diligent",
+          "assiduous",
+          "tireless"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pessimistic",
+    "pronunciation": "/ˌpesɪˈmɪstɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bi quan",
+        "examples": [
+          "He has a pessimistic outlook on life.",
+          "Don't be so pessimistic — things will improve.",
+          "She was pessimistic about the chances of success."
+        ],
+        "synonyms": [
+          "negative",
+          "cynical",
+          "gloomy",
+          "defeatist"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "optimistic",
+    "pronunciation": "/ˌɒptɪˈmɪstɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lạc quan",
+        "examples": [
+          "She remained optimistic despite the setbacks.",
+          "He is cautiously optimistic about the future.",
+          "The manager was optimistic that the team would win."
+        ],
+        "synonyms": [
+          "hopeful",
+          "positive",
+          "upbeat",
+          "buoyant"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "impolite",
+    "pronunciation": "/ˌɪmpəˈlaɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất lịch sự, vô lễ",
+        "examples": [
+          "It is impolite to talk with your mouth full.",
+          "He was impolite to the waiter for no reason.",
+          "She found his comments rude and impolite."
+        ],
+        "synonyms": [
+          "rude",
+          "discourteous",
+          "uncivil",
+          "ungracious"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "appreciative",
+    "pronunciation": "/əˈpriːʃətɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Biết ơn, trân trọng",
+        "examples": [
+          "The audience was very appreciative of her performance.",
+          "She was deeply appreciative of all the help she received.",
+          "He gave an appreciative nod when she presented the idea."
+        ],
+        "synonyms": [
+          "grateful",
+          "thankful",
+          "admiring",
+          "respectful"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reckless",
+    "pronunciation": "/ˈrekləs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Liều lĩnh, bất cẩn",
+        "examples": [
+          "He was charged with reckless driving.",
+          "It was reckless of her to invest all her savings in one stock.",
+          "The reckless teenager climbed to the top of the building."
+        ],
+        "synonyms": [
+          "careless",
+          "rash",
+          "heedless",
+          "impetuous"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "punctual",
+    "pronunciation": "/ˈpʌŋktʃuəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đúng giờ",
+        "examples": [
+          "Please be punctual for the interview.",
+          "She is always punctual and never keeps anyone waiting.",
+          "He made a point of being punctual for every appointment."
+        ],
+        "synonyms": [
+          "on time",
+          "prompt",
+          "timely"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mercurial",
+    "pronunciation": "/mɜːrˈkjʊriəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thất thường, bốc đồng, khó đoán",
+        "examples": [
+          "His mercurial temperament made him difficult to work with.",
+          "She had a mercurial personality — cheerful one moment, angry the next.",
+          "The mercurial artist shocked the art world with every new collection."
+        ],
+        "synonyms": [
+          "volatile",
+          "unpredictable",
+          "temperamental",
+          "capricious"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "meticulous",
+    "pronunciation": "/mɪˈtɪkjələs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tỉ mỉ, cẩn thận đến từng chi tiết",
+        "examples": [
+          "She is meticulous in her work and rarely makes mistakes.",
+          "He kept meticulous records of every transaction.",
+          "The surgeon was meticulous in her preparation before every operation."
+        ],
+        "synonyms": [
+          "thorough",
+          "precise",
+          "careful",
+          "painstaking"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "gullible",
+    "pronunciation": "/ˈɡʌlɪbəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dễ tin, hay bị lừa",
+        "examples": [
+          "He is too gullible to spot an obvious scam.",
+          "Con artists prey on gullible victims.",
+          "She wasn't gullible — she had done her research carefully."
+        ],
+        "synonyms": [
+          "naive",
+          "credulous",
+          "trusting",
+          "unsuspecting"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "considerate",
+    "pronunciation": "/kənˈsɪdərɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chu đáo, biết nghĩ đến người khác",
+        "examples": [
+          "Be considerate of your neighbours when playing music late at night.",
+          "She's one of the most considerate people I have ever worked with.",
+          "A considerate leader listens before making decisions."
+        ],
+        "synonyms": [
+          "thoughtful",
+          "caring",
+          "kind",
+          "attentive"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disingenuous",
+    "pronunciation": "/ˌdɪsɪnˈdʒenjuəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Không thành thật, giả tạo",
+        "examples": [
+          "It is disingenuous to claim surprise when you planned it all along.",
+          "His humble tone seemed disingenuous given his track record.",
+          "The PR statement was widely seen as disingenuous."
+        ],
+        "synonyms": [
+          "insincere",
+          "dishonest",
+          "deceitful",
+          "hypocritical"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

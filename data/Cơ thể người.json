@@ -1,0 +1,1421 @@
+[
+  {
+    "word": "head",
+    "pronunciation": "/hed/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầu; lãnh đạo, người đứng đầu; phần đầu của vật gì",
+        "examples": [
+          "She nodded her head in agreement.",
+          "He hit his head on the low doorframe.",
+          "She is the head of the department."
+        ],
+        "synonyms": [
+          "skull",
+          "top",
+          "chief",
+          "leader"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "Rất nhiều idioms: 'lose one's head' (mất bình tĩnh), 'head over heels' (say mê), 'off the top of my head' (nói mà không chuẩn bị).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "neck",
+    "pronunciation": "/nek/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ (phần nối đầu và vai)",
+        "examples": [
+          "She wore a gold chain around her neck.",
+          "He craned his neck to see over the crowd.",
+          "The massage relieved the tension in her neck and shoulders."
+        ],
+        "synonyms": [
+          "nape",
+          "throat region"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Neck and neck' = ngang ngửa (trong cuộc đua). 'Breathe down someone's neck' = theo dõi sát sao.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shoulder",
+    "pronunciation": "/ˈʃəʊldə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vai; phần vai của quần áo; vai đường (lề đường)",
+        "examples": [
+          "She tapped him on the shoulder to get his attention.",
+          "He carried the bag over his shoulder.",
+          "The hard shoulder of the motorway is for emergencies only."
+        ],
+        "synonyms": [
+          "blade",
+          "upper arm area"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Shoulder the blame/responsibility' = gánh chịu trách nhiệm. 'Give someone the cold shoulder' = phớt lờ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chest",
+    "pronunciation": "/tʃest/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngực, lồng ngực; hòm, rương",
+        "examples": [
+          "He felt a sharp pain in his chest.",
+          "She pressed the book to her chest.",
+          "A treasure chest was found buried beneath the old house."
+        ],
+        "synonyms": [
+          "torso",
+          "thorax",
+          "trunk"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Get something off your chest' = thổ lộ điều bấy lâu nay ấp ủ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "back",
+    "pronunciation": "/bæk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lưng; phần sau của vật gì",
+        "examples": [
+          "He lay flat on his back and stared at the ceiling.",
+          "She suffers from chronic back pain.",
+          "Write your name on the back of the card."
+        ],
+        "synonyms": [
+          "spine area",
+          "rear"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Stab someone in the back' = phản bội. 'Turn your back on' = quay lưng lại với.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "abdomen",
+    "pronunciation": "/ˈæbdəmən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bụng, khoang bụng (thuật ngữ y tế); đốt bụng côn trùng",
+        "examples": [
+          "The patient complained of pain in the lower abdomen.",
+          "Abdominal exercises strengthen the core muscles.",
+          "The surgeon made an incision in the upper abdomen."
+        ],
+        "synonyms": [
+          "stomach",
+          "belly",
+          "gut",
+          "midriff"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "Formal/medical. Thông thường dùng 'stomach' hay 'belly'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "hip",
+    "pronunciation": "/hɪp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hông (khớp và vùng giữa eo và đùi)",
+        "examples": [
+          "She stood with her hands on her hips.",
+          "He broke his hip in the fall.",
+          "Hip replacement surgery is common among the elderly."
+        ],
+        "synonyms": [
+          "haunch",
+          "pelvis area"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arm",
+    "pronunciation": "/ɑːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cánh tay; cánh (ghế, kính...); vũ khí (arms = vũ khí)",
+        "examples": [
+          "She broke her arm in the accident.",
+          "He held the child in his arms.",
+          "The arms race between the superpowers defined the Cold War."
+        ],
+        "synonyms": [
+          "limb",
+          "appendage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Arms' (số nhiều) = vũ khí. 'Up in arms' = phẫn nộ, bức xúc.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "elbow",
+    "pronunciation": "/ˈelbəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khuỷu tay; khúc cua góc nhọn",
+        "examples": [
+          "She leaned on her elbow, staring out the window.",
+          "She nudged him with her elbow to get his attention.",
+          "There was a sharp elbow in the pipe."
+        ],
+        "synonyms": [
+          "joint"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Elbow room' = không gian để xoay sở. 'Elbow someone out' = chen chân đẩy ai ra.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "wrist",
+    "pronunciation": "/rɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ tay (khớp nối bàn tay và cẳng tay)",
+        "examples": [
+          "She wore a bracelet on her wrist.",
+          "He checked his pulse at the wrist.",
+          "The handcuffs were clamped tight around his wrists."
+        ],
+        "synonyms": [
+          "carpal joint"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'A slap on the wrist' = phạt nhẹ, khiển trách nhẹ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "palm",
+    "pronunciation": "/pɑːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lòng bàn tay; cây dừa/cọ",
+        "examples": [
+          "She held the small coin in the palm of her hand.",
+          "His palms were sweating with nervousness before the interview.",
+          "Rows of tall palm trees line the boulevard."
+        ],
+        "synonyms": [
+          "hand",
+          "inner hand",
+          "tree: coconut palm"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "plant",
+      "concrete"
+    ],
+    "note": "'Palm off' = bán/tặng hàng kém chất lượng. 'Read someone's palm' = xem bói qua chỉ tay.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "finger",
+    "pronunciation": "/ˈfɪŋɡə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngón tay",
+        "examples": [
+          "She pointed her finger at the location on the map.",
+          "He cut his finger while chopping vegetables.",
+          "The ring slipped off her finger."
+        ],
+        "synonyms": [
+          "digit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Put your finger on it' = xác định được vấn đề. 'Cross one's fingers' = cầu may.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "thumb",
+    "pronunciation": "/θʌm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngón cái",
+        "examples": [
+          "She gave a thumbs-up sign to show approval.",
+          "He accidentally hit his thumb with the hammer.",
+          "The baby sucked her thumb contentedly."
+        ],
+        "synonyms": [
+          "pollex",
+          "big finger"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Under someone's thumb' = bị ai kiểm soát. 'Rule of thumb' = nguyên tắc cơ bản từ thực tế.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "leg",
+    "pronunciation": "/leɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chân; chân bàn/ghế; chặng (hành trình)",
+        "examples": [
+          "He broke his leg playing football.",
+          "She crossed her legs and leaned back in her chair.",
+          "The first leg of the journey takes four hours."
+        ],
+        "synonyms": [
+          "limb",
+          "lower limb"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Leg up' = sự giúp đỡ để tiến lên. 'Pull someone's leg' = trêu chọc, đùa giỡn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "thigh",
+    "pronunciation": "/θaɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đùi (phần chân từ hông đến đầu gối)",
+        "examples": [
+          "He felt a sharp pain in his thigh after the sprint.",
+          "The thigh muscles are some of the strongest in the body.",
+          "She slapped her thigh and laughed out loud."
+        ],
+        "synonyms": [
+          "upper leg",
+          "femoral area"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "knee",
+    "pronunciation": "/niː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầu gối",
+        "examples": [
+          "He fell and scraped his knee on the pavement.",
+          "She got down on her knees to pray.",
+          "Knee surgery kept him off the field for three months."
+        ],
+        "synonyms": [
+          "kneecap area",
+          "joint"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Weak in the knees' = bủn rủn chân. 'Bring someone to their knees' = khuất phục ai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ankle",
+    "pronunciation": "/ˈæŋkl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ chân (khớp nối bàn chân và cẳng chân)",
+        "examples": [
+          "She twisted her ankle while running on the uneven path.",
+          "The water came up to his ankles.",
+          "An ankle brace helped support the injured joint."
+        ],
+        "synonyms": [
+          "tarsal joint"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "heel",
+    "pronunciation": "/hiːl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gót chân; gót giày",
+        "examples": [
+          "She wore shoes with high heels.",
+          "He felt a blister forming on his heel after the long walk.",
+          "The dog followed close at his heels."
+        ],
+        "synonyms": [
+          "back of foot"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Achilles' heel' = điểm yếu chết người. 'Head over heels' = say đắm hoàn toàn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "toe",
+    "pronunciation": "/təʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngón chân; mũi giày",
+        "examples": [
+          "She stubbed her toe on the furniture.",
+          "He stood on his toes to reach the top shelf.",
+          "The big toe is essential for balance when walking."
+        ],
+        "synonyms": [
+          "digit",
+          "tip of foot"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'On your toes' = tỉnh táo, cảnh giác. 'Toe the line' = tuân thủ quy tắc.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "forehead",
+    "pronunciation": "/ˈfɒrɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trán",
+        "examples": [
+          "She wiped the sweat from her forehead.",
+          "He kissed her gently on the forehead.",
+          "A deep crease formed on his forehead as he frowned."
+        ],
+        "synonyms": [
+          "brow",
+          "front of head"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "eyebrow",
+    "pronunciation": "/ˈaɪbraʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lông mày",
+        "examples": [
+          "She raised an eyebrow in surprise.",
+          "He had thick, dark eyebrows.",
+          "The controversial decision raised a few eyebrows at the meeting."
+        ],
+        "synonyms": [
+          "brow"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Raise an eyebrow' = tỏ ra ngạc nhiên hoặc nghi ngờ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "eyelid",
+    "pronunciation": "/ˈaɪlɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mí mắt",
+        "examples": [
+          "He could barely keep his eyelids open after the long journey.",
+          "She applied eyeshadow to her eyelids.",
+          "A slight twitch in his eyelid betrayed his nerves."
+        ],
+        "synonyms": [
+          "lid"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Not bat an eyelid' = không tỏ ra ngạc nhiên hay bối rối.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "eyelash",
+    "pronunciation": "/ˈaɪlæʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lông mi",
+        "examples": [
+          "She has long, dark eyelashes.",
+          "A piece of dust caught in her eyelash.",
+          "She batted her eyelashes playfully."
+        ],
+        "synonyms": [
+          "lash",
+          "cilium"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cheek",
+    "pronunciation": "/tʃiːk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Má; sự xấc láo, vô lễ (informal)",
+        "examples": [
+          "Tears rolled down her cheeks.",
+          "He kissed her on both cheeks.",
+          "What a cheek — he didn't even say thank you!"
+        ],
+        "synonyms": [
+          "face side",
+          "nerve",
+          "audacity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Turn the other cheek' = tha thứ, không trả đũa. Nghĩa informal: sự xấc xược.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "jaw",
+    "pronunciation": "/dʒɔː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàm (xương hàm trên/dưới)",
+        "examples": [
+          "His jaw dropped in amazement.",
+          "She clenched her jaw in frustration.",
+          "The dentist examined his lower jaw."
+        ],
+        "synonyms": [
+          "mandible",
+          "jawbone"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Jaw-dropping' = đáng kinh ngạc.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chin",
+    "pronunciation": "/tʃɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cằm",
+        "examples": [
+          "He rested his chin on his hand thoughtfully.",
+          "She has a small, pointed chin.",
+          "Keep your chin up — things will get better."
+        ],
+        "synonyms": [
+          "mandible tip"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Chin up' = giữ vững tinh thần.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nostril",
+    "pronunciation": "/ˈnɒstrəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lỗ mũi",
+        "examples": [
+          "A pungent smell assaulted her nostrils.",
+          "The horse's nostrils flared as it galloped.",
+          "He pressed one nostril closed and blew gently."
+        ],
+        "synonyms": [
+          "nasal opening"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "animal",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brain",
+    "pronunciation": "/breɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Não; trí tuệ, tư duy",
+        "examples": [
+          "The brain controls all bodily functions.",
+          "She has a brilliant brain for mathematics.",
+          "Brain injuries can have lasting effects on personality."
+        ],
+        "synonyms": [
+          "mind",
+          "cerebrum",
+          "intellect",
+          "genius"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Brain drain' = chảy máu chất xám. 'Pick someone's brain' = khai thác kiến thức của ai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "heart",
+    "pronunciation": "/hɑːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tim; trung tâm; lòng can đảm, cảm xúc",
+        "examples": [
+          "His heart was beating fast with excitement.",
+          "Heart disease is the leading cause of death worldwide.",
+          "She has a kind heart and always helps those in need."
+        ],
+        "synonyms": [
+          "cardiac organ",
+          "core",
+          "courage",
+          "spirit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete",
+      "abstract"
+    ],
+    "note": "'Have a heart' = có lòng trắc ẩn. 'By heart' = thuộc lòng. 'Heart of the matter' = cốt lõi vấn đề.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lungs",
+    "pronunciation": "/lʌŋz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phổi (cơ quan hô hấp)",
+        "examples": [
+          "Smoking can seriously damage the lungs.",
+          "He took a deep breath and filled his lungs with the cold mountain air.",
+          "The doctor listened to her lungs with a stethoscope."
+        ],
+        "synonyms": [
+          "pulmonary organs"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "liver",
+    "pronunciation": "/ˈlɪvə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gan (cơ quan giải độc, tiêu hóa)",
+        "examples": [
+          "Excessive drinking can permanently damage the liver.",
+          "The liver plays a key role in digestion and detoxification.",
+          "He was diagnosed with liver disease."
+        ],
+        "synonyms": [
+          "hepatic organ"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stomach",
+    "pronunciation": "/ˈstʌmək/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dạ dày; bụng (thông thường); khả năng chịu đựng",
+        "examples": [
+          "I have a sharp pain in my stomach.",
+          "An empty stomach makes it hard to concentrate.",
+          "He couldn't stomach the sight of blood."
+        ],
+        "synonyms": [
+          "gut",
+          "belly",
+          "abdomen"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Stomach something' (v) = chịu đựng điều gì đó khó chịu. 'Turn someone's stomach' = gây buồn nôn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "kidneys",
+    "pronunciation": "/ˈkɪdniz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thận (cơ quan lọc máu và tạo nước tiểu)",
+        "examples": [
+          "The kidneys filter waste products from the blood.",
+          "He donated a kidney to save his brother's life.",
+          "Kidney stones can cause severe, debilitating pain."
+        ],
+        "synonyms": [
+          "renal organs"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intestine",
+    "pronunciation": "/ɪnˈtestɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ruột (small intestine = ruột non; large intestine = ruột già)",
+        "examples": [
+          "Food passes from the stomach into the small intestine.",
+          "The large intestine absorbs water from digested food.",
+          "He had surgery to remove a section of his intestine."
+        ],
+        "synonyms": [
+          "bowel",
+          "gut"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bladder",
+    "pronunciation": "/ˈblædə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bàng quang (cơ quan chứa nước tiểu)",
+        "examples": [
+          "A full bladder can cause discomfort.",
+          "Bladder infections are more common in women than men.",
+          "He had to have his bladder removed due to cancer."
+        ],
+        "synonyms": [
+          "urinary bladder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "skeleton",
+    "pronunciation": "/ˈskelɪtn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bộ xương; khung (cơ bản); 'skeleton staff' = nhân sự tối thiểu",
+        "examples": [
+          "The human skeleton has 206 bones.",
+          "Only a skeleton staff remained over the Christmas holiday.",
+          "Archaeologists discovered a Bronze Age skeleton during the dig."
+        ],
+        "synonyms": [
+          "frame",
+          "bones",
+          "structure"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Skeleton in the cupboard' = bí mật xấu hổ trong quá khứ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bone",
+    "pronunciation": "/bəʊn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Xương",
+        "examples": [
+          "She broke a bone in her foot.",
+          "Calcium is essential for strong bones.",
+          "He has a bone to pick with you about last night."
+        ],
+        "synonyms": [
+          "osseous tissue"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Bone of contention' = nguồn gốc tranh cãi. 'To the bone' = đến tận cùng (chilled to the bone).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "muscle",
+    "pronunciation": "/ˈmʌsl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơ bắp; sức mạnh, quyền lực",
+        "examples": [
+          "He pulled a muscle while lifting heavy weights.",
+          "Regular exercise strengthens the muscles.",
+          "The union used its political muscle to block the legislation."
+        ],
+        "synonyms": [
+          "tissue",
+          "brawn",
+          "strength",
+          "power"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "abstract",
+      "concrete"
+    ],
+    "note": "'Muscle in on' = chen vào lấy phần.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "joint",
+    "pronunciation": "/dʒɔɪnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khớp (xương); điểm nối; quán (informal)",
+        "examples": [
+          "She has pain in her knee joint.",
+          "Arthritis causes inflammation of the joints.",
+          "They went to a burger joint after the film."
+        ],
+        "synonyms": [
+          "articulation",
+          "junction",
+          "connection"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "spine",
+    "pronunciation": "/spaɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cột sống; gáy sách; gai (nhím, cây...); bản lĩnh",
+        "examples": [
+          "Poor posture over time can damage the spine.",
+          "A chill ran down his spine when he heard the news.",
+          "The author's name appears on the spine of the book."
+        ],
+        "synonyms": [
+          "backbone",
+          "vertebral column",
+          "spinal column"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "plant",
+      "concrete"
+    ],
+    "note": "'Backbone' và 'spine' đều dùng nghĩa bóng: can đảm, bản lĩnh.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rib",
+    "pronunciation": "/rɪb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Xương sườn; sườn thịt (miếng thịt); gân (vải, lá)",
+        "examples": [
+          "He cracked two ribs during the tackle.",
+          "The ribs form a protective cage around the heart and lungs.",
+          "She ordered a rack of ribs at the barbecue restaurant."
+        ],
+        "synonyms": [
+          "costal bone"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fist",
+    "pronunciation": "/fɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nắm đấm (tay nắm lại)",
+        "examples": [
+          "He struck the table with his fist in frustration.",
+          "She raised her fist in victory.",
+          "He ruled the country with an iron fist."
+        ],
+        "synonyms": [
+          "clenched hand",
+          "knuckles"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Iron fist' = bàn tay sắt (cai trị hà khắc).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "digestive",
+    "pronunciation": "/daɪˈdʒestɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về tiêu hoá",
+        "examples": [
+          "Exercise stimulates the digestive system.",
+          "Large meals overload the digestive process.",
+          "He suffered from a digestive disorder that required special diet."
+        ],
+        "synonyms": [
+          "gastrointestinal"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scalp",
+    "pronunciation": "/skælp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Da đầu; (nghĩa bóng) chiến lợi phẩm, thắng lợi trước đối thủ mạnh",
+        "examples": [
+          "She massaged her scalp with shampoo.",
+          "Dry weather can cause a flaky scalp.",
+          "The team claimed another big scalp, defeating the champions."
+        ],
+        "synonyms": [
+          "skin of head"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "throat",
+    "pronunciation": "/θrəʊt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ họng, hầu họng",
+        "examples": [
+          "She had a sore throat and couldn't speak above a whisper.",
+          "He cleared his throat before giving the speech.",
+          "The words stuck in her throat."
+        ],
+        "synonyms": [
+          "larynx area",
+          "gullet",
+          "pharynx"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "'Jump down someone's throat' = phản ứng gay gắt với ai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "entrail",
+    "pronunciation": "/ˈentreɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ruột, nội tạng (thường dùng số nhiều: entrails)",
+        "examples": [
+          "The entrails of the animal were used to make traditional sausages.",
+          "In ancient times, priests read entrails to predict the future.",
+          "The battlefield scene was graphic — entrails were visible."
+        ],
+        "synonyms": [
+          "viscera",
+          "innards",
+          "guts"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "animal",
+      "concrete"
+    ],
+    "note": "Thường dùng số nhiều 'entrails'. Có thể dùng theo nghĩa bóng: 'the entrails of the system' = cốt lõi bên trong.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bosom",
+    "pronunciation": "/ˈbʊzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vòng ngực; lòng (ẩn dụ, nơi che chở yêu thương)",
+        "examples": [
+          "She held the child close to her bosom.",
+          "He kept the secret within the bosom of his family.",
+          "She returned to the bosom of the church after years of doubt."
+        ],
+        "synonyms": [
+          "breast",
+          "chest",
+          "embrace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "abstract",
+      "concrete"
+    ],
+    "note": "'Bosom friend' = bạn tri kỷ. Formal/literary; thông thường dùng 'chest' hoặc 'breast'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bowel",
+    "pronunciation": "/ˈbaʊəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ruột già, đường tiêu hóa; (nghĩa bóng) nơi sâu nhất bên trong",
+        "examples": [
+          "Bowel cancer is one of the most common cancers in the UK.",
+          "A healthy diet promotes good bowel function.",
+          "In the bowels of the earth, temperatures soar."
+        ],
+        "synonyms": [
+          "intestine",
+          "colon",
+          "gut"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "medical",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "countenance",
+    "pronunciation": "/ˈkaʊntənəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khuôn mặt, nét mặt (formal/literary); sự tán đồng",
+        "examples": [
+          "She maintained a calm countenance despite her fear.",
+          "His countenance fell when he heard the news.",
+          "The management gave their countenance to the proposal."
+        ],
+        "synonyms": [
+          "face",
+          "expression",
+          "demeanour",
+          "approval"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ủng hộ, tán đồng (formal)",
+        "examples": [
+          "I will not countenance such behaviour in my classroom.",
+          "The government refused to countenance any compromise.",
+          "She could not countenance the idea of leaving."
+        ],
+        "synonyms": [
+          "tolerate",
+          "permit",
+          "condone",
+          "sanction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "person",
+      "abstract"
+    ],
+    "note": "Formal/literary. 'Give countenance to' = thừa nhận, tán đồng.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "armpit",
+    "pronunciation": "/ˈɑːmpɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nách; (informal) nơi tệ hại, tệ xã hội",
+        "examples": [
+          "He tucked the newspaper under his armpit.",
+          "Deodorant is applied to the armpits.",
+          "This small town has been called the armpit of the state."
+        ],
+        "synonyms": [
+          "axilla"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lap",
+    "pronunciation": "/læp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lòng (khi ngồi); vòng đua; phần nhô ra chồng lên",
+        "examples": [
+          "The cat curled up in her lap.",
+          "He completed ten laps of the pool.",
+          "A chance like this lands in your lap only once."
+        ],
+        "synonyms": [
+          "thighs (when sitting)",
+          "circuit",
+          "round"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "sport",
+      "concrete"
+    ],
+    "note": "'Drop in someone's lap' = tình cờ mang lại cho ai. 'Lap of luxury' = cuộc sống xa hoa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pore",
+    "pronunciation": "/pɔː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lỗ chân lông",
+        "examples": [
+          "She used a cleanser to unclog her pores.",
+          "Every pore of his skin felt aware in the cold air.",
+          "Sweat escapes the body through the pores."
+        ],
+        "synonyms": [
+          "hair follicle opening",
+          "skin pore"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "concrete"
+    ],
+    "note": "'Pore over' (v) = nghiên cứu kỹ, đọc chăm chú (khác chính tả nhưng cùng phát âm).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "emissary",
+    "pronunciation": "/ˈemɪsəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sứ giả, người đại diện (được cử đi thực hiện nhiệm vụ ngoại giao hoặc bí mật)",
+        "examples": [
+          "The president sent a personal emissary to negotiate the peace deal.",
+          "An emissary was dispatched to apprise the regent of the arrangement.",
+          "The emissary carried a sealed message from the king."
+        ],
+        "synonyms": [
+          "envoy",
+          "representative",
+          "messenger",
+          "delegate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

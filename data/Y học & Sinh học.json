@@ -1,0 +1,2225 @@
+[
+  {
+    "word": "anatomy",
+    "pronunciation": "/əˈnætəmi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giải phẫu học; cấu tạo cơ thể",
+        "examples": [
+          "Physiology and anatomy are basic to medical science.",
+          "The book includes detailed diagrams of human anatomy.",
+          "She studied the anatomy of the hand before sculpting it."
+        ],
+        "synonyms": [
+          "physiology",
+          "morphology",
+          "body structure",
+          "dissection",
+          "biology"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "malady",
+    "pronunciation": "/ˈmælədi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh tật, sự đau ốm (thường dùng trong văn viết)",
+        "examples": [
+          "Malaria is a serious malady affecting millions.",
+          "He was determined not to yield to the malady.",
+          "The film explores the social malady of addiction."
+        ],
+        "synonyms": [
+          "illness",
+          "disease",
+          "ailment",
+          "condition",
+          "disorder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bruise",
+    "pronunciation": "/bruːz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vết bầm tím",
+        "examples": [
+          "He had a bruise just below his right eye.",
+          "She had a whopping great bruise on her arm.",
+          "The bruise took two weeks to fade completely."
+        ],
+        "synonyms": [
+          "contusion",
+          "ecchymosis",
+          "mark",
+          "discolouration",
+          "injury"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm bầm tím; gây tổn thương",
+        "examples": [
+          "She bruised her knee badly when she fell.",
+          "Don't drop the peaches — they bruise easily.",
+          "The fall bruised two of his ribs."
+        ],
+        "synonyms": [
+          "contuse",
+          "injure",
+          "mark",
+          "damage",
+          "hurt"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rupture",
+    "pronunciation": "/ˈrʌptʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự vỡ, đứt (mạch máu, ống, cơ quan nội tạng)",
+        "examples": [
+          "The rupture of a blood vessel usually causes a bruise.",
+          "He suffered a rupture of his Achilles tendon.",
+          "A pipe rupture flooded the basement."
+        ],
+        "synonyms": [
+          "burst",
+          "split",
+          "tear",
+          "break",
+          "hernia"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Vỡ ra, đứt; làm vỡ",
+        "examples": [
+          "The blood vessel ruptured under pressure.",
+          "Her appendix ruptured and required emergency surgery.",
+          "The pipe ruptured during the cold snap."
+        ],
+        "synonyms": [
+          "burst",
+          "split",
+          "tear",
+          "break",
+          "fracture"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clinical",
+    "pronunciation": "/ˈklɪnɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lâm sàng; lạnh lùng, không cảm xúc",
+        "examples": [
+          "Clinical trials of the new drug may take five years.",
+          "He practises as a clinical psychologist.",
+          "Her manner was professional but almost clinical."
+        ],
+        "synonyms": [
+          "medical",
+          "diagnostic",
+          "therapeutic",
+          "scientific",
+          "analytical"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "casualty",
+    "pronunciation": "/ˈkæʒuəlti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thương vong; phòng cấp cứu (tiếng Anh Anh)",
+        "examples": [
+          "He was admitted to casualty with head injuries.",
+          "The earthquake caused heavy casualties.",
+          "Small shops have been a casualty of the recession."
+        ],
+        "synonyms": [
+          "victim",
+          "fatality",
+          "injured person",
+          "wounded",
+          "loss"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Tiếng Anh Anh: 'casualty' = phòng cấp cứu (= A&E = Accident & Emergency). Tiếng Anh Mỹ: 'emergency room' (ER).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "incurable",
+    "pronunciation": "/ɪnˈkjʊərəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Không thể chữa khỏi",
+        "examples": [
+          "She was diagnosed with a rare, incurable disease.",
+          "Parkinson's disease is a debilitating and incurable condition.",
+          "He was an incurable optimist who never lost faith."
+        ],
+        "synonyms": [
+          "terminal",
+          "untreatable",
+          "fatal",
+          "irreversible",
+          "hopeless"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diabetes",
+    "pronunciation": "/ˌdaɪəˈbiːtiːz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh tiểu đường (đái tháo đường)",
+        "examples": [
+          "Diabetes is a chronic condition affecting millions worldwide.",
+          "Type 2 diabetes is closely linked to obesity and inactivity.",
+          "He was diagnosed with diabetes at the age of forty."
+        ],
+        "synonyms": [
+          "hyperglycaemia",
+          "metabolic disorder",
+          "blood sugar condition",
+          "glycosuria",
+          "sugar disease"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fracture",
+    "pronunciation": "/ˈfræktʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gãy xương, vết nứt",
+        "examples": [
+          "She suffered a fracture of the left wrist.",
+          "A stress fracture forced the athlete to withdraw from the race.",
+          "The X-ray revealed a hairline fracture."
+        ],
+        "synonyms": [
+          "break",
+          "crack",
+          "split",
+          "fissure",
+          "rupture"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm gãy, bị gãy",
+        "examples": [
+          "He fractured his wrist in the fall.",
+          "The impact fractured two of his ribs.",
+          "The force of the collision fractured the skull."
+        ],
+        "synonyms": [
+          "break",
+          "crack",
+          "shatter",
+          "snap",
+          "splinter"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "amputation",
+    "pronunciation": "/ˌæmpjuˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự cắt cụt chi",
+        "examples": [
+          "The infection was so severe that amputation was necessary.",
+          "He learned to walk again with a prosthesis after the amputation.",
+          "Modern prosthetics have greatly improved life after amputation."
+        ],
+        "synonyms": [
+          "removal",
+          "severance",
+          "excision",
+          "surgical removal",
+          "limb loss"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "metabolize",
+    "pronunciation": "/məˈtæbəlaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chuyển hoá (thực phẩm, chất trong cơ thể)",
+        "examples": [
+          "We metabolize alcohol at different rates.",
+          "The body metabolizes food into energy.",
+          "These compounds are metabolized by enzymes in the liver."
+        ],
+        "synonyms": [
+          "process",
+          "digest",
+          "break down",
+          "convert",
+          "assimilate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "Tiếng Anh Anh: 'metabolise'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allergic",
+    "pronunciation": "/əˈlɜːrdʒɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dị ứng",
+        "examples": [
+          "She is allergic to peanuts.",
+          "He had an allergic reaction to the medication.",
+          "Allergic symptoms include sneezing, itching, and swelling."
+        ],
+        "synonyms": [
+          "hypersensitive",
+          "reactive",
+          "intolerant",
+          "sensitised",
+          "susceptible"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pain-relieving",
+    "pronunciation": "/ˈpeɪn rɪˌliːvɪŋ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Giảm đau",
+        "examples": [
+          "The doctor prescribed a pain-relieving medication.",
+          "Aspirin has well-known pain-relieving properties.",
+          "Pain-relieving creams can be applied directly to the affected area."
+        ],
+        "synonyms": [
+          "analgesic",
+          "painkilling",
+          "palliative",
+          "soothing",
+          "alleviative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tissue",
+    "pronunciation": "/ˈtɪʃuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mô (sinh học); khăn giấy",
+        "examples": [
+          "The disease attacks the brain tissue.",
+          "Muscle tissue repairs itself over time.",
+          "She handed him a tissue to wipe his tears."
+        ],
+        "synonyms": [
+          "cells",
+          "fibre",
+          "membrane",
+          "organic material",
+          "flesh"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "obese",
+    "pronunciation": "/oʊˈbiːs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Béo phì (mức độ thừa cân nghiêm trọng về mặt y tế)",
+        "examples": [
+          "She is grossly obese and has been advised to change her diet.",
+          "Obese patients are at higher risk of cardiovascular disease.",
+          "Being obese significantly reduces life expectancy."
+        ],
+        "synonyms": [
+          "overweight",
+          "corpulent",
+          "morbidly overweight",
+          "heavy",
+          "fat"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pancreas",
+    "pronunciation": "/ˈpæŋkriəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tuyến tụy",
+        "examples": [
+          "The pancreas produces insulin to regulate blood sugar.",
+          "Cancer of the pancreas is difficult to detect early.",
+          "The pancreas plays a key role in digestion."
+        ],
+        "synonyms": [
+          "digestive gland",
+          "endocrine gland",
+          "insulin-producing organ",
+          "abdominal gland",
+          "exocrine gland"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prediabetes",
+    "pronunciation": "/ˌpriːdaɪəˈbiːtiːz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tiền đái tháo đường",
+        "examples": [
+          "Prediabetes can be reversed with lifestyle changes.",
+          "He was warned that prediabetes could develop into type 2 diabetes.",
+          "Regular exercise and a healthy diet help manage prediabetes."
+        ],
+        "synonyms": [
+          "borderline diabetes",
+          "impaired glucose tolerance",
+          "insulin resistance",
+          "pre-diabetic state",
+          "metabolic impairment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chronically",
+    "pronunciation": "/ˈkrɒnɪkli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách mãn tính, dai dẳng, thường xuyên",
+        "examples": [
+          "The hospital is chronically underfunded.",
+          "She has been chronically ill for years.",
+          "The region is chronically short of clean water."
+        ],
+        "synonyms": [
+          "persistently",
+          "habitually",
+          "constantly",
+          "enduringly",
+          "continually"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "erectile dysfunction",
+    "pronunciation": "/ɪˈrektaɪl dɪsˈfʌŋkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Rối loạn cương dương",
+        "examples": [
+          "Erectile dysfunction becomes more common with age.",
+          "Medications for erectile dysfunction have become widely available.",
+          "Stress and anxiety are common contributing factors to erectile dysfunction."
+        ],
+        "synonyms": [
+          "impotence",
+          "ED",
+          "sexual dysfunction",
+          "male impotence",
+          "potency disorder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "paranoia",
+    "pronunciation": "/ˌpærəˈnɔɪə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chứng hoang tưởng; nỗi sợ quá mức",
+        "examples": [
+          "His paranoia made him suspicious of everyone around him.",
+          "The dictator's paranoia led to mass arrests.",
+          "There is growing paranoia about data privacy online."
+        ],
+        "synonyms": [
+          "delusion",
+          "suspicion",
+          "persecution complex",
+          "irrationality",
+          "anxiety disorder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "surgical",
+    "pronunciation": "/ˈsɜːrdʒɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc phẫu thuật; chính xác, dứt khoát",
+        "examples": [
+          "All surgical instruments must be sterilised before use.",
+          "A biopsy is usually a minor surgical procedure.",
+          "The military carried out a surgical strike on the facility."
+        ],
+        "synonyms": [
+          "operative",
+          "clinical",
+          "medical",
+          "invasive",
+          "procedural"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "biopsy",
+    "pronunciation": "/ˈbaɪɒpsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sinh thiết (lấy mô để xét nghiệm)",
+        "examples": [
+          "The biopsy confirmed it was a benign tumour.",
+          "A biopsy was taken from the suspicious tissue.",
+          "The results of the biopsy will be ready in a week."
+        ],
+        "synonyms": [
+          "tissue sample",
+          "histological examination",
+          "specimen analysis",
+          "pathological test",
+          "cell examination"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "overdose",
+    "pronunciation": "/ˈoʊvərdoʊs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quá liều (thuốc hoặc chất gây nghiện)",
+        "examples": [
+          "She took an overdose of paracetamol.",
+          "When he was 17 he took an overdose of sleeping pills and nearly died.",
+          "A heroin overdose can be fatal within minutes."
+        ],
+        "synonyms": [
+          "excess dose",
+          "toxic dose",
+          "OD",
+          "drug excess",
+          "lethal dosage"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Dùng quá liều",
+        "examples": [
+          "He overdosed on painkillers and was rushed to hospital.",
+          "She overdosed and barely survived.",
+          "He had overdosed on heroin three times before."
+        ],
+        "synonyms": [
+          "take too much",
+          "overmedicate",
+          "misuse",
+          "abuse",
+          "OD"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cure",
+    "pronunciation": "/kjʊər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phương thuốc, cách chữa trị; sự chữa khỏi",
+        "examples": [
+          "There is still no cure for AIDS.",
+          "Sleep is the best cure for many ailments.",
+          "The cure proved worse than the disease."
+        ],
+        "synonyms": [
+          "remedy",
+          "treatment",
+          "medicine",
+          "therapy",
+          "antidote"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Chữa khỏi, điều trị khỏi",
+        "examples": [
+          "The treatment cured her infection within a week.",
+          "He needed surgery to cure a troublesome back injury.",
+          "There is no drug that can cure this condition."
+        ],
+        "synonyms": [
+          "heal",
+          "treat",
+          "remedy",
+          "restore",
+          "rehabilitate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fettle",
+    "pronunciation": "/ˈfetl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tình trạng sức khoẻ, phong độ",
+        "examples": [
+          "I feel in fine fettle after my two weeks' holiday.",
+          "The team is in fine fettle ahead of the tournament.",
+          "The good news put her in fine fettle."
+        ],
+        "synonyms": [
+          "condition",
+          "shape",
+          "health",
+          "form",
+          "vigour"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Chủ yếu dùng trong cụm 'in fine fettle' = trong trạng thái sức khoẻ tốt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "impotence",
+    "pronunciation": "/ˈɪmpətəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bất lực; chứng rối loạn cương dương",
+        "examples": [
+          "He felt a sense of impotence in the face of such injustice.",
+          "Impotence can have both physical and psychological causes.",
+          "The government's impotence in the crisis was exposed."
+        ],
+        "synonyms": [
+          "erectile dysfunction",
+          "infertility",
+          "sterility",
+          "powerlessness",
+          "weakness"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dizzy",
+    "pronunciation": "/ˈdɪzi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chóng mặt, hoa mắt",
+        "examples": [
+          "The heat and the champagne made him feel dizzy.",
+          "She stood up too quickly and felt dizzy.",
+          "The person may become dizzy for no apparent reason."
+        ],
+        "synonyms": [
+          "giddy",
+          "light-headed",
+          "vertiginous",
+          "unsteady",
+          "woozy"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "symptom",
+    "pronunciation": "/ˈsɪmptəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Triệu chứng (bệnh); dấu hiệu (của vấn đề lớn hơn)",
+        "examples": [
+          "The first symptom of the disease is a high temperature.",
+          "The disappearance of jobs is a symptom of deeper economic change.",
+          "Fatigue is a common symptom of anaemia."
+        ],
+        "synonyms": [
+          "sign",
+          "indication",
+          "manifestation",
+          "warning sign",
+          "feature"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "well-being",
+    "pronunciation": "/ˌwelˈbiːɪŋ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sức khoẻ và hạnh phúc tổng thể",
+        "examples": [
+          "She was filled with a sense of well-being.",
+          "The school prioritises the emotional well-being of its pupils.",
+          "Exercise has a positive effect on mental well-being."
+        ],
+        "synonyms": [
+          "health",
+          "welfare",
+          "happiness",
+          "flourishing",
+          "prosperity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diagnosis",
+    "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chẩn đoán",
+        "examples": [
+          "The diagnosis was devastating — she had cancer.",
+          "Further tests have confirmed the diagnosis.",
+          "Early diagnosis is critical for successful treatment."
+        ],
+        "synonyms": [
+          "assessment",
+          "evaluation",
+          "identification",
+          "determination",
+          "recognition"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Số nhiều: diagnoses.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cardiovascular",
+    "pronunciation": "/ˌkɑːrdioʊˈvæskjələr/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc tim mạch",
+        "examples": [
+          "Cardiovascular disease is a leading cause of death worldwide.",
+          "Regular exercise improves cardiovascular health.",
+          "He was referred to a cardiovascular specialist."
+        ],
+        "synonyms": [
+          "cardiac",
+          "circulatory",
+          "heart-related",
+          "coronary",
+          "vascular"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "inflammation",
+    "pronunciation": "/ˌɪnfləˈmeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Viêm, sưng tấy",
+        "examples": [
+          "The drug reduces inflammation and pain.",
+          "Chronic inflammation can lead to serious health problems.",
+          "Ice helps reduce inflammation after an injury."
+        ],
+        "synonyms": [
+          "swelling",
+          "redness",
+          "irritation",
+          "soreness",
+          "oedema"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "receptor",
+    "pronunciation": "/rɪˈseptər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thụ thể (phân tử trên tế bào nhận tín hiệu hoá học)",
+        "examples": [
+          "The drug binds to receptors in the brain.",
+          "Pain receptors send signals to the nervous system.",
+          "Researchers identified a new type of receptor linked to appetite."
+        ],
+        "synonyms": [
+          "sensor",
+          "binding site",
+          "detector",
+          "nerve ending",
+          "transducer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "infection",
+    "pronunciation": "/ɪnˈfekʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhiễm trùng, sự lây nhiễm",
+        "examples": [
+          "The wound became red — a sign of infection.",
+          "Antibiotics are used to treat bacterial infections.",
+          "Good hygiene helps prevent the spread of infection."
+        ],
+        "synonyms": [
+          "contamination",
+          "contagion",
+          "disease",
+          "pathogen",
+          "bug"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "convulsion",
+    "pronunciation": "/kənˈvʌlʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Co giật, cơn động kinh",
+        "examples": [
+          "A sudden convulsion shook him and he fell to the ground.",
+          "The child had a convulsion caused by high fever.",
+          "She was taken to hospital after suffering convulsions."
+        ],
+        "synonyms": [
+          "seizure",
+          "spasm",
+          "fit",
+          "paroxysm",
+          "tremor"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sore",
+    "pronunciation": "/sɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vết loét, vết thương hở trên da",
+        "examples": [
+          "She had a sore on her lip that kept coming back.",
+          "Prolonged bed rest can cause pressure sores.",
+          "The sore took several weeks to heal."
+        ],
+        "synonyms": [
+          "ulcer",
+          "wound",
+          "lesion",
+          "blister",
+          "abrasion"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Đau, nhức; bực bội (nghĩa bóng)",
+        "examples": [
+          "My throat is sore and it hurts to swallow.",
+          "His muscles were sore after the long run.",
+          "She was still sore about losing the promotion."
+        ],
+        "synonyms": [
+          "painful",
+          "tender",
+          "aching",
+          "raw",
+          "sensitive"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "insomnia",
+    "pronunciation": "/ɪnˈsɒmniə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chứng mất ngủ",
+        "examples": [
+          "Stress is a common cause of insomnia.",
+          "She has suffered from insomnia for years.",
+          "Insomnia can have serious effects on mental health and concentration."
+        ],
+        "synonyms": [
+          "sleeplessness",
+          "wakefulness",
+          "restlessness",
+          "sleep disorder",
+          "agrypnia"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chronic",
+    "pronunciation": "/ˈkrɒnɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Mãn tính, kinh niên (kéo dài lâu hoặc tái phát thường xuyên)",
+        "examples": [
+          "He was suffering from chronic bronchitis.",
+          "There is a chronic shortage of affordable housing.",
+          "Chronic pain can affect every aspect of daily life."
+        ],
+        "synonyms": [
+          "persistent",
+          "long-standing",
+          "recurring",
+          "habitual",
+          "deep-rooted"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "Phân biệt: chronic (mãn tính, kéo dài) vs acute (cấp tính, dữ dội trong thời gian ngắn).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "swell",
+    "pronunciation": "/swel/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Sưng lên, phồng lên; tăng lên về quy mô",
+        "examples": [
+          "Her ankle swelled badly after the sprain.",
+          "The seeds will swell when immersed in water.",
+          "The ranks of the unemployed swelled during the recession."
+        ],
+        "synonyms": [
+          "expand",
+          "puff up",
+          "enlarge",
+          "inflate",
+          "distend"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clinically",
+    "pronunciation": "/ˈklɪnɪkli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Về mặt lâm sàng, theo tiêu chuẩn y khoa",
+        "examples": [
+          "Doctors declared her clinically brain-dead.",
+          "The treatment has been clinically proven to reduce symptoms.",
+          "He was clinically depressed and needed immediate intervention."
+        ],
+        "synonyms": [
+          "medically",
+          "diagnostically",
+          "therapeutically",
+          "scientifically",
+          "technically"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diagnose",
+    "pronunciation": "/ˌdaɪəɡˈnoʊz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chẩn đoán",
+        "examples": [
+          "The doctor diagnosed him with pneumonia.",
+          "The condition was diagnosed too late for effective treatment.",
+          "She was diagnosed with cancer at the age of thirty."
+        ],
+        "synonyms": [
+          "identify",
+          "determine",
+          "assess",
+          "evaluate",
+          "detect"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "incidence",
+    "pronunciation": "/ˈɪnsɪdəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tỷ lệ mắc phải, tần suất xảy ra",
+        "examples": [
+          "There is still a high incidence of malaria in the area.",
+          "Why did the incidence of heroin use continue to climb?",
+          "The incidence of childhood obesity has doubled in two decades."
+        ],
+        "synonyms": [
+          "rate",
+          "frequency",
+          "occurrence",
+          "prevalence",
+          "proportion"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "triage",
+    "pronunciation": "/triˈɑːʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phân loại bệnh nhân theo mức độ ưu tiên cấp cứu",
+        "examples": [
+          "The nurse performed triage on the incoming patients.",
+          "The triage system ensures those most at risk are treated first.",
+          "In a mass casualty event, effective triage saves lives."
+        ],
+        "synonyms": [
+          "sorting",
+          "prioritisation",
+          "assessment",
+          "classification",
+          "emergency sorting"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "twin",
+    "pronunciation": "/twɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trẻ sinh đôi; vật/người giống hệt",
+        "examples": [
+          "My twin sister and I have the same nose.",
+          "Can you tell her from her twin?",
+          "The two towns are described as twins — similar in almost every way."
+        ],
+        "synonyms": [
+          "double",
+          "duplicate",
+          "counterpart",
+          "look-alike",
+          "match"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Sinh đôi; đôi, thành cặp giống nhau",
+        "examples": [
+          "She gave birth to twin boys.",
+          "The hotel offers twin rooms with two single beds.",
+          "The twin towers were visible from miles away."
+        ],
+        "synonyms": [
+          "paired",
+          "matching",
+          "double",
+          "identical",
+          "dual"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "transplant",
+    "pronunciation": "/ˈtrænsplɑːnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ca cấy ghép; cơ quan được cấy ghép",
+        "examples": [
+          "His only chance of survival was a heart transplant.",
+          "Several of the patients had received kidney transplants.",
+          "The transplant was a success and she recovered fully."
+        ],
+        "synonyms": [
+          "graft",
+          "implant",
+          "organ transfer",
+          "surgical transfer",
+          "donation"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cấy ghép; cấy (cây); chuyển đến nơi mới",
+        "examples": [
+          "The surgeon transplanted a healthy kidney into the patient.",
+          "The seedlings were transplanted into the garden after the last frost.",
+          "His family was transplanted from the countryside to the city."
+        ],
+        "synonyms": [
+          "graft",
+          "implant",
+          "transfer",
+          "move",
+          "relocate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "infertile",
+    "pronunciation": "/ɪnˈfɜːrtl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Vô sinh; cằn cỗi (đất đai)",
+        "examples": [
+          "Thousands of women are infertile as a result of complications.",
+          "The soil proved too infertile to sustain crops.",
+          "He was told he was infertile after a series of tests."
+        ],
+        "synonyms": [
+          "sterile",
+          "barren",
+          "unproductive",
+          "childless",
+          "impotent"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "panacea",
+    "pronunciation": "/ˌpænəˈsiːə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thuốc trị bách bệnh (nghĩa bóng: giải pháp vạn năng)",
+        "examples": [
+          "There is no panacea for the country's economic problems.",
+          "Technology is not a panacea for all social ills.",
+          "He viewed education as the panacea for poverty."
+        ],
+        "synonyms": [
+          "cure-all",
+          "universal remedy",
+          "miracle cure",
+          "magic bullet",
+          "solution"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pharmacist",
+    "pronunciation": "/ˈfɑːrməsɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dược sĩ",
+        "examples": [
+          "Ask your pharmacist for advice on over-the-counter medicines.",
+          "The pharmacist checked for potential drug interactions.",
+          "She trained as a pharmacist before switching to research."
+        ],
+        "synonyms": [
+          "chemist",
+          "druggist",
+          "dispenser",
+          "apothecary",
+          "pharmaceutical professional"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "person"
+    ],
+    "note": "Tiếng Anh Anh cũng dùng 'chemist' cho dược sĩ và hiệu thuốc.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "plague",
+    "pronunciation": "/pleɪɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh dịch (đặc biệt là dịch hạch); tai họa, nạn dịch",
+        "examples": [
+          "The plague swept through Europe in the 14th century.",
+          "The city is under threat from a plague of rats.",
+          "Corruption is the plague of modern governance."
+        ],
+        "synonyms": [
+          "epidemic",
+          "pestilence",
+          "outbreak",
+          "scourge",
+          "blight"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Gây phiền não, quấy rầy liên tục",
+        "examples": [
+          "Financial problems have plagued the company for years.",
+          "The region has been plagued by drought.",
+          "He was plagued by self-doubt throughout his career."
+        ],
+        "synonyms": [
+          "torment",
+          "trouble",
+          "afflict",
+          "beset",
+          "haunt"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prescribe",
+    "pronunciation": "/prɪˈskraɪb/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Kê đơn thuốc; quy định chính thức",
+        "examples": [
+          "Ask the doctor to prescribe something for that cough.",
+          "If these don't work, I may have to prescribe you something stronger.",
+          "The law prescribes a maximum sentence of ten years."
+        ],
+        "synonyms": [
+          "recommend",
+          "advise",
+          "order",
+          "direct",
+          "stipulate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "epidemic",
+    "pronunciation": "/ˌepɪˈdemɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dịch bệnh; vấn đề lan rộng như dịch",
+        "examples": [
+          "The epidemic spread rapidly across three continents.",
+          "Authorities declared an epidemic after hundreds fell ill.",
+          "Obesity is sometimes described as an epidemic in modern society."
+        ],
+        "synonyms": [
+          "outbreak",
+          "pandemic",
+          "surge",
+          "wave",
+          "spread"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Phân biệt: epidemic (bùng phát trong một khu vực), pandemic (lan ra toàn cầu).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cramp",
+    "pronunciation": "/kræmp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chuột rút, co cứng cơ đau đớn",
+        "examples": [
+          "He got a cramp in his calf during the marathon.",
+          "Swimming on a full stomach can cause cramps.",
+          "She was doubled over with stomach cramps."
+        ],
+        "synonyms": [
+          "spasm",
+          "contraction",
+          "muscle pain",
+          "stitch",
+          "twinge"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Gây chuột rút; hạn chế, cản trở",
+        "examples": [
+          "Cold water cramped his legs during the swim.",
+          "Long-haul flights cramp your muscles if you don't move around.",
+          "Lack of funding is cramping their research."
+        ],
+        "synonyms": [
+          "restrict",
+          "hinder",
+          "constrain",
+          "limit",
+          "impede"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cholera",
+    "pronunciation": "/ˈkɒlərə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh tả (do vi khuẩn, lây qua nguồn nước ô nhiễm)",
+        "examples": [
+          "Cholera outbreaks are common in areas with poor sanitation.",
+          "The village was devastated by a cholera epidemic.",
+          "Access to clean water is the most effective way to prevent cholera."
+        ],
+        "synonyms": [
+          "waterborne disease",
+          "intestinal infection",
+          "enteric disease",
+          "bacterial infection",
+          "diarrhoeal disease"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "regurgitate",
+    "pronunciation": "/rɪˈɡɜːrdʒɪteɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Nôn ra, trào ngược; lặp lại một cách thụ động (nghĩa bóng)",
+        "examples": [
+          "Some birds regurgitate food to feed their young.",
+          "The patient regurgitated everything she had eaten.",
+          "Students should learn to think critically, not just regurgitate facts."
+        ],
+        "synonyms": [
+          "vomit",
+          "bring up",
+          "disgorge",
+          "throw up",
+          "spew"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "retch",
+    "pronunciation": "/retʃ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ọe, buồn nôn (cố gắng nôn nhưng không ra)",
+        "examples": [
+          "The smell made her retch.",
+          "He retched but nothing came up.",
+          "The sight of the wound caused him to retch."
+        ],
+        "synonyms": [
+          "gag",
+          "heave",
+          "choke",
+          "feel nauseous",
+          "dry-heave"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "atrophy",
+    "pronunciation": "/ˈætrəfi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự teo cơ, thoái hoá; sự suy giảm dần",
+        "examples": [
+          "Muscle atrophy occurs after prolonged bed rest.",
+          "The local economy suffered atrophy as young people left.",
+          "Without stimulus, skills fade through atrophy."
+        ],
+        "synonyms": [
+          "wasting",
+          "degeneration",
+          "deterioration",
+          "decline",
+          "withering"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Teo lại, suy thoái, mất dần",
+        "examples": [
+          "Without exercise, muscles will begin to atrophy.",
+          "The industry has atrophied due to lack of investment.",
+          "Her talent began to atrophy from years of inactivity."
+        ],
+        "synonyms": [
+          "waste away",
+          "wither",
+          "deteriorate",
+          "degenerate",
+          "decline"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "obesity",
+    "pronunciation": "/oʊˈbiːsəti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh béo phì",
+        "examples": [
+          "Obesity increases the risk of diabetes and heart disease.",
+          "Childhood obesity is a growing public health concern.",
+          "A combination of diet and exercise can help combat obesity."
+        ],
+        "synonyms": [
+          "overweight",
+          "corpulence",
+          "adiposity",
+          "excess body fat",
+          "morbid obesity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "outbreak",
+    "pronunciation": "/ˈaʊtbreɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bùng phát (dịch bệnh, bạo lực)",
+        "examples": [
+          "An outbreak of measles affected dozens of children.",
+          "The outbreak was traced to contaminated food.",
+          "Quick action contained the outbreak before it spread further."
+        ],
+        "synonyms": [
+          "epidemic",
+          "upsurge",
+          "flare-up",
+          "eruption",
+          "wave"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ovary",
+    "pronunciation": "/ˈoʊvəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Buồng trứng",
+        "examples": [
+          "Ovarian cancer is one of the most difficult to diagnose early.",
+          "The ovary produces hormones essential to the reproductive cycle.",
+          "She underwent surgery to remove a cyst on her ovary."
+        ],
+        "synonyms": [
+          "reproductive gland",
+          "gonad",
+          "female sex gland",
+          "reproductive organ",
+          "egg-producing organ"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mucus",
+    "pronunciation": "/ˈmjuːkəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất nhầy (do niêm mạc tiết ra)",
+        "examples": [
+          "Excess mucus production is a symptom of many respiratory conditions.",
+          "The throat produces mucus to trap dust and pathogens.",
+          "The medication helped reduce mucus build-up in the airways."
+        ],
+        "synonyms": [
+          "phlegm",
+          "snot",
+          "discharge",
+          "secretion",
+          "slime"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Tính từ liên quan: mucous (như 'mucous membrane' — niêm mạc).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "abrasion",
+    "pronunciation": "/əˈbreɪʒn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vết trầy xước",
+        "examples": [
+          "The child had minor abrasions on her knees from the fall.",
+          "He suffered abrasions to his hands after sliding on the pavement.",
+          "Abrasions should be cleaned and covered to prevent infection."
+        ],
+        "synonyms": [
+          "graze",
+          "scrape",
+          "scratch",
+          "wound",
+          "laceration"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bandage",
+    "pronunciation": "/ˈbændɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Băng (vết thương), dải băng y tế",
+        "examples": [
+          "The nurse applied a fresh bandage to the wound.",
+          "Change the bandage every twenty-four hours.",
+          "He wrapped a bandage around his sprained ankle."
+        ],
+        "synonyms": [
+          "dressing",
+          "wrap",
+          "gauze",
+          "compress",
+          "binding"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Băng bó, quấn băng",
+        "examples": [
+          "The nurse bandaged his wound carefully.",
+          "She bandaged her twisted ankle before the hike.",
+          "He bandaged the cut to stop the bleeding."
+        ],
+        "synonyms": [
+          "bind",
+          "dress",
+          "wrap",
+          "bind up",
+          "apply a dressing to"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "artery",
+    "pronunciation": "/ˈɑːrtəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Động mạch; trục giao thông chính (nghĩa bóng)",
+        "examples": [
+          "The knife severed an artery and he bled to death.",
+          "A muscular spasm in the coronary artery can cause a heart attack.",
+          "The motorway is one of the main arteries into the capital."
+        ],
+        "synonyms": [
+          "blood vessel",
+          "coronary vessel",
+          "vascular tube",
+          "aorta",
+          "main blood channel"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pulmonary",
+    "pronunciation": "/ˈpʌlməneri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc phổi",
+        "examples": [
+          "A blockage in the pulmonary artery can be life-threatening.",
+          "He has been suffering from pulmonary tuberculosis for several years.",
+          "Pulmonary rehabilitation helps patients with lung disease."
+        ],
+        "synonyms": [
+          "lung-related",
+          "respiratory",
+          "bronchial",
+          "alveolar",
+          "thoracic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tuberculosis",
+    "pronunciation": "/tuːˌbɜːrkjəˈloʊsɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bệnh lao (do vi khuẩn Mycobacterium tuberculosis)",
+        "examples": [
+          "He has been suffering from pulmonary tuberculosis for several years.",
+          "Tuberculosis can be reactivated in people with weakened immune systems.",
+          "The BCG vaccine provides some protection against tuberculosis."
+        ],
+        "synonyms": [
+          "TB",
+          "consumption",
+          "pulmonary tuberculosis",
+          "lung disease",
+          "phthisis"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "Viết tắt thông dụng: TB.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "longevity",
+    "pronunciation": "/lɒnˈdʒevəti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tuổi thọ cao; sự tồn tại lâu dài",
+        "examples": [
+          "A healthy lifestyle is strongly linked to longevity.",
+          "Good habits promote longevity.",
+          "The longevity of the company is a testament to sound management."
+        ],
+        "synonyms": [
+          "lifespan",
+          "long life",
+          "durability",
+          "endurance",
+          "long-lastingness"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rejuvenation",
+    "pronunciation": "/rɪˌdʒuːvəˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự trẻ hóa, làm tươi mới lại",
+        "examples": [
+          "The spa offers a range of rejuvenation treatments.",
+          "Urban rejuvenation projects transformed the derelict docklands.",
+          "A holiday can provide both physical and mental rejuvenation."
+        ],
+        "synonyms": [
+          "renewal",
+          "revitalisation",
+          "regeneration",
+          "restoration",
+          "revival"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "circulatory",
+    "pronunciation": "/ˈsɜːrkjələtɔːri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc hệ tuần hoàn máu",
+        "examples": [
+          "Diabetes can cause serious circulatory problems.",
+          "Diseases of the circulatory system are among the leading causes of death.",
+          "Exercise strengthens the heart and improves circulatory health."
+        ],
+        "synonyms": [
+          "cardiovascular",
+          "vascular",
+          "blood-related",
+          "cardiac",
+          "haemic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "primate",
+    "pronunciation": "/ˈpraɪmeɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Linh trưởng (bộ động vật có vú bao gồm người, khỉ, vượn)",
+        "examples": [
+          "Chimpanzees and gorillas are primates.",
+          "Humans are classified as primates.",
+          "Research on primates has contributed greatly to medical science."
+        ],
+        "synonyms": [
+          "mammal",
+          "ape",
+          "simian",
+          "hominid",
+          "higher mammal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intake",
+    "pronunciation": "/ˈɪnteɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lượng hấp thụ, lượng nạp vào; số lượng tiếp nhận",
+        "examples": [
+          "She was advised to reduce her daily intake of salt.",
+          "A high calorie intake without exercise leads to weight gain.",
+          "The hospital's patient intake doubled during the outbreak."
+        ],
+        "synonyms": [
+          "consumption",
+          "ingestion",
+          "absorption",
+          "input",
+          "uptake"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sedentary",
+    "pronunciation": "/ˈsedənteri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Ít vận động, ngồi nhiều; định cư một chỗ",
+        "examples": [
+          "A sedentary job combined with poor diet increases cardiovascular risk.",
+          "Studies show that sedentary behaviour is linked to depression.",
+          "Breaking up sedentary time with short walks improves metabolic health."
+        ],
+        "synonyms": [
+          "inactive",
+          "stationary",
+          "immobile",
+          "desk-bound",
+          "non-active"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "additive",
+    "pronunciation": "/ˈædɪtɪv/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất phụ gia (thêm vào thực phẩm hoặc sản phẩm)",
+        "examples": [
+          "Some parents restrict food additives in their children's diets.",
+          "The additive was found to cause adverse reactions in sensitive individuals.",
+          "All food additives must be listed on the product label."
+        ],
+        "synonyms": [
+          "preservative",
+          "supplement",
+          "chemical additive",
+          "colouring",
+          "flavouring"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

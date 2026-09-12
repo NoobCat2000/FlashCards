@@ -1,0 +1,872 @@
+[
+  {
+    "word": "spicy",
+    "pronunciation": "/ˈspaɪsi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cay (thức ăn); (nghĩa bóng) kịch tính, thú vị, có chút xì-căng-đan",
+        "examples": [
+          "The Thai green curry was incredibly spicy.",
+          "She always prefers spicy food to mild dishes.",
+          "The tabloid ran a spicy story about the celebrity couple."
+        ],
+        "synonyms": [
+          "hot",
+          "peppery",
+          "pungent",
+          "fiery"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "food"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sour",
+    "pronunciation": "/ˈsaʊər/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chua (vị); khó tính, cáu kỉnh; (sữa) đã chua/hỏng",
+        "examples": [
+          "The lemon juice made her face scrunch with its sour taste.",
+          "The milk has gone sour — don't drink it.",
+          "He became sour and bitter after losing the election."
+        ],
+        "synonyms": [
+          "acidic",
+          "tart",
+          "sharp",
+          "bitter"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Trở nên chua; (quan hệ) xấu đi",
+        "examples": [
+          "The wine soured in the warm storage room.",
+          "Their friendship soured after the argument.",
+          "Relations between the two countries have soured in recent months."
+        ],
+        "synonyms": [
+          "spoil",
+          "curdle",
+          "deteriorate",
+          "go off"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "verb",
+      "food",
+      "emotion",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "culinary",
+    "pronunciation": "/ˈkʌlɪnəri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về ẩm thực, nấu nướng",
+        "examples": [
+          "France is famous for its rich culinary traditions.",
+          "She attended a prestigious culinary school in Paris.",
+          "He has an impressive culinary background and trained under a Michelin-starred chef."
+        ],
+        "synonyms": [
+          "gastronomic",
+          "cooking",
+          "food-related"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "food"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "grain",
+    "pronunciation": "/ɡreɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hạt, ngũ cốc; thớ gỗ; lượng rất nhỏ",
+        "examples": [
+          "Wheat and rice are the most widely consumed grains in the world.",
+          "Cut the wood against the grain for a smoother finish.",
+          "There's not a grain of truth in what he said."
+        ],
+        "synonyms": [
+          "seed",
+          "cereal",
+          "kernel",
+          "trace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "'A grain of salt/truth' = một chút muối/sự thật (thường dùng trong 'take with a grain of salt' = nghi ngờ điều gì đó).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "spice",
+    "pronunciation": "/spaɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gia vị (thảo mộc/hạt dùng cho hương vị); sự thú vị thêm vào",
+        "examples": [
+          "Cinnamon and cardamom are warm, aromatic spices.",
+          "The dish needs more spice to enhance its flavour.",
+          "Variety is the spice of life."
+        ],
+        "synonyms": [
+          "flavoring",
+          "seasoning",
+          "herb",
+          "condiment"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Thêm gia vị; làm thú vị, hấp dẫn hơn",
+        "examples": [
+          "She spiced the curry paste with fresh red chillies.",
+          "Spice up your routine by trying something new each week.",
+          "He spiced his speech with amusing anecdotes from his travels."
+        ],
+        "synonyms": [
+          "season",
+          "flavor",
+          "liven up",
+          "add zest"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "simmer",
+    "pronunciation": "/ˈsɪmər/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ninh nhỏ lửa (sôi nhẹ, không sôi sùng sục); sôi sục âm ỉ bên trong",
+        "examples": [
+          "Let the soup simmer for thirty minutes on the lowest heat setting.",
+          "He was simmering with rage but kept his composure throughout.",
+          "Tensions simmered for months before the conflict finally erupted."
+        ],
+        "synonyms": [
+          "stew",
+          "cook slowly",
+          "boil gently"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "food",
+      "abstract"
+    ],
+    "note": "'Simmer down' = bình tĩnh lại (informal).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "grease",
+    "pronunciation": "/ɡriːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dầu mỡ động vật; chất bôi trơn",
+        "examples": [
+          "She wiped the cooking grease from her hands after frying.",
+          "The mechanic applied grease to the engine components.",
+          "The pan was covered in a thick layer of grease."
+        ],
+        "synonyms": [
+          "fat",
+          "oil",
+          "lard",
+          "lubricant"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Bôi mỡ, phết dầu (dụng cụ nấu ăn); bôi trơn",
+        "examples": [
+          "Grease the tin lightly with butter before pouring in the batter.",
+          "He greased the squeaky hinge with oil.",
+          "'Grease someone's palm' means to offer a bribe."
+        ],
+        "synonyms": [
+          "lubricate",
+          "oil",
+          "smear"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "'Grease someone's palm' = hối lộ ai (idiom).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stew",
+    "pronunciation": "/stjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Món hầm, món ninh (thịt/rau ninh lâu với nước)",
+        "examples": [
+          "She made a hearty beef stew for dinner on a cold evening.",
+          "Irish stew is traditionally made with lamb, potatoes, and vegetables.",
+          "The stew was left on the stove to cook all afternoon."
+        ],
+        "synonyms": [
+          "casserole",
+          "ragout",
+          "braise",
+          "hotpot"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Hầm, ninh (thức ăn); lo lắng âm thầm",
+        "examples": [
+          "Stew the meat on very low heat for at least two hours.",
+          "He stewed in his own anger for days after the argument.",
+          "Don't stew over it — just move on."
+        ],
+        "synonyms": [
+          "braise",
+          "simmer",
+          "worry",
+          "fret"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "toast",
+    "pronunciation": "/təʊst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bánh mì nướng; lời chúc mừng khi nâng ly",
+        "examples": [
+          "She had toast with jam and a cup of tea for breakfast.",
+          "The best man proposed a toast to the bride and groom.",
+          "Let's raise a toast to the project's success."
+        ],
+        "synonyms": [
+          "grilled bread",
+          "tribute",
+          "salute"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nướng (bánh mì, hạt...); nâng ly chúc mừng",
+        "examples": [
+          "Toast the bread until it is golden brown and crispy.",
+          "They toasted the new year with champagne at midnight.",
+          "Everyone raised their glasses and toasted the couple's health."
+        ],
+        "synonyms": [
+          "grill",
+          "roast",
+          "salute",
+          "drink to"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "beverage",
+    "pronunciation": "/ˈbevərɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồ uống (formal)",
+        "examples": [
+          "Please choose a hot or cold beverage from the menu.",
+          "The café serves a wide range of beverages.",
+          "Alcoholic beverages are not served before noon at this venue."
+        ],
+        "synonyms": [
+          "drink",
+          "refreshment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "concrete"
+    ],
+    "note": "Formal. Trong giao tiếp thông thường chỉ cần dùng 'drink'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "luncheon",
+    "pronunciation": "/ˈlʌntʃən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bữa trưa trang trọng (thường trong sự kiện chính thức)",
+        "examples": [
+          "The mayor hosted a luncheon for visiting foreign dignitaries.",
+          "The charity luncheon raised significant funds for the hospital.",
+          "She wore a smart suit to the business luncheon at the hotel."
+        ],
+        "synonyms": [
+          "lunch",
+          "midday meal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "abstract"
+    ],
+    "note": "Formal/somewhat old-fashioned. Trong giao tiếp thông thường dùng 'lunch'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crust",
+    "pronunciation": "/krʌst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vỏ bánh mì (phần ngoài giòn); lớp vỏ cứng bên ngoài",
+        "examples": [
+          "She always cuts the crust off her sandwiches.",
+          "The apple pie had a beautiful golden, flaky crust.",
+          "A thin crust of ice formed overnight on the puddles."
+        ],
+        "synonyms": [
+          "shell",
+          "coating",
+          "rind",
+          "outer layer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "concrete"
+    ],
+    "note": "'The upper crust' (idiom) = tầng lớp thượng lưu.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fermentation",
+    "pronunciation": "/ˌfɜːmɛnˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quá trình lên men (vi khuẩn/nấm men chuyển hóa đường thành rượu, axit, hoặc khí)",
+        "examples": [
+          "Fermentation is the process that turns grape juice into wine.",
+          "The bread rises during baking because of fermentation from the yeast.",
+          "Fermentation is used in the production of cheese, beer, yogurt, and soy sauce."
+        ],
+        "synonyms": [
+          "ferment",
+          "yeast process",
+          "brewing"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "science",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ale",
+    "pronunciation": "/eɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ale — loại bia nồng, ủ với men lên men trên bề mặt (khác với lager)",
+        "examples": [
+          "He ordered a pint of pale ale at the local pub.",
+          "Real ale is traditionally brewed without artificial additives.",
+          "British ales vary widely in colour, strength, and flavour."
+        ],
+        "synonyms": [
+          "beer",
+          "bitter",
+          "draught"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "concrete"
+    ],
+    "note": "Khác với 'lager' (bia vàng nhạt ủ lạnh): ale có vị đậm, nồng, ủ ở nhiệt độ cao hơn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barbecue",
+    "pronunciation": "/ˈbɑːbɪkjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tiệc nướng ngoài trời; vỉ nướng; đồ ăn nướng",
+        "examples": [
+          "They hosted a barbecue in the garden on a sunny Sunday afternoon.",
+          "Put the chicken on the barbecue when the coals are hot and ready.",
+          "BBQ sauce is the barbecue's most essential condiment."
+        ],
+        "synonyms": [
+          "grill",
+          "cookout",
+          "braai"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nướng trên vỉ ngoài trời",
+        "examples": [
+          "We barbecued steaks and corn for the whole family.",
+          "She barbecued the whole fish with lemon, herbs, and olive oil.",
+          "It's perfect weather to barbecue in the backyard."
+        ],
+        "synonyms": [
+          "grill",
+          "spit-roast"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "venison",
+    "pronunciation": "/ˈvenɪsn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thịt hươu, thịt nai",
+        "examples": [
+          "Venison has a rich, slightly gamey flavour.",
+          "The restaurant's signature dish is slow-cooked venison with red wine sauce.",
+          "Venison steaks were served at the hunting lodge after the weekend hunt."
+        ],
+        "synonyms": [
+          "deer meat",
+          "game"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "animal",
+      "concrete"
+    ],
+    "note": "'Game meat' = thịt thú săn. Venison là loại game meat phổ biến nhất ở Anh và Scotland.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scrambled egg",
+    "pronunciation": "/ˈskræmbld ɛɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trứng bác, trứng khuấy",
+        "examples": [
+          "Scrambled eggs on toast is a classic British breakfast.",
+          "He made fluffy scrambled eggs with cream, butter, and chives.",
+          "The hotel buffet included scrambled eggs, bacon, and grilled tomatoes."
+        ],
+        "synonyms": [
+          "stirred egg"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cereal",
+    "pronunciation": "/ˈsɪəriəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngũ cốc ăn sáng (ăn với sữa); cây ngũ cốc (lúa mì, gạo, ngô...)",
+        "examples": [
+          "She eats a bowl of cereal with cold milk every morning.",
+          "Wheat, rice, and maize are the world's most important cereal crops.",
+          "The supermarket shelf was lined with colourful cereal boxes."
+        ],
+        "synonyms": [
+          "grain",
+          "corn flakes",
+          "oats"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "refrigerate",
+    "pronunciation": "/rɪˈfrɪdʒəreɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Bảo quản lạnh, để vào tủ lạnh",
+        "examples": [
+          "Refrigerate any leftover cooked chicken within two hours.",
+          "This product must be refrigerated after opening.",
+          "The medication needs to be refrigerated at all times."
+        ],
+        "synonyms": [
+          "cool",
+          "chill",
+          "keep cold",
+          "store cold"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "food"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "grill",
+    "pronunciation": "/ɡrɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vỉ nướng; món nướng trên vỉ",
+        "examples": [
+          "Put the steak on a hot grill for five minutes on each side.",
+          "She cooked the vegetables on a cast-iron grill pan.",
+          "The restaurant is renowned for its wood-fired grill dishes."
+        ],
+        "synonyms": [
+          "barbecue",
+          "griddle",
+          "broiler"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nướng trên vỉ (không dầu); (informal) thẩm vấn gắt gao",
+        "examples": [
+          "Grill the chicken until the juices run clear.",
+          "The prosecutor grilled the witness for over two hours.",
+          "The interviewers really grilled him about his previous experience."
+        ],
+        "synonyms": [
+          "broil",
+          "barbecue",
+          "interrogate",
+          "question"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "'Grill' trong tiếng Anh Anh = nướng từ trên (broiler); trong tiếng Anh Mỹ thường là nướng từ dưới (barbecue).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scoop",
+    "pronunciation": "/skuːp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Muỗng múc lớn; một phần kem; tin độc quyền (báo chí)",
+        "examples": [
+          "She served two scoops of vanilla ice cream in a bowl.",
+          "The reporter got the scoop on the election result before anyone else.",
+          "Use a scoop to transfer flour from the bag to the mixing bowl."
+        ],
+        "synonyms": [
+          "ladle",
+          "spoon",
+          "shovel",
+          "exclusive"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Múc, xúc; đào lấy; giành tin độc quyền",
+        "examples": [
+          "Scoop the seeds out of the pumpkin before roasting it.",
+          "She scooped the laughing child up into her arms.",
+          "The newspaper scooped all rivals with the breaking story."
+        ],
+        "synonyms": [
+          "ladle",
+          "hollow out",
+          "gather",
+          "scoop up"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "puree",
+    "pronunciation": "/ˈpjʊəreɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồ xay nhuyễn, đồ nghiền mịn",
+        "examples": [
+          "Add a tablespoon of tomato puree for a richer sauce.",
+          "The baby was given a diet of smooth vegetable purees.",
+          "Pea puree is a popular accompaniment to pan-fried fish."
+        ],
+        "synonyms": [
+          "paste",
+          "mash",
+          "sauce"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Xay nhuyễn, nghiền đến mịn",
+        "examples": [
+          "Puree the soup in a blender until completely smooth.",
+          "She pureed the carrots, then mixed them with butter and cream.",
+          "Puree the mango and freeze in moulds for ice lollies."
+        ],
+        "synonyms": [
+          "blend",
+          "mash",
+          "liquidize"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dip",
+    "pronunciation": "/dɪp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nước chấm, sốt chấm; sự sụt giảm ngắn; bài bơi ngắn",
+        "examples": [
+          "The platter came with three dips — hummus, salsa, and guacamole.",
+          "There's been a dip in sales this quarter.",
+          "She went for a quick dip in the pool before breakfast."
+        ],
+        "synonyms": [
+          "sauce",
+          "condiment",
+          "dressing",
+          "drop",
+          "plunge"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nhúng, chấm (vào nước chấm); giảm xuống ngắn hạn",
+        "examples": [
+          "Dip the bread into the olive oil and balsamic vinegar.",
+          "She dipped her toes in the cold lake water.",
+          "Temperatures dipped below zero overnight."
+        ],
+        "synonyms": [
+          "dunk",
+          "submerge",
+          "drop",
+          "lower"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "food",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mash",
+    "pronunciation": "/mæʃ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Nghiền nát, tán nhuyễn (thức ăn)",
+        "examples": [
+          "Mash the potatoes with butter and cream until silky smooth.",
+          "She mashed the avocado with lime juice to make guacamole.",
+          "He mashed the garlic into a paste with the flat of a knife."
+        ],
+        "synonyms": [
+          "crush",
+          "squash",
+          "purée",
+          "pound"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "food"
+    ],
+    "note": "'Mash' (n) = khoai tây nghiền (mashed potato) — món ăn kèm phổ biến ở Anh.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chop",
+    "pronunciation": "/tʃɒp/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Băm, thái, chặt (thức ăn hoặc gỗ)",
+        "examples": [
+          "Chop the onions finely before adding them to the pan.",
+          "He chopped firewood to prepare for winter.",
+          "The funding for the project was chopped due to budget constraints."
+        ],
+        "synonyms": [
+          "cut",
+          "dice",
+          "mince",
+          "hack",
+          "slice"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "food"
+    ],
+    "note": "'Chop and change' (idiom) = thay đổi liên tục, không nhất quán.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nugget",
+    "pronunciation": "/ˈnʌɡɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Miếng thịt tẩm bột chiên; cục vàng; thông tin/sự thật quý giá nhỏ",
+        "examples": [
+          "The kids ordered chicken nuggets and chips for dinner.",
+          "Gold nuggets were found by prospectors during the California Gold Rush.",
+          "That article contains a few nuggets of genuinely useful information."
+        ],
+        "synonyms": [
+          "chunk",
+          "piece",
+          "morsel",
+          "lump"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

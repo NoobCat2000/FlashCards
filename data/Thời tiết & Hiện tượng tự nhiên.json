@@ -1,0 +1,196 @@
+[
+  {
+    "word": "flurry",
+    "pronunciation": "/ˈflʌri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơn tuyết/mưa/gió ngắn và nhẹ; sự bùng phát ngắn của hoạt động",
+        "examples": [
+          "A brief flurry of snow dusted the rooftops overnight.",
+          "There was a flurry of activity in the office before the deadline.",
+          "We saw a flurry of questions from the audience after the talk."
+        ],
+        "synonyms": [
+          "gust",
+          "burst",
+          "spurt",
+          "squall"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "nature",
+      "abstract"
+    ],
+    "note": "Hai cách dùng phổ biến: (1) thời tiết — cơn tuyết/mưa nhẹ; (2) nghĩa rộng — sự ồn ào/bùng phát ngắn ('a flurry of activity').",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deluge",
+    "pronunciation": "/ˈdeljuːdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trận mưa lớn; trận lụt; lượng lớn áp đảo",
+        "examples": [
+          "The city was hit by a sudden deluge that flooded the streets.",
+          "The company received a deluge of complaints after the announcement.",
+          "A deluge of requests crashed the website on launch day."
+        ],
+        "synonyms": [
+          "flood",
+          "downpour",
+          "torrent",
+          "inundation"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tràn ngập, áp đảo bằng lượng lớn (thường thụ động)",
+        "examples": [
+          "The support team was deluged with calls after the outage.",
+          "She was deluged with questions from journalists.",
+          "Fans deluged the star with letters and gifts."
+        ],
+        "synonyms": [
+          "flood",
+          "overwhelm",
+          "inundate",
+          "swamp"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "drought",
+    "pronunciation": "/draʊt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hạn hán, thời kỳ thiếu mưa kéo dài",
+        "examples": [
+          "The drought has devastated crops across the region.",
+          "A severe drought left millions without clean water.",
+          "The lake nearly dried up during the two-year drought."
+        ],
+        "synonyms": [
+          "dry spell",
+          "aridity",
+          "water shortage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "humidity",
+    "pronunciation": "/hjuːˈmɪdɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Độ ẩm trong không khí",
+        "examples": [
+          "The humidity in the jungle made it hard to breathe.",
+          "High humidity levels make hot weather feel even more oppressive.",
+          "The museum controls temperature and humidity to preserve its artworks."
+        ],
+        "synonyms": [
+          "moisture",
+          "dampness",
+          "mugginess"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "nature",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "billow",
+    "pronunciation": "/ˈbɪləʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đợt sóng lớn; đám khói/mây cuồn cuộn",
+        "examples": [
+          "Billows of smoke poured from the burning building.",
+          "The sails caught the wind in great billows.",
+          "A billow of steam rose from the factory chimney."
+        ],
+        "synonyms": [
+          "wave",
+          "surge",
+          "swell",
+          "cloud"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Phồng lên, cuồn cuộn (khói, vải, mây)",
+        "examples": [
+          "The curtains billowed in the summer breeze.",
+          "Smoke billowed from the factory chimney all day.",
+          "Her dress billowed out around her as she danced."
+        ],
+        "synonyms": [
+          "swell",
+          "puff out",
+          "balloon",
+          "surge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crisp",
+    "pronunciation": "/krɪsp/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "(Không khí) trong lành, se lạnh và dễ chịu; (đồ ăn) giòn; (văn phong/hành động) gọn gàng, dứt khoát",
+        "examples": [
+          "We went for a walk in the crisp autumn air.",
+          "A crisp winter morning greeted us as we stepped outside.",
+          "The biscuit had a satisfying crisp texture."
+        ],
+        "synonyms": [
+          "fresh",
+          "brisk",
+          "invigorating",
+          "bracing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "nature"
+    ],
+    "note": "'Crisp' có ít nhất 3 nghĩa thường gặp: (1) không khí se lạnh trong lành; (2) thức ăn giòn rụm; (3) cách trình bày/lời nói gọn gàng, sắc bén.",
+    "needsEnrichment": false
+  }
+]

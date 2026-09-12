@@ -1,0 +1,279 @@
+[
+  {
+    "word": "aviation",
+    "pronunciation": "/ˌeɪviˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngành hàng không; việc bay máy bay",
+        "examples": [
+          "She has always dreamed of a career in aviation.",
+          "Advances in aviation technology have made flights safer and more efficient.",
+          "The aviation industry was severely affected by the pandemic."
+        ],
+        "synonyms": [
+          "aeronautics",
+          "air travel",
+          "flight"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "work",
+      "transport",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "civil servant",
+    "pronunciation": "/ˈsɪvl ˈsɜːvənt/",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Công chức nhà nước",
+        "examples": [
+          "He has worked as a civil servant in the tax department for twenty years.",
+          "Civil servants must remain politically neutral in their duties.",
+          "The reforms were unpopular among senior civil servants."
+        ],
+        "synonyms": [
+          "government employee",
+          "public servant",
+          "official"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase",
+      "work",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "receptionist",
+    "pronunciation": "/rɪˈsepʃənɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhân viên lễ tân",
+        "examples": [
+          "The receptionist greeted every guest with a warm smile.",
+          "Please check in with the receptionist when you arrive.",
+          "She worked as a hotel receptionist for three years before being promoted."
+        ],
+        "synonyms": [
+          "front desk clerk",
+          "secretary"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "work",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "comptroller",
+    "pronunciation": "/kənˈtrəʊlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kiểm soát viên tài chính, kế toán trưởng (chức danh chính thức)",
+        "examples": [
+          "The comptroller's office oversees the city's entire budget.",
+          "She was appointed as the state comptroller last year.",
+          "The comptroller reported a significant deficit in the annual accounts."
+        ],
+        "synonyms": [
+          "controller",
+          "auditor",
+          "financial officer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "work",
+      "business",
+      "person"
+    ],
+    "note": "Chủ yếu dùng trong bộ máy nhà nước và chính phủ Mỹ. Phát âm giống 'controller'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "veterinary",
+    "pronunciation": "/ˈvetrɪnri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về thú y, liên quan đến y học động vật",
+        "examples": [
+          "She is studying at a veterinary school.",
+          "The dog received prompt veterinary care after the accident.",
+          "Veterinary science has advanced significantly in recent decades."
+        ],
+        "synonyms": [
+          "animal medical"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Bác sĩ thú y (viết tắt, informal)",
+        "examples": [
+          "I need to take my cat to the veterinary.",
+          "The veterinary examined the horse's injured leg carefully.",
+          "Our local veterinary is very experienced with exotic animals."
+        ],
+        "synonyms": [
+          "vet",
+          "veterinarian",
+          "animal doctor"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun",
+      "work",
+      "medical",
+      "animal"
+    ],
+    "note": "Dạng đầy đủ là 'veterinarian'; 'vet' là viết tắt thông dụng nhất.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lieutenant",
+    "pronunciation": "/lefˈtenənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trung úy (quân đội); phó, người thừa lệnh trong tổ chức",
+        "examples": [
+          "He was promoted to the rank of lieutenant last year.",
+          "The lieutenant passed on the general's orders to the troops.",
+          "As his lieutenant, she handled all the day-to-day operations."
+        ],
+        "synonyms": [
+          "second-in-command",
+          "deputy",
+          "officer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "work",
+      "person"
+    ],
+    "note": "Phát âm tiếng Anh Mỹ: /luːˈtenənt/; tiếng Anh Anh: /lefˈtenənt/.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "supervise",
+    "pronunciation": "/ˈsuːpəvaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giám sát, quản lý (công việc hoặc nhân viên)",
+        "examples": [
+          "She was hired to supervise the construction project.",
+          "He supervised a team of twenty employees.",
+          "Teachers must supervise students carefully during exam sessions."
+        ],
+        "synonyms": [
+          "oversee",
+          "manage",
+          "direct",
+          "monitor"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "decommission",
+    "pronunciation": "/ˌdiːkəˈmɪʃn/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Đưa ra khỏi hoạt động chính thức (tàu, nhà máy, vũ khí, vệ tinh)",
+        "examples": [
+          "The aging nuclear plant was decommissioned last year.",
+          "Several warships were decommissioned after the peace treaty was signed.",
+          "The satellite will be decommissioned when its fuel runs out."
+        ],
+        "synonyms": [
+          "retire",
+          "shut down",
+          "take out of service",
+          "dismantle"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "debut",
+    "pronunciation": "/ˈdeɪbjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lần ra mắt đầu tiên, lần xuất hiện lần đầu trước công chúng",
+        "examples": [
+          "The singer made her debut at Carnegie Hall at just eighteen.",
+          "His film debut was a box office success.",
+          "The product's debut was eagerly anticipated by consumers worldwide."
+        ],
+        "synonyms": [
+          "first appearance",
+          "launch",
+          "premiere",
+          "introduction"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ra mắt, xuất hiện lần đầu",
+        "examples": [
+          "The band debuted their new album at a sold-out concert.",
+          "She debuted as a film director with a low-budget thriller.",
+          "The smartphone model debuted at a major tech conference in Berlin."
+        ],
+        "synonyms": [
+          "launch",
+          "premiere",
+          "appear",
+          "introduce"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "work",
+      "abstract"
+    ],
+    "note": "Gốc tiếng Pháp. Phát âm cả 'debut' /ˈdeɪbjuː/ và 'début' đều đúng.",
+    "needsEnrichment": false
+  }
+]

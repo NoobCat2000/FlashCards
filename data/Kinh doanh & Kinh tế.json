@@ -1,0 +1,1610 @@
+[
+  {
+    "word": "takings",
+    "pronunciation": "/ˈteɪkɪŋz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Doanh thu (tiền thu được trong một thời gian hoặc tại một địa điểm)",
+        "examples": [
+          "The box office takings are up on last week.",
+          "Takings rose 45 percent when the new promotion was launched.",
+          "Checking the takings at the end of the day is a key part of retail management."
+        ],
+        "synonyms": [
+          "revenue",
+          "receipts",
+          "income",
+          "earnings"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "Thường dùng số nhiều. Dùng nhiều trong bán lẻ và giải trí.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "commercially",
+    "pronunciation": "/kəˈmɜːʃəli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Về mặt thương mại; có khả năng sinh lời",
+        "examples": [
+          "The product is not yet commercially available.",
+          "It was the first commercially successful AI product on the market.",
+          "The drug has not yet been approved for commercially widespread use."
+        ],
+        "synonyms": [
+          "for profit",
+          "in business terms"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "acquisition",
+    "pronunciation": "/ˌækwɪˈzɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự mua lại, sáp nhập (công ty); vật được mua sắm",
+        "examples": [
+          "The acquisition helped the company enter the US market.",
+          "Details of the acquisition were not disclosed to the press.",
+          "The museum's latest acquisition is a rare Ming dynasty vase."
+        ],
+        "synonyms": [
+          "takeover",
+          "buyout",
+          "purchase",
+          "merger"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Merger & Acquisition' (M&A) = mua bán và sáp nhập — cụm từ phổ biến trong tài chính.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bargain",
+    "pronunciation": "/ˈbɑːɡɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Món hời (mua được rẻ); thỏa thuận, giao kèo",
+        "examples": [
+          "The coat was a real bargain at that price.",
+          "He drove a hard bargain and got the price down by half.",
+          "They struck a bargain: she would work Saturdays in exchange for extra holidays."
+        ],
+        "synonyms": [
+          "deal",
+          "agreement",
+          "good buy",
+          "steal"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Mặc cả, thương lượng giá cả",
+        "examples": [
+          "They bargained for two hours before reaching a deal.",
+          "She bargained the price down from £200 to £150.",
+          "Tourists are expected to bargain at the market."
+        ],
+        "synonyms": [
+          "negotiate",
+          "haggle",
+          "barter",
+          "deal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'More than bargained for' = nhiều hơn mong đợi (thường không mong muốn).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barter",
+    "pronunciation": "/ˈbɑːtə/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Trao đổi hàng hóa (không dùng tiền)",
+        "examples": [
+          "The settlers bartered furs for food and tools.",
+          "I had to barter with the locals when I ran out of money.",
+          "They bartered goods at the weekly market."
+        ],
+        "synonyms": [
+          "exchange",
+          "trade",
+          "swap",
+          "deal"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Hình thức trao đổi hàng hóa trực tiếp",
+        "examples": [
+          "We used cigarettes as barter in the prisoner-of-war camp.",
+          "The economy collapsed to barter when the currency became worthless.",
+          "Barter is still used in some traditional economies."
+        ],
+        "synonyms": [
+          "exchange",
+          "trade",
+          "swap"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deficit",
+    "pronunciation": "/ˈdefɪsɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thâm hụt, thiếu hụt (chi lớn hơn thu)",
+        "examples": [
+          "The government is struggling to reduce the budget deficit.",
+          "The trade balance has been in deficit for the past five years.",
+          "A deficit of confidence among investors can stall recovery."
+        ],
+        "synonyms": [
+          "shortfall",
+          "deficiency",
+          "gap",
+          "shortcoming"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Budget deficit' = thâm hụt ngân sách. 'Trade deficit' = thâm hụt thương mại. Đối lập với 'surplus' (thặng dư).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dividend",
+    "pronunciation": "/ˈdɪvɪdend/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ tức (phần lợi nhuận chia cho cổ đông); lợi ích từ nỗ lực",
+        "examples": [
+          "The company paid a dividend of 30 cents per share.",
+          "The dividend had to be paid out of reserves this quarter.",
+          "Years of hard training are now paying dividends."
+        ],
+        "synonyms": [
+          "distribution",
+          "share",
+          "return",
+          "reward"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Pay dividends' (nghĩa bóng) = mang lại kết quả tốt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "liquidity",
+    "pronunciation": "/lɪˈkwɪdɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thanh khoản (khả năng chuyển đổi tài sản thành tiền mặt)",
+        "examples": [
+          "The bank maintained strong liquidity throughout the crisis.",
+          "Banks must keep sufficient liquidity to meet depositor demands.",
+          "A liquidity crunch forced the firm to sell off assets."
+        ],
+        "synonyms": [
+          "cash availability",
+          "financial flexibility",
+          "solvency"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "premium",
+    "pronunciation": "/ˈpriːmiəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phí bảo hiểm; mức giá cao hơn thông thường; ưu đãi/thưởng",
+        "examples": [
+          "Insurance premiums have risen sharply this year.",
+          "Customers are willing to pay a premium for high quality.",
+          "The shares were sold at a premium above their book value."
+        ],
+        "synonyms": [
+          "surcharge",
+          "bonus",
+          "extra charge",
+          "top-up"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'At a premium' = rất khan hiếm và do đó có giá trị cao.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tariff",
+    "pronunciation": "/ˈtærɪf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thuế quan (thuế đánh lên hàng nhập khẩu); biểu phí dịch vụ",
+        "examples": [
+          "The country imposed high tariffs on imported steel.",
+          "A new tariff for low electricity users will also be introduced.",
+          "The trading bloc threatened retaliatory tariffs."
+        ],
+        "synonyms": [
+          "import duty",
+          "customs duty",
+          "tax",
+          "levy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "turn a profit",
+    "pronunciation": "/tɜːn ə ˈprɒfɪt/",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Sinh lời, bắt đầu có lợi nhuận",
+        "examples": [
+          "The company finally turned a profit after three years of losses.",
+          "It's difficult for a small business to turn a profit in its first year.",
+          "They need to cut costs drastically in order to turn a profit."
+        ],
+        "synonyms": [
+          "break even",
+          "make money",
+          "profit",
+          "go into the black"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "valuation",
+    "pronunciation": "/ˌvæljuˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự định giá; giá trị được đánh giá",
+        "examples": [
+          "The company's market valuation exceeded two billion dollars.",
+          "A property valuation was required before the sale could proceed.",
+          "She puts a high valuation on trust between colleagues."
+        ],
+        "synonyms": [
+          "assessment",
+          "appraisal",
+          "estimate",
+          "pricing"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "yield",
+    "pronunciation": "/jiːld/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sản lượng; lợi suất (trái phiếu/đầu tư)",
+        "examples": [
+          "This variety of wheat produces a higher yield per acre.",
+          "Government bond yields have fallen to historic lows.",
+          "The farm's yield declined due to the summer drought."
+        ],
+        "synonyms": [
+          "output",
+          "return",
+          "profit",
+          "production"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Mang lại, sinh ra (kết quả, lợi nhuận); nhượng bộ",
+        "examples": [
+          "The investment yielded a ten percent annual return.",
+          "He refused to yield to political pressure.",
+          "The military promised to yield power to a civilian government."
+        ],
+        "synonyms": [
+          "produce",
+          "generate",
+          "give up",
+          "surrender",
+          "concede"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "agriculture",
+      "abstract"
+    ],
+    "note": "Hai nghĩa động từ: (1) sinh ra sản phẩm/lợi nhuận; (2) nhượng bộ/chịu thua.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "firm",
+    "pronunciation": "/fɜːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Công ty, hãng (thường là doanh nghiệp nhỏ đến vừa)",
+        "examples": [
+          "She works for a law firm in the city.",
+          "The firm went bankrupt after the scandal.",
+          "Several consulting firms are bidding for the government contract."
+        ],
+        "synonyms": [
+          "company",
+          "business",
+          "agency",
+          "partnership"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Cứng, chắc chắn; kiên quyết, dứt khoát",
+        "examples": [
+          "She was firm in her decision not to resign.",
+          "He gave a firm handshake.",
+          "The mattress is quite firm."
+        ],
+        "synonyms": [
+          "solid",
+          "hard",
+          "resolute",
+          "steadfast",
+          "definite"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "business",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "commodity",
+    "pronunciation": "/kəˈmɒdɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàng hoá (nguyên liệu thô được giao dịch như dầu mỏ, ngũ cốc); thứ có giá trị",
+        "examples": [
+          "Oil is the world's most actively traded commodity.",
+          "Clean water is a precious commodity in many parts of the world.",
+          "Commodity prices fell sharply on global markets."
+        ],
+        "synonyms": [
+          "product",
+          "good",
+          "resource",
+          "material"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "concrete"
+    ],
+    "note": "'Commodity market' = thị trường hàng hóa (dầu, vàng, nông sản...).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deposit",
+    "pronunciation": "/dɪˈpɒzɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tiền đặt cọc; tiền gửi ngân hàng; khoáng sản tích tụ",
+        "examples": [
+          "They'll probably ask you to leave a deposit when you hire the car.",
+          "I need to deposit five thousand dollars in my savings account.",
+          "Large deposits of iron ore were found in the region."
+        ],
+        "synonyms": [
+          "down payment",
+          "security",
+          "pledge",
+          "savings"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Gửi (tiền) vào ngân hàng; đặt cọc; để lại (trầm tích)",
+        "examples": [
+          "She deposited the cheque at the bank.",
+          "The river deposits sediment as it reaches the delta.",
+          "He deposited his luggage at the hotel before exploring the city."
+        ],
+        "synonyms": [
+          "pay in",
+          "save",
+          "place",
+          "set down"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "concrete",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "domestic",
+    "pronunciation": "/dəˈmestɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Trong nước (kinh tế, thị trường); thuộc về gia đình; ưa mái ấm gia đình",
+        "examples": [
+          "Domestic fuel bills are set to rise again in the autumn.",
+          "The policy focuses on boosting domestic demand.",
+          "She has always had a very domestic lifestyle."
+        ],
+        "synonyms": [
+          "internal",
+          "home",
+          "national",
+          "household"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Vụ cãi vã gia đình (informal); người giúp việc nhà (dated)",
+        "examples": [
+          "The police were called to sort out a domestic.",
+          "He hired two domestics to maintain the large house.",
+          "A domestic dispute escalated into a serious incident."
+        ],
+        "synonyms": [
+          "household staff",
+          "family dispute"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Domestic violence' = bạo lực gia đình.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "debit",
+    "pronunciation": "/ˈdebɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khoản ghi nợ; tiền bị trừ khỏi tài khoản",
+        "examples": [
+          "The total debits on the account were £2,000 last month.",
+          "Settlement is made monthly by direct debit.",
+          "Check the debit column in the ledger."
+        ],
+        "synonyms": [
+          "charge",
+          "withdrawal",
+          "payment out"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ghi nợ; trừ tiền từ tài khoản",
+        "examples": [
+          "The money will be debited from your account each month.",
+          "The bank debited his account without prior notice.",
+          "Please debit £50 to cover the outstanding balance."
+        ],
+        "synonyms": [
+          "charge",
+          "withdraw",
+          "deduct"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "Đối lập với 'credit' (ghi có). 'Direct debit' = ủy nhiệm chi tự động.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disburse",
+    "pronunciation": "/dɪsˈbɜːs/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giải ngân, chi trả (tiền từ quỹ hay tổ chức)",
+        "examples": [
+          "The aid will not be disbursed until the conditions are met.",
+          "Salaries were disbursed by the paymaster's office every two weeks.",
+          "The bank has disbursed over £350 million for the infrastructure project."
+        ],
+        "synonyms": [
+          "pay out",
+          "distribute",
+          "release",
+          "allocate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "Formal. 'Disbursement' (n) = khoản giải ngân.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stake",
+    "pronunciation": "/steɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ phần (trong công ty); mức đặt cược; cọc gỗ/sắt",
+        "examples": [
+          "He holds a 51% stake in the firm.",
+          "She has a personal stake in the project's success.",
+          "A wooden stake was driven firmly into the ground."
+        ],
+        "synonyms": [
+          "share",
+          "interest",
+          "investment",
+          "wager"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "concrete",
+      "abstract"
+    ],
+    "note": "'At stake' = đang bị đe dọa, đặt vào cuộc. 'Stakeholder' = bên liên quan.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deduct",
+    "pronunciation": "/dɪˈdʌkt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Khấu trừ, trừ đi (thuế, chi phí)",
+        "examples": [
+          "Tax and national insurance are deducted from your wages.",
+          "Your employer will deduct the tax automatically.",
+          "If you pay for repairs yourself, you can deduct the cost from your rent."
+        ],
+        "synonyms": [
+          "subtract",
+          "take off",
+          "withhold",
+          "remove"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'Tax-deductible' = được khấu trừ thuế.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "expenditure",
+    "pronunciation": "/ɪkˈspendɪtʃə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chi tiêu, khoản chi phí (formal)",
+        "examples": [
+          "Public expenditure on education has been cut significantly.",
+          "The company kept expenditure under tight control.",
+          "Capital expenditure includes spending on equipment and buildings."
+        ],
+        "synonyms": [
+          "spending",
+          "outlay",
+          "costs",
+          "disbursement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "expend",
+    "pronunciation": "/ɪkˈspend/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chi tiêu, tiêu hao (năng lượng, nguồn lực)",
+        "examples": [
+          "Don't expend all your energy on minor tasks.",
+          "He expended considerable effort on the project.",
+          "They expended their entire budget before the year was out."
+        ],
+        "synonyms": [
+          "spend",
+          "use up",
+          "consume",
+          "exhaust"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "Formal. Thường dùng 'spend' trong văn nói.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mortgage",
+    "pronunciation": "/ˈmɔːɡɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khoản vay thế chấp (thường để mua nhà)",
+        "examples": [
+          "They took out a 25-year mortgage to buy their first home.",
+          "Monthly mortgage repayments are their biggest expense.",
+          "Rising interest rates increase the cost of mortgage repayments."
+        ],
+        "synonyms": [
+          "home loan",
+          "secured loan"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Thế chấp (tài sản) để vay tiền; hy sinh tương lai",
+        "examples": [
+          "He mortgaged the house to fund his failing business.",
+          "The country has mortgaged its future by taking on so much debt.",
+          "She mortgaged her career prospects by accepting the short-term deal."
+        ],
+        "synonyms": [
+          "pledge",
+          "use as security",
+          "hypothecate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'Mortgage your future' (nghĩa bóng) = hy sinh tương lai để lấy lợi ích ngắn hạn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "merchant",
+    "pronunciation": "/ˈmɜːtʃənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thương nhân, lái buôn (thường buôn bán số lượng lớn)",
+        "examples": [
+          "Merchants from across the region traded at the medieval fair.",
+          "A wealthy spice merchant built the mansion in the 17th century.",
+          "The online merchant shipped goods to over 50 countries."
+        ],
+        "synonyms": [
+          "trader",
+          "dealer",
+          "supplier",
+          "vendor"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "monetary",
+    "pronunciation": "/ˈmʌnɪtəri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về tiền tệ, liên quan đến tiền",
+        "examples": [
+          "The central bank made a major monetary policy decision.",
+          "Monetary rewards motivate some people more than material incentives.",
+          "The monetary value of the painting is enormous."
+        ],
+        "synonyms": [
+          "financial",
+          "fiscal",
+          "economic",
+          "pecuniary"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "business"
+    ],
+    "note": "'Monetary policy' = chính sách tiền tệ (do ngân hàng trung ương quyết định).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "monopolise",
+    "pronunciation": "/məˈnɒpəlaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Độc quyền (thị trường); chiếm giữ toàn bộ (sự chú ý, cuộc nói chuyện)",
+        "examples": [
+          "The company monopolised the market for over two decades.",
+          "He monopolised the conversation, leaving no room for others.",
+          "Regulations exist to prevent any one firm from monopolising the industry."
+        ],
+        "synonyms": [
+          "dominate",
+          "corner the market",
+          "control"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ: 'monopolize'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "merchandise",
+    "pronunciation": "/ˈmɜːtʃəndaɪz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàng hoá bán lẻ; đồ lưu niệm chính thức (của nhóm nhạc, đội thể thao)",
+        "examples": [
+          "The official merchandise sold out within hours of the announcement.",
+          "The store displayed its merchandise attractively in the window.",
+          "Sports teams earn millions from merchandise sales each year."
+        ],
+        "synonyms": [
+          "goods",
+          "products",
+          "wares",
+          "stock"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "merit",
+    "pronunciation": "/ˈmerɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giá trị, ưu điểm; phẩm chất xứng đáng",
+        "examples": [
+          "The application has significant merit and deserves consideration.",
+          "Each case should be judged on its own merits.",
+          "The proposed system has merit but also serious drawbacks."
+        ],
+        "synonyms": [
+          "worth",
+          "value",
+          "quality",
+          "virtue"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Xứng đáng với, đáng được hưởng",
+        "examples": [
+          "The proposal merits further discussion before a decision is made.",
+          "The complaint does not merit a formal investigation.",
+          "The issue merits serious attention from policymakers."
+        ],
+        "synonyms": [
+          "deserve",
+          "warrant",
+          "justify",
+          "be worthy of"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'On merit' = dựa trên năng lực, không thiên vị.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "refinery",
+    "pronunciation": "/rɪˈfaɪnəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà máy lọc dầu; nhà máy tinh chế (đường, kim loại)",
+        "examples": [
+          "The oil refinery dominates the skyline of the industrial town.",
+          "Workers at the refinery went on strike for better pay and conditions.",
+          "A sugar refinery was built to process the local crop."
+        ],
+        "synonyms": [
+          "processing plant",
+          "distillery"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "revenue",
+    "pronunciation": "/ˈrevənjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Doanh thu (thu nhập từ kinh doanh); nguồn thu (ngân sách nhà nước)",
+        "examples": [
+          "The company's annual revenue exceeded one billion dollars.",
+          "Tax revenue funds essential public services.",
+          "Declining advertising revenue forced the newspaper to cut staff."
+        ],
+        "synonyms": [
+          "income",
+          "earnings",
+          "proceeds",
+          "turnover"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "Phân biệt: 'revenue' = doanh thu tổng; 'profit' = lợi nhuận (sau chi phí).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "recession",
+    "pronunciation": "/rɪˈseʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Suy thoái kinh tế (thường định nghĩa là 2 quý liên tiếp GDP giảm)",
+        "examples": [
+          "The recession led to widespread job losses.",
+          "Governments scrambled to prevent the economy sliding into recession.",
+          "The company survived the recession by slashing costs aggressively."
+        ],
+        "synonyms": [
+          "downturn",
+          "slump",
+          "economic decline",
+          "contraction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "Định nghĩa kỹ thuật: 2 quý liên tiếp GDP âm. Phân biệt với 'depression' (suy thoái nghiêm trọng hơn).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "drawdown",
+    "pronunciation": "/ˈdrɔːdaʊn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự rút tiền/tài sản; mức sụt giảm tối đa từ đỉnh (đầu tư); rút quân",
+        "examples": [
+          "The drawdown of troops began after the peace agreement was signed.",
+          "Investors grew nervous about the portfolio's recent drawdown.",
+          "A drawdown of foreign reserves was needed to defend the currency."
+        ],
+        "synonyms": [
+          "withdrawal",
+          "reduction",
+          "decrease"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "military",
+      "abstract"
+    ],
+    "note": "Thuật ngữ tài chính: chênh lệch giữa đỉnh cao nhất và điểm thấp nhất của danh mục đầu tư.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "liquidate",
+    "pronunciation": "/ˈlɪkwɪdeɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thanh lý (công ty/tài sản); tiêu diệt hoàn toàn (informal)",
+        "examples": [
+          "The company was liquidated after failing to pay its debts.",
+          "Assets were liquidated to cover outstanding loans.",
+          "He was reportedly liquidated by his own organisation."
+        ],
+        "synonyms": [
+          "dissolve",
+          "wind up",
+          "sell off",
+          "eliminate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'Go into liquidation' = bị thanh lý (phá sản).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lucre",
+    "pronunciation": "/ˈluːkə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tiền bạc (thường mang sắc thái khinh thường, gắn với lòng tham)",
+        "examples": [
+          "He was lured by the promise of filthy lucre.",
+          "True artists don't create for lucre alone.",
+          "The scandal revealed how lucre had corrupted the organisation."
+        ],
+        "synonyms": [
+          "money",
+          "gain",
+          "profit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Filthy lucre' (thành ngữ) = tiền bẩn, tiền kiếm được bằng cách xấu.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lease",
+    "pronunciation": "/liːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hợp đồng thuê (dài hạn); thời hạn thuê",
+        "examples": [
+          "They signed a five-year lease on the office space.",
+          "The lease expires at the end of next year.",
+          "You can get a car on lease for as little as £200 a month."
+        ],
+        "synonyms": [
+          "rental agreement",
+          "tenancy",
+          "contract"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cho thuê hoặc thuê (dài hạn có hợp đồng)",
+        "examples": [
+          "He leased the equipment rather than buying it outright.",
+          "The company leases its headquarters from a property developer.",
+          "She leases her flat to tourists in the summer months."
+        ],
+        "synonyms": [
+          "rent",
+          "hire out",
+          "let"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "'Lease' thường dài hạn hơn 'rent'. 'Leasehold' = quyền sử dụng đất thuê; 'freehold' = sở hữu hoàn toàn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "appraisal",
+    "pronunciation": "/əˈpreɪzl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự đánh giá (nhân viên, tài sản, tình hình)",
+        "examples": [
+          "Her annual appraisal was scheduled for Thursday afternoon.",
+          "A property appraisal was required before the bank approved the loan.",
+          "The manager gave an honest appraisal of the team's performance."
+        ],
+        "synonyms": [
+          "assessment",
+          "evaluation",
+          "review",
+          "valuation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Performance appraisal' = đánh giá hiệu suất làm việc (nhân sự).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "auction",
+    "pronunciation": "/ˈɔːkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc đấu giá",
+        "examples": [
+          "The painting was sold at auction for three million pounds.",
+          "Online auctions have become a popular way to buy and sell goods.",
+          "Several properties went under the hammer at the auction."
+        ],
+        "synonyms": [
+          "sale",
+          "bidding",
+          "tender"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Bán đấu giá",
+        "examples": [
+          "The old mansion was auctioned to the highest bidder.",
+          "The bankrupt firm auctioned its assets to pay creditors.",
+          "The domain name was auctioned online."
+        ],
+        "synonyms": [
+          "sell by bid",
+          "put up for auction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "outperform",
+    "pronunciation": "/ˌaʊtpəˈfɔːm/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm tốt hơn, vượt trội (so với đối thủ hoặc chỉ số)",
+        "examples": [
+          "The fund has consistently outperformed the market.",
+          "She outperformed all expectations in her first year at the company.",
+          "Small firms often outperform large ones in terms of agility."
+        ],
+        "synonyms": [
+          "surpass",
+          "exceed",
+          "beat",
+          "outdo"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allowance",
+    "pronunciation": "/əˈlaʊəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trợ cấp; phụ cấp (thu nhập thêm); tiền tiêu vặt; khoảng dung sai",
+        "examples": [
+          "Do you get a travel allowance for entertaining clients?",
+          "My weekly pocket allowance was 50 yuan.",
+          "The budget made allowance for unexpected inflation."
+        ],
+        "synonyms": [
+          "subsidy",
+          "stipend",
+          "grant",
+          "allocation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Make allowance for' = tính đến, xem xét đến yếu tố nào đó.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lucrative",
+    "pronunciation": "/ˈluːkrətɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Sinh lời cao, béo bở",
+        "examples": [
+          "He decided to turn his hobby into a lucrative side business.",
+          "She has a lucrative deal with a cosmetics company.",
+          "Investment banking is one of the most lucrative careers available."
+        ],
+        "synonyms": [
+          "profitable",
+          "high-paying",
+          "rewarding",
+          "money-making"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "privatisation",
+    "pronunciation": "/ˌpraɪvətaɪˈzeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tư nhân hóa (chuyển doanh nghiệp nhà nước thành tư nhân)",
+        "examples": [
+          "The government accelerated its privatisation programme.",
+          "The privatisation of state utilities was controversial.",
+          "Critics argued that privatisation reduced accountability."
+        ],
+        "synonyms": [
+          "deregulation",
+          "denationalisation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "politics",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ: 'privatization'. Đối lập với 'nationalisation'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "capex",
+    "pronunciation": "/ˈkæp.eks/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chi phí vốn (vốn đầu tư dài hạn vào tài sản cố định)",
+        "examples": [
+          "The company allocated $10 million in CapEx for new manufacturing equipment.",
+          "Amazon's CapEx has surged as it builds more data centres to support AWS.",
+          "High capex industries like energy require massive upfront investment."
+        ],
+        "synonyms": [
+          "capital expenditure",
+          "investment",
+          "capital spending"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "Viết tắt của Capital Expenditure. Đối lập với 'OpEx' (chi phí vận hành).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "outlay",
+    "pronunciation": "/ˈaʊtleɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chi phí ban đầu bỏ ra; khoản vốn đầu tư",
+        "examples": [
+          "For a relatively small outlay, you can start a home business.",
+          "The project would require little financial outlay.",
+          "The initial outlay was repaid within two years."
+        ],
+        "synonyms": [
+          "expenditure",
+          "investment",
+          "cost",
+          "expense"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Chi ra, bỏ ra (tiền)",
+        "examples": [
+          "She outlaid a significant sum to renovate the property.",
+          "They outlaid far more than anticipated on compliance costs.",
+          "The department outlaid funds on training programmes."
+        ],
+        "synonyms": [
+          "spend",
+          "invest",
+          "disburse"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disposition",
+    "pronunciation": "/ˌdɪspəˈzɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự chuyển nhượng, giải quyết (tài sản, vụ kiện); tính tình, khuynh hướng",
+        "examples": [
+          "The board approved the disposition of the company's non-core assets.",
+          "In his will, he made a specific disposition of his property.",
+          "She has a cheerful disposition that puts everyone at ease."
+        ],
+        "synonyms": [
+          "transfer",
+          "arrangement",
+          "settlement",
+          "temperament",
+          "character"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "Hai nghĩa chính: (1) pháp lý/tài chính: sự xử lý tài sản; (2) tính cách: thiên hướng tự nhiên.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "depreciation",
+    "pronunciation": "/dɪˌpriːʃiˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khấu hao (giá trị giảm dần theo thời gian); sự mất giá tài sản",
+        "examples": [
+          "Annual depreciation is calculated as a percentage of the asset's original value.",
+          "The car's rapid depreciation means it's worth half its purchase price after two years.",
+          "Straight-line depreciation spreads the cost evenly across the asset's useful life."
+        ],
+        "synonyms": [
+          "devaluation",
+          "amortisation",
+          "wear and tear"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "'Straight-line depreciation' vs. 'accelerated depreciation' = hai phương pháp khấu hao phổ biến.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "devaluation",
+    "pronunciation": "/diːˌvæljʊˈeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phá giá đồng tiền (giảm giá trị so với ngoại tệ)",
+        "examples": [
+          "The devaluation of the peso made imports significantly more expensive.",
+          "A sharp devaluation boosted the country's export competitiveness overnight.",
+          "Investors feared a devaluation following the election result."
+        ],
+        "synonyms": [
+          "currency depreciation",
+          "weakening",
+          "debasement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "graft",
+    "pronunciation": "/ɡrɑːft/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tham nhũng, hối lộ trong hệ thống; (Anh informal) lao động nặng nhọc; mảnh ghép (y tế/nông nghiệp)",
+        "examples": [
+          "Systemic graft drained billions from public coffers.",
+          "Foreign investors were deterred by rampant graft in the system.",
+          "After years of hard graft, the company finally took off."
+        ],
+        "synonyms": [
+          "corruption",
+          "bribery",
+          "hard work",
+          "toil"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ghép (cây, da, mô); làm việc cật lực (informal)",
+        "examples": [
+          "She grafted a new branch onto the apple tree.",
+          "Skin was grafted onto the burned areas.",
+          "He grafted away at the project for months."
+        ],
+        "synonyms": [
+          "transplant",
+          "implant",
+          "toil",
+          "work hard"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "medical",
+      "agriculture",
+      "abstract"
+    ],
+    "note": "Ba nghĩa rất khác nhau: (1) tham nhũng; (2) lao động nặng (informal UK); (3) ghép (y tế/cây).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "levy",
+    "pronunciation": "/ˈlevi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thuế, phí, lệ phí (được chính phủ áp đặt)",
+        "examples": [
+          "A new levy on plastic packaging came into force this year.",
+          "The government is considering a windfall levy on energy companies.",
+          "The import levy raised prices for consumers significantly."
+        ],
+        "synonyms": [
+          "tax",
+          "duty",
+          "charge",
+          "tariff"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đánh thuế, áp đặt lệ phí",
+        "examples": [
+          "The government levied a windfall tax on oil company profits.",
+          "A fine of £500 was levied on the firm for the data breach.",
+          "The bloc threatened to levy retaliatory tariffs on imported goods."
+        ],
+        "synonyms": [
+          "impose",
+          "charge",
+          "collect",
+          "assess"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "business",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "publicity",
+    "pronunciation": "/pʌˈblɪsɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự chú ý công chúng; hoạt động quảng bá, tiếp thị",
+        "examples": [
+          "The product launch generated massive media publicity.",
+          "Any publicity is good publicity — or so the saying goes.",
+          "The scandal brought unwanted publicity to the brand."
+        ],
+        "synonyms": [
+          "media attention",
+          "promotion",
+          "advertising",
+          "press coverage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

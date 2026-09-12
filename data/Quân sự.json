@@ -1,0 +1,1009 @@
+[
+  {
+    "word": "armada",
+    "pronunciation": "/ɑːˈmɑːdə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hạm đội lớn (tàu chiến); đoàn phương tiện quy mô lớn",
+        "examples": [
+          "The Spanish Armada was defeated by the English fleet in 1588.",
+          "An armada of warships was deployed to the disputed waters.",
+          "A vast armada of aid ships set sail for the disaster zone."
+        ],
+        "synonyms": [
+          "fleet",
+          "naval force",
+          "flotilla"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "transport"
+    ],
+    "note": "Gốc tiếng Tây Ban Nha. Thường viết hoa khi chỉ hạm đội Tây Ban Nha năm 1588.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ballistic",
+    "pronunciation": "/bəˈlɪstɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về đạn đạo (quỹ đạo bay của đạn/tên lửa); (informal) nổi giận dữ dội",
+        "examples": [
+          "The ballistic missile can travel thousands of miles.",
+          "The country tested a new intercontinental ballistic missile.",
+          "He went ballistic when he found out about the missing funds."
+        ],
+        "synonyms": [
+          "projectile",
+          "rocket"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "military",
+      "science"
+    ],
+    "note": "'Go ballistic' (informal) = nổi giận bùng phát (mạnh và đột ngột).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enlist",
+    "pronunciation": "/ɪnˈlɪst/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Nhập ngũ, gia nhập quân đội; tranh thủ/kêu gọi sự giúp đỡ",
+        "examples": [
+          "He enlisted in the army shortly after finishing high school.",
+          "She enlisted the help of her colleagues to finish the report.",
+          "Thousands of young men enlisted during the first week of war."
+        ],
+        "synonyms": [
+          "join up",
+          "sign up",
+          "recruit",
+          "engage"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "grenade",
+    "pronunciation": "/ɡrɪˈneɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lựu đạn",
+        "examples": [
+          "The soldier pulled the pin and threw the grenade into the bunker.",
+          "A smoke grenade was used to provide cover during the retreat.",
+          "The bomb disposal team safely detonated the grenade."
+        ],
+        "synonyms": [
+          "explosive",
+          "bomb"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "concrete"
+    ],
+    "note": "'Grenade' gốc tiếng Pháp/Tây Ban Nha, từ 'granada' (quả lựu).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "militarily",
+    "pronunciation": "/ˈmɪlɪtərɪli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Về mặt quân sự, từ góc độ quân sự",
+        "examples": [
+          "The country is militarily powerful but economically weak.",
+          "The conflict cannot be resolved militarily — only through diplomacy.",
+          "Militarily speaking, the operation was a success."
+        ],
+        "synonyms": [
+          "strategically",
+          "from a military standpoint"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "militant",
+    "pronunciation": "/ˈmɪlɪtənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chiến binh, phần tử hiếu chiến (thường có hành động cực đoan)",
+        "examples": [
+          "Several militants were arrested in the border crackdown.",
+          "The group was designated a terrorist organisation after a series of attacks by its militants.",
+          "The peace talks excluded leaders of the more extreme militant factions."
+        ],
+        "synonyms": [
+          "extremist",
+          "fighter",
+          "radical",
+          "insurgent"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Hiếu chiến, cứng rắn (trong niềm tin hoặc hành động)",
+        "examples": [
+          "The union took a more militant stance on the pay dispute.",
+          "Militant protesters blocked the entrance to the factory.",
+          "A militant minority within the party pushed for more radical policies."
+        ],
+        "synonyms": [
+          "aggressive",
+          "combative",
+          "radical",
+          "confrontational"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "military",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bombard",
+    "pronunciation": "/bɒmˈbɑːd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Bắn phá, ném bom liên tục; tấn công tới tấp (câu hỏi, lời chỉ trích, quảng cáo)",
+        "examples": [
+          "The city was bombarded for three consecutive days.",
+          "Reporters bombarded the minister with questions after the press conference.",
+          "Consumers are constantly bombarded with advertising online."
+        ],
+        "synonyms": [
+          "shell",
+          "bomb",
+          "attack",
+          "overwhelm"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "siege",
+    "pronunciation": "/siːdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc bao vây (quân đội vây một địa điểm để buộc hàng); cuộc tấn công kéo dài",
+        "examples": [
+          "The medieval city fell after a three-month siege.",
+          "Police laid siege to the building after the hostage-taker barricaded himself inside.",
+          "The siege of Leningrad lasted nearly 900 days."
+        ],
+        "synonyms": [
+          "blockade",
+          "encirclement",
+          "investment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "'Under siege' = đang bị bao vây/bị áp lực dữ dội (cả nghĩa đen lẫn nghĩa bóng).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "warhead",
+    "pronunciation": "/ˈwɔːhed/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầu đạn (phần mang chất nổ/hạt nhân của tên lửa)",
+        "examples": [
+          "The missile was fitted with a nuclear warhead.",
+          "International inspectors are monitoring the number of active warheads.",
+          "The warhead was successfully defused by the bomb disposal team."
+        ],
+        "synonyms": [
+          "explosive charge",
+          "payload"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fleet",
+    "pronunciation": "/fliːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hạm đội (tàu chiến/tàu thuyền); đội xe, đội phương tiện",
+        "examples": [
+          "The naval fleet departed at dawn.",
+          "The company operates a fleet of 200 delivery vans.",
+          "The battle reduced the enemy fleet to a handful of ships."
+        ],
+        "synonyms": [
+          "naval force",
+          "armada",
+          "flotilla",
+          "convoy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "transport"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arsenal",
+    "pronunciation": "/ˈɑːsənl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kho vũ khí; bộ sưu tập vũ khí/công cụ; đội bóng đá Arsenal",
+        "examples": [
+          "The army's arsenal included tanks, artillery, and fighter jets.",
+          "The country's nuclear arsenal is one of the largest in the world.",
+          "She brought her entire arsenal of arguments to the debate."
+        ],
+        "synonyms": [
+          "armoury",
+          "stockpile",
+          "weapons store"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract",
+      "concrete"
+    ],
+    "note": "Nghĩa bóng: 'an arsenal of' = kho đồ sộ (kỹ năng, lập luận...).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "truce",
+    "pronunciation": "/truːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đình chiến, ngừng bắn tạm thời (hai bên đồng ý)",
+        "examples": [
+          "A truce was called on Christmas Day during World War I.",
+          "The two sides agreed to a temporary truce to allow aid convoys to pass.",
+          "The uneasy truce between the rival factions broke down after a week."
+        ],
+        "synonyms": [
+          "ceasefire",
+          "armistice",
+          "halt",
+          "peace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "Khác với 'ceasefire' (lệnh ngừng bắn chính thức): truce thường có tính tạm thời và không chính thức hơn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "infantry",
+    "pronunciation": "/ˈɪnfəntri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bộ binh (binh chủng chiến đấu trên bộ)",
+        "examples": [
+          "The infantry advanced through the forest under heavy fire.",
+          "Thousands of infantry soldiers were deployed to the border.",
+          "Infantry units bore the heaviest losses in the battle."
+        ],
+        "synonyms": [
+          "foot soldiers",
+          "ground troops",
+          "soldiers"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "triumph",
+    "pronunciation": "/ˈtraɪəmf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khải hoàn, chiến thắng vẻ vang; thành tựu lớn lao",
+        "examples": [
+          "The general's triumph was celebrated with a parade through the capital.",
+          "Winning the championship after ten years was a personal triumph.",
+          "The peace agreement was hailed as a triumph of diplomacy."
+        ],
+        "synonyms": [
+          "victory",
+          "success",
+          "conquest",
+          "achievement"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Giành chiến thắng vẻ vang; chiến thắng (đối thủ hoặc nghịch cảnh)",
+        "examples": [
+          "Good triumphed over evil in the end.",
+          "She triumphed despite all the obstacles put in her way.",
+          "The underdog team triumphed over the reigning champions."
+        ],
+        "synonyms": [
+          "win",
+          "prevail",
+          "succeed",
+          "overcome"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "espionage",
+    "pronunciation": "/ˈespiənɑːʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hoạt động gián điệp, hoạt động tình báo bí mật",
+        "examples": [
+          "He was arrested on charges of industrial espionage.",
+          "The Cold War was defined in part by intense espionage on both sides.",
+          "The novel is a gripping tale of espionage and betrayal."
+        ],
+        "synonyms": [
+          "spying",
+          "intelligence gathering",
+          "covert operations"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exterminate",
+    "pronunciation": "/ɪkˈstɜːmɪneɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tiêu diệt hoàn toàn (người, loài động vật, hoặc sâu bọ)",
+        "examples": [
+          "The regime attempted to exterminate an entire ethnic group.",
+          "Pest control services were called in to exterminate the cockroach infestation.",
+          "The disease all but exterminated the rabbit population."
+        ],
+        "synonyms": [
+          "destroy",
+          "annihilate",
+          "eradicate",
+          "wipe out"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "massacre",
+    "pronunciation": "/ˈmæsəkər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vụ thảm sát, sự tàn sát số lớn người (thường thường dân không có khả năng tự vệ)",
+        "examples": [
+          "The massacre of civilians shocked the international community.",
+          "Survivors of the massacre testified at the war crimes tribunal.",
+          "The My Lai massacre remains one of the darkest moments of the Vietnam War."
+        ],
+        "synonyms": [
+          "slaughter",
+          "carnage",
+          "mass killing",
+          "atrocity"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Thảm sát; (informal) đánh bại hoàn toàn",
+        "examples": [
+          "Thousands of civilians were massacred during the siege.",
+          "The home team was massacred 8–0 in the final.",
+          "His arguments were massacred by the opposition in the debate."
+        ],
+        "synonyms": [
+          "slaughter",
+          "kill",
+          "annihilate",
+          "thrash"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "maraud",
+    "pronunciation": "/məˈrɔːd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Cướp bóc, đi cướp phá (đặc biệt là trong chiến tranh hoặc bạo loạn)",
+        "examples": [
+          "Marauding bandits terrorized the villages along the border.",
+          "Armed groups marauded through the countryside, looting and burning.",
+          "The invaders marauded across the region for months before being repelled."
+        ],
+        "synonyms": [
+          "raid",
+          "plunder",
+          "pillage",
+          "loot"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "manoeuvre",
+    "pronunciation": "/məˈnuːvər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chiến thuật, cơ động quân sự; hành động khéo léo/khôn ngoan; cuộc tập trận",
+        "examples": [
+          "The general's flanking manoeuvre caught the enemy off guard.",
+          "It was a clever manoeuvre to outmanoeuvre the competition.",
+          "NATO conducted large-scale manoeuvres near the eastern border."
+        ],
+        "synonyms": [
+          "tactic",
+          "move",
+          "strategy",
+          "operation"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Điều khiển (xe, tàu) khéo léo; xử trí khéo léo để đạt mục tiêu",
+        "examples": [
+          "She manoeuvred the car into the tight parking space.",
+          "He manoeuvred himself into a position of power over several years.",
+          "The ambassador manoeuvred carefully to avoid a diplomatic incident."
+        ],
+        "synonyms": [
+          "navigate",
+          "steer",
+          "maneuver",
+          "position"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Anh: 'manoeuvre'; tiếng Anh Mỹ: 'maneuver'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "raid",
+    "pronunciation": "/reɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc đột kích, tấn công bất ngờ (quân sự hoặc cảnh sát)",
+        "examples": [
+          "The commando raid destroyed the weapons depot.",
+          "Police conducted a raid on the suspected drug house.",
+          "The air raid sirens sent people rushing to their shelters."
+        ],
+        "synonyms": [
+          "attack",
+          "assault",
+          "strike",
+          "sweep"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đột kích, tấn công bất ngờ",
+        "examples": [
+          "Special forces raided the terrorist hideout at midnight.",
+          "Police raided several properties in the early-morning operation.",
+          "She raided the fridge at midnight for a snack."
+        ],
+        "synonyms": [
+          "attack",
+          "storm",
+          "descend on"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "military",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "redoubt",
+    "pronunciation": "/rɪˈdaʊt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Pháo đài nhỏ, công sự phòng thủ (tạm thời hoặc độc lập); nơi cố thủ",
+        "examples": [
+          "The soldiers defended the redoubt for three days against repeated assaults.",
+          "The hilltop redoubt gave defenders a clear view of approaching troops.",
+          "The city became a final redoubt for the resistance forces."
+        ],
+        "synonyms": [
+          "stronghold",
+          "fortification",
+          "bunker",
+          "bastion"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "place",
+      "concrete"
+    ],
+    "note": "Nghĩa bóng: 'last redoubt' = thành trì cuối cùng.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barrage",
+    "pronunciation": "/ˈbæriɑːʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trận pháo kích liên tiếp; loạt (câu hỏi, chỉ trích) dữ dội",
+        "examples": [
+          "The infantry advanced under a barrage of artillery fire.",
+          "She faced a barrage of questions from reporters after the announcement.",
+          "The minister was subjected to a barrage of criticism from opposition MPs."
+        ],
+        "synonyms": [
+          "bombardment",
+          "volley",
+          "torrent",
+          "flood"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bombardment",
+    "pronunciation": "/bɒmˈbɑːdmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc ném bom, pháo kích dồn dập",
+        "examples": [
+          "The city withstood three months of constant bombardment.",
+          "Aerial bombardment reduced much of the town to rubble.",
+          "The bombardment of civilian areas was condemned by international observers."
+        ],
+        "synonyms": [
+          "shelling",
+          "bombing",
+          "attack",
+          "barrage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "camouflage",
+    "pronunciation": "/ˈkæməflɑːʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngụy trang (che giấu bằng cách hòa vào môi trường xung quanh)",
+        "examples": [
+          "The soldiers wore camouflage to blend into the forest.",
+          "The stick insect's natural camouflage makes it almost invisible.",
+          "The friendly tone was camouflage for his hostile intentions."
+        ],
+        "synonyms": [
+          "disguise",
+          "concealment",
+          "cover",
+          "masquerade"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ngụy trang, che giấu",
+        "examples": [
+          "The tanks were camouflaged with branches and nets.",
+          "She tried to camouflage her nervousness with a confident smile.",
+          "The true cost of the plan was camouflaged in the small print."
+        ],
+        "synonyms": [
+          "disguise",
+          "conceal",
+          "hide",
+          "mask"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "military",
+      "nature",
+      "abstract"
+    ],
+    "note": "Gốc tiếng Pháp. Ẩn dụ rộng: che giấu ý định/cảm xúc thực.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "artillery",
+    "pronunciation": "/ɑːˈtɪləri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Pháo binh (binh chủng); súng pháo cỡ lớn",
+        "examples": [
+          "Artillery fire pounded the enemy positions throughout the night.",
+          "The sound of artillery could be heard fifty kilometres away.",
+          "The army deployed heavy artillery to break the defensive lines."
+        ],
+        "synonyms": [
+          "cannon",
+          "heavy guns",
+          "field artillery"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "atrocity",
+    "pronunciation": "/əˈtrɒsɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tội ác man rợ, hành động tàn bạo (nhất là trong chiến tranh hoặc xung đột)",
+        "examples": [
+          "The war crimes tribunal documented numerous atrocities committed during the conflict.",
+          "Witnesses described the atrocities carried out by the occupying forces.",
+          "The atrocity shocked the world and prompted international intervention."
+        ],
+        "synonyms": [
+          "war crime",
+          "brutality",
+          "outrage",
+          "horror"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ceasefire",
+    "pronunciation": "/ˈsiːsfaɪər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lệnh ngừng bắn (thường được đồng ý giữa các bên xung đột)",
+        "examples": [
+          "A ceasefire was announced after weeks of intense fighting.",
+          "Both sides agreed to a temporary ceasefire to allow medical evacuations.",
+          "The ceasefire held for three months before hostilities resumed."
+        ],
+        "synonyms": [
+          "truce",
+          "armistice",
+          "halt",
+          "peace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "repulse",
+    "pronunciation": "/rɪˈpʌls/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Đẩy lùi (cuộc tấn công); gây ghê tởm, kinh tởm",
+        "examples": [
+          "The defenders repulsed three separate assaults on the fortress.",
+          "The invading force was repulsed with heavy casualties.",
+          "The graphic images repulsed even hardened journalists."
+        ],
+        "synonyms": [
+          "repel",
+          "drive back",
+          "disgust",
+          "revolt"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "military",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) quân sự: đẩy lui cuộc tấn công; (2) cảm xúc: gây ghê tởm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "munitions",
+    "pronunciation": "/mjuːˈnɪʃnz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đạn dược, vũ khí và trang bị quân sự",
+        "examples": [
+          "The factory was converted to produce munitions during wartime.",
+          "A shipment of munitions was intercepted at the border.",
+          "Munitions experts carefully defused the unexploded bomb."
+        ],
+        "synonyms": [
+          "ammunition",
+          "arms",
+          "weapons",
+          "ordnance"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "concrete"
+    ],
+    "note": "Thường dùng số nhiều ('munitions'); 'munition' (số ít) ít gặp hơn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cessation",
+    "pronunciation": "/seˈseɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ngừng lại, chấm dứt (hoạt động quân sự hoặc bất kỳ hoạt động gì)",
+        "examples": [
+          "Both sides called for an immediate cessation of hostilities.",
+          "The cessation of bombing allowed aid workers to enter the city.",
+          "The doctor prescribed nicotine patches to help with smoking cessation."
+        ],
+        "synonyms": [
+          "halt",
+          "end",
+          "suspension",
+          "stop"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "Formal. 'Cessation of hostilities' = ngừng chiến sự — cụm từ rất phổ biến trong ngoại giao.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deterrence",
+    "pronunciation": "/dɪˈterəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sức răn đe (khả năng ngăn chặn đối phương bằng đe dọa phản công)",
+        "examples": [
+          "Nuclear deterrence was the cornerstone of Cold War strategy.",
+          "The increased military presence is intended to act as a deterrence.",
+          "Whether deterrence alone can prevent conflict is widely debated."
+        ],
+        "synonyms": [
+          "prevention",
+          "discouragement",
+          "threat",
+          "dissuasion"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "'Nuclear deterrence' = chiến lược răn đe hạt nhân. 'Deterrent' (n/adj) = vũ khí/biện pháp răn đe.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "aggression",
+    "pronunciation": "/əˈɡreʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hành vi xâm lược, gây hấn; tính hung hăng",
+        "examples": [
+          "The UN condemned the act of military aggression against the neighbouring state.",
+          "His aggression on the court makes him a formidable opponent.",
+          "Unprovoked aggression is a violation of international law."
+        ],
+        "synonyms": [
+          "hostility",
+          "attack",
+          "belligerence",
+          "invasion"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "retaliatory",
+    "pronunciation": "/rɪˈtæliətəri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Mang tính trả đũa, nhằm trả thù hay phản ứng lại hành động của đối phương",
+        "examples": [
+          "The country launched retaliatory airstrikes after the border attack.",
+          "She feared retaliatory action from her employer after filing the complaint.",
+          "Retaliatory tariffs were imposed in response to the trade restrictions."
+        ],
+        "synonyms": [
+          "revenge-seeking",
+          "retributive",
+          "in-kind",
+          "punitive"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "military",
+      "politics",
+      "abstract"
+    ],
+    "note": "Từ gốc: 'retaliate' (v) = trả đũa. 'Retaliatory strike' = đòn phản công.",
+    "needsEnrichment": false
+  }
+]

@@ -1,0 +1,1788 @@
+[
+  {
+    "word": "addict",
+    "pronunciation": "/ˈædɪkt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người nghiện",
+        "examples": [
+          "She was a drug addict who had struggled for years to get clean.",
+          "She is a TV addict and watches as much as she can.",
+          "Even casual coffee drinkers can become addicts without realising it."
+        ],
+        "synonyms": [
+          "junkie",
+          "abuser",
+          "devotee",
+          "enthusiast",
+          "fiend"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "butler",
+    "pronunciation": "/ˈbʌtlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quản gia (nam giới phục vụ trong gia đình quý tộc/giàu có)",
+        "examples": [
+          "The butler gave a little cough to announce his presence.",
+          "The butler was responsible for the wine cellar and silver.",
+          "She rang the bell and the butler appeared at once."
+        ],
+        "synonyms": [
+          "manservant",
+          "steward",
+          "valet",
+          "major-domo",
+          "attendant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "aggressor",
+    "pronunciation": "/əˈɡresər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ xâm lược, kẻ gây hấn",
+        "examples": [
+          "The international community condemned the aggressor.",
+          "We must face down every aggressor who threatens regional stability.",
+          "In the conflict, it was unclear which side was the aggressor."
+        ],
+        "synonyms": [
+          "attacker",
+          "assailant",
+          "invader",
+          "perpetrator",
+          "offender"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diplomat",
+    "pronunciation": "/ˈdɪpləmæt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà ngoại giao",
+        "examples": [
+          "He served as a diplomat in Moscow for three years.",
+          "A senior diplomat was summoned to explain the government's position.",
+          "She has the tact of an experienced diplomat."
+        ],
+        "synonyms": [
+          "ambassador",
+          "envoy",
+          "attaché",
+          "consul",
+          "negotiator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fugitive",
+    "pronunciation": "/ˈfjuːdʒətɪv/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người bỏ trốn, kẻ đào tẩu",
+        "examples": [
+          "The fugitive had spent five weeks in hiding before being caught.",
+          "Police issued a warrant for the fugitive.",
+          "He lived as a fugitive for two years after escaping prison."
+        ],
+        "synonyms": [
+          "runaway",
+          "escapee",
+          "deserter",
+          "outlaw",
+          "absconder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "janitor",
+    "pronunciation": "/ˈdʒænɪtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người bảo vệ, lao công (người dọn dẹp và bảo trì toà nhà)",
+        "examples": [
+          "The janitor was sweeping the corridor when the alarm went off.",
+          "She asked the school janitor to unlock the sports hall.",
+          "The janitor mopped the floors every morning before staff arrived."
+        ],
+        "synonyms": [
+          "caretaker",
+          "custodian",
+          "concierge",
+          "superintendent",
+          "cleaner"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "work"
+    ],
+    "note": "Chủ yếu dùng trong tiếng Anh Mỹ; tiếng Anh Anh thường dùng 'caretaker'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "trafficker",
+    "pronunciation": "/ˈtræfɪkər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ buôn lậu (người, ma tuý, vũ khí)",
+        "examples": [
+          "The police arrested a ring of drug traffickers.",
+          "Human traffickers exploit vulnerable migrants.",
+          "The trafficker was sentenced to twenty years in prison."
+        ],
+        "synonyms": [
+          "smuggler",
+          "dealer",
+          "peddler",
+          "runner",
+          "racketeer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "veteran",
+    "pronunciation": "/ˈvetərən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cựu chiến binh; người dày dạn kinh nghiệm",
+        "examples": [
+          "His grandfather was a veteran of the Second World War.",
+          "She is a veteran journalist who has covered three decades of conflict.",
+          "The veterans gathered each year to commemorate the battle."
+        ],
+        "synonyms": [
+          "ex-serviceman",
+          "old hand",
+          "campaigner",
+          "warrior",
+          "trooper"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "geneticist",
+    "pronunciation": "/dʒəˈnetɪsɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà di truyền học",
+        "examples": [
+          "The geneticist discovered a new gene linked to the disease.",
+          "She is a world-renowned geneticist specialising in DNA research.",
+          "Geneticists continue to map the human genome."
+        ],
+        "synonyms": [
+          "biologist",
+          "genome scientist",
+          "researcher",
+          "molecular biologist",
+          "evolutionary biologist"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ringleader",
+    "pronunciation": "/ˈrɪŋliːdər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ cầm đầu (của một nhóm tội phạm hoặc gây rối)",
+        "examples": [
+          "The ringleader of the gang was arrested first.",
+          "Police identified three ringleaders of the conspiracy.",
+          "He was exposed as the ringleader behind the multi-million pound fraud."
+        ],
+        "synonyms": [
+          "leader",
+          "mastermind",
+          "instigator",
+          "organiser",
+          "orchestrator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "civilian",
+    "pronunciation": "/sɪˈvɪliən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dân thường (người không thuộc quân đội hoặc cảnh sát)",
+        "examples": [
+          "Thousands of civilians were killed in the conflict.",
+          "International law prohibits attacks on civilians.",
+          "He returned to civilian life after twelve years in the army."
+        ],
+        "synonyms": [
+          "non-combatant",
+          "citizen",
+          "layperson",
+          "private individual",
+          "bystander"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scoundrel",
+    "pronunciation": "/ˈskaʊndrəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tên vô lại, kẻ đê tiện (từ cũ/văn học)",
+        "examples": [
+          "He described the swindler as an unmitigated scoundrel.",
+          "The scoundrel had robbed the old man of his savings.",
+          "That scoundrel took the money and disappeared."
+        ],
+        "synonyms": [
+          "villain",
+          "rascal",
+          "rogue",
+          "wretch",
+          "blackguard"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "immigrant",
+    "pronunciation": "/ˈɪmɪɡrənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người nhập cư (vào một quốc gia khác để sinh sống)",
+        "examples": [
+          "Immigrant communities have enriched the culture of many cities.",
+          "He came from a poor immigrant family that arrived in the 1950s.",
+          "The government introduced stricter rules for economic immigrants."
+        ],
+        "synonyms": [
+          "migrant",
+          "settler",
+          "newcomer",
+          "foreigner",
+          "expatriate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "Phân biệt: immigrant (đến nước mới), emigrant (rời nước cũ), migrant (di chuyển theo mùa hoặc không định cư).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tenant",
+    "pronunciation": "/ˈtenənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người thuê nhà/đất",
+        "examples": [
+          "Rents are negotiated between landlord and tenant.",
+          "The previous tenant left the flat in a terrible state.",
+          "Tenant farmers leased land from the landowner to grow crops."
+        ],
+        "synonyms": [
+          "lessee",
+          "renter",
+          "lodger",
+          "occupant",
+          "boarder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "townsfolk",
+    "pronunciation": "/ˈtaʊnzfoʊk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người dân trong thị trấn/thành phố",
+        "examples": [
+          "The townsfolk gathered in the square for the festival.",
+          "Local townsfolk were evacuated before the flood.",
+          "The townsfolk had long resented the new factory."
+        ],
+        "synonyms": [
+          "townspeople",
+          "inhabitants",
+          "residents",
+          "locals",
+          "community"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "place"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tactician",
+    "pronunciation": "/tækˈtɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà chiến thuật, người giỏi sắp xếp kế hoạch",
+        "examples": [
+          "He is an extremely astute political tactician.",
+          "The general was a brilliant military tactician.",
+          "As a tactician, she knew precisely when to push and when to hold back."
+        ],
+        "synonyms": [
+          "strategist",
+          "planner",
+          "mastermind",
+          "schemer",
+          "operator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "predecessor",
+    "pronunciation": "/ˈpredəsesər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người tiền nhiệm; thứ trước đó",
+        "examples": [
+          "His predecessor had held the post for twelve years.",
+          "The new model is faster and more reliable than its predecessor.",
+          "She was determined to outperform her predecessor."
+        ],
+        "synonyms": [
+          "forerunner",
+          "antecedent",
+          "precursor",
+          "former holder",
+          "previous occupant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dabbler",
+    "pronunciation": "/ˈdæblər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người nghiệp dư, người chơi cho vui chứ không chuyên sâu",
+        "examples": [
+          "He's a dabbler in photography — he never commits to mastering it.",
+          "The market attracts both seasoned investors and dabblers.",
+          "She was a dabbler in painting but never took it seriously."
+        ],
+        "synonyms": [
+          "amateur",
+          "dilettante",
+          "tinkerer",
+          "hobbyist",
+          "layperson"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "plumber",
+    "pronunciation": "/ˈplʌmər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thợ sửa ống nước",
+        "examples": [
+          "We need to call a plumber — the boiler has broken down.",
+          "The plumber arrived within an hour to repair the burst pipe.",
+          "A good plumber is hard to find at short notice."
+        ],
+        "synonyms": [
+          "pipefitter",
+          "tradesman",
+          "heating engineer",
+          "plumbing contractor",
+          "sanitation worker"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pioneer",
+    "pronunciation": "/ˌpaɪəˈnɪr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người tiên phong, người đi trước mở đường",
+        "examples": [
+          "She was a pioneer of women's rights in the 19th century.",
+          "The company was a pioneer in renewable energy technology.",
+          "Pioneers of modern medicine transformed surgical practice."
+        ],
+        "synonyms": [
+          "trailblazer",
+          "innovator",
+          "groundbreaker",
+          "pathfinder",
+          "forerunner"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "personnel",
+    "pronunciation": "/ˌpɜːrsəˈnel/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhân viên, nhân sự (tập hợp người làm việc trong một tổ chức)",
+        "examples": [
+          "Military personnel are stationed at the base.",
+          "Only authorised personnel may enter the building.",
+          "The company reduced its personnel by twenty per cent."
+        ],
+        "synonyms": [
+          "staff",
+          "workforce",
+          "employees",
+          "workers",
+          "human resources"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "work"
+    ],
+    "note": "Danh từ số nhiều không đổi hình thái (personnel, không phải personnels).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "entrepreneur",
+    "pronunciation": "/ˌɒntrəprəˈnɜːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà doanh nghiệp, người khởi nghiệp",
+        "examples": [
+          "She became a successful entrepreneur before the age of thirty.",
+          "The programme supports young entrepreneurs with funding and mentorship.",
+          "A true entrepreneur sees opportunity where others see obstacles."
+        ],
+        "synonyms": [
+          "businessperson",
+          "founder",
+          "innovator",
+          "self-starter",
+          "venture capitalist"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "emperor",
+    "pronunciation": "/ˈempərər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hoàng đế",
+        "examples": [
+          "The emperor held absolute power over the vast empire.",
+          "The Forbidden City was once the residence of the Chinese emperor.",
+          "Napoleon declared himself emperor in 1804."
+        ],
+        "synonyms": [
+          "sovereign",
+          "monarch",
+          "ruler",
+          "potentate",
+          "autocrat"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "envoy",
+    "pronunciation": "/ˈenvɔɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đặc sứ, đại diện ngoại giao được uỷ quyền",
+        "examples": [
+          "The UN envoy arrived to broker a ceasefire.",
+          "He was appointed as special envoy to the Middle East peace talks.",
+          "The envoy delivered a personal message from the president."
+        ],
+        "synonyms": [
+          "emissary",
+          "ambassador",
+          "representative",
+          "delegate",
+          "messenger"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "escort",
+    "pronunciation": "/ˈeskɔːrt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người hộ tống, đội hộ tống; người đi kèm",
+        "examples": [
+          "A police escort accompanied the convoy through the city.",
+          "She arrived at the event with a security escort.",
+          "The prisoner was transferred under armed escort."
+        ],
+        "synonyms": [
+          "guard",
+          "bodyguard",
+          "chaperone",
+          "companion",
+          "attendant"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đi kèm, hộ tống, dẫn đường cho ai",
+        "examples": [
+          "He escorted her to her seat at the front of the hall.",
+          "A police officer escorted the prisoner to the courtroom.",
+          "She was escorted out of the building by security."
+        ],
+        "synonyms": [
+          "accompany",
+          "chaperone",
+          "conduct",
+          "shepherd",
+          "usher"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "regulator",
+    "pronunciation": "/ˈreɡjəleɪtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơ quan quản lý, người/tổ chức giám sát việc tuân thủ quy định",
+        "examples": [
+          "The financial regulator imposed heavy fines on the bank.",
+          "Regulators must balance innovation with consumer protection.",
+          "The energy regulator approved a significant rise in gas prices."
+        ],
+        "synonyms": [
+          "watchdog",
+          "overseer",
+          "supervisor",
+          "controller",
+          "inspector"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law",
+      "organization"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rival",
+    "pronunciation": "/ˈraɪvl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đối thủ, người/tổ chức cạnh tranh",
+        "examples": [
+          "The two companies were fierce rivals in the smartphone market.",
+          "He surpassed his greatest rivals to claim the championship.",
+          "Their closest rival launched a competing product the same week."
+        ],
+        "synonyms": [
+          "competitor",
+          "opponent",
+          "adversary",
+          "contender",
+          "challenger"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cạnh tranh với, sánh ngang bằng",
+        "examples": [
+          "Few cities rival London for cultural diversity.",
+          "Her cooking rivals that of any professional chef.",
+          "Nothing rivals the beauty of the Alps in winter."
+        ],
+        "synonyms": [
+          "match",
+          "equal",
+          "compete with",
+          "parallel",
+          "challenge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "beggar",
+    "pronunciation": "/ˈbeɡər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người ăn xin",
+        "examples": [
+          "A beggar sat outside the church every morning.",
+          "The city authorities attempted to help beggars find shelter.",
+          "She gave her spare change to a beggar on the street."
+        ],
+        "synonyms": [
+          "pauper",
+          "mendicant",
+          "tramp",
+          "vagrant",
+          "down-and-out"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "'It beggars belief' là thành ngữ nghĩa là 'thật khó tin'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bride",
+    "pronunciation": "/braɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cô dâu",
+        "examples": [
+          "The bride walked down the aisle to thunderous applause.",
+          "She was a radiant bride on her wedding day.",
+          "The bride and groom cut the cake together."
+        ],
+        "synonyms": [
+          "newlywed",
+          "wife-to-be",
+          "betrothed",
+          "fiancée",
+          "spouse"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bumpkin",
+    "pronunciation": "/ˈbʌmpkɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người nhà quê ngốc ngếch (có tính miệt thị)",
+        "examples": [
+          "He was mocked as a country bumpkin when he first moved to the city.",
+          "Don't mistake his simple manner for a bumpkin's ignorance.",
+          "She was tired of being called a bumpkin just because she grew up on a farm."
+        ],
+        "synonyms": [
+          "yokel",
+          "rustic",
+          "peasant",
+          "hayseed",
+          "provincial"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "companion",
+    "pronunciation": "/kəmˈpæniən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bạn đồng hành, người bầu bạn",
+        "examples": [
+          "She was a loyal companion throughout his long illness.",
+          "The dog became his constant companion after his wife passed away.",
+          "A good book is the best companion on a long journey."
+        ],
+        "synonyms": [
+          "associate",
+          "comrade",
+          "partner",
+          "ally",
+          "confidant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "contractor",
+    "pronunciation": "/ˈkɑːntræktər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà thầu; người làm việc theo hợp đồng độc lập",
+        "examples": [
+          "The building work was carried out by an independent contractor.",
+          "They hired a contractor to renovate the kitchen.",
+          "As a contractor, she had to manage her own taxes and insurance."
+        ],
+        "synonyms": [
+          "builder",
+          "subcontractor",
+          "tradesperson",
+          "supplier",
+          "consultant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chief",
+    "pronunciation": "/tʃiːf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người đứng đầu, thủ lĩnh",
+        "examples": [
+          "She is the chief executive of the organisation.",
+          "The tribal chief welcomed the visitors with a ceremony.",
+          "He was appointed chief of the fire service."
+        ],
+        "synonyms": [
+          "leader",
+          "head",
+          "boss",
+          "commander",
+          "principal"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Chính, quan trọng nhất, đứng đầu",
+        "examples": [
+          "The chief reason for his resignation was stress.",
+          "Her chief concern was the welfare of the children.",
+          "The chief obstacle to peace was a lack of trust."
+        ],
+        "synonyms": [
+          "main",
+          "primary",
+          "principal",
+          "foremost",
+          "leading"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crone",
+    "pronunciation": "/kroʊn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bà già xấu xí hoặc khó tính (thường trong văn học/truyện cổ tích)",
+        "examples": [
+          "The fairy tale featured a wicked old crone who cast spells.",
+          "She dressed as a crone for the Halloween party.",
+          "The crone at the crossroads offered the traveller three wishes."
+        ],
+        "synonyms": [
+          "hag",
+          "witch",
+          "harridan",
+          "old woman",
+          "beldam"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "counsel",
+    "pronunciation": "/ˈkaʊnsl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Luật sư (trong toà án); lời khuyên",
+        "examples": [
+          "The defence counsel argued the case brilliantly.",
+          "She sought the counsel of an experienced mentor.",
+          "The judge acknowledged both counsels before proceeding."
+        ],
+        "synonyms": [
+          "lawyer",
+          "barrister",
+          "attorney",
+          "adviser",
+          "solicitor"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crook",
+    "pronunciation": "/krʊk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tên trộm, kẻ gian lận; cái móc, khúc cong",
+        "examples": [
+          "He was a known crook with a long criminal record.",
+          "She cradled the baby in the crook of her arm.",
+          "The shepherd used a crook to guide the flock."
+        ],
+        "synonyms": [
+          "criminal",
+          "thief",
+          "villain",
+          "swindler",
+          "fraudster"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "comrade",
+    "pronunciation": "/ˈkɒmreɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng chí, bạn đồng đội",
+        "examples": [
+          "He fought alongside his comrades for five years.",
+          "Old comrades gathered for the annual reunion.",
+          "She addressed him as comrade in the spirit of solidarity."
+        ],
+        "synonyms": [
+          "colleague",
+          "companion",
+          "associate",
+          "fellow",
+          "ally"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "military",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lad",
+    "pronunciation": "/læd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cậu trai trẻ (từ thân mật, chủ yếu tiếng Anh Anh)",
+        "examples": [
+          "He was just a lad of seventeen when the war began.",
+          "The lads played football in the park every Saturday.",
+          "Come on, lad — you can do better than that."
+        ],
+        "synonyms": [
+          "boy",
+          "youth",
+          "youngster",
+          "fellow",
+          "chap"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "patron",
+    "pronunciation": "/ˈpeɪtrən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mạnh thường quân, người bảo trợ; khách quen",
+        "examples": [
+          "He was a generous patron of the arts.",
+          "Regular patrons received a loyalty discount at the café.",
+          "The library was built with funding from a wealthy patron."
+        ],
+        "synonyms": [
+          "benefactor",
+          "sponsor",
+          "supporter",
+          "donor",
+          "backer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "adolescent",
+    "pronunciation": "/ˌædəˈlesnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thanh thiếu niên (tuổi vị thành niên, khoảng 13–18 tuổi)",
+        "examples": [
+          "Adolescents often struggle with questions of identity.",
+          "The programme targets adolescents aged 13 to 18.",
+          "Many adolescents find it difficult to talk to their parents."
+        ],
+        "synonyms": [
+          "teenager",
+          "youth",
+          "juvenile",
+          "youngster",
+          "minor"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Thuộc tuổi vị thành niên; thiếu chín chắn",
+        "examples": [
+          "He displayed adolescent behaviour despite being in his thirties.",
+          "Adolescent development involves rapid physical and emotional changes.",
+          "Her jealousy was dismissed as adolescent posturing."
+        ],
+        "synonyms": [
+          "teenage",
+          "immature",
+          "juvenile",
+          "pubescent",
+          "youthful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "aficionado",
+    "pronunciation": "/əˌfɪʃəˈnɑːdoʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người đam mê sành sỏi, dân chơi thực thụ",
+        "examples": [
+          "She is a jazz aficionado who attends every concert she can.",
+          "Even casual fans enjoyed it; aficionados were blown away.",
+          "A wine aficionado can identify grape varieties by taste alone."
+        ],
+        "synonyms": [
+          "devotee",
+          "enthusiast",
+          "connoisseur",
+          "buff",
+          "expert"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "miscreant",
+    "pronunciation": "/ˈmɪskriənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ tội lỗi, kẻ phạm pháp",
+        "examples": [
+          "The miscreants were quickly apprehended by police.",
+          "He was branded a miscreant by the local community.",
+          "The film follows a group of loveable miscreants on the run."
+        ],
+        "synonyms": [
+          "criminal",
+          "villain",
+          "wrongdoer",
+          "offender",
+          "delinquent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "marauder",
+    "pronunciation": "/məˈrɔːdər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ cướp bóc, quân cướp đi lang thang",
+        "examples": [
+          "Marauders ransacked the village under cover of darkness.",
+          "The settlement was protected from marauders by a high wall.",
+          "The novel features a band of marauders in a post-apocalyptic world."
+        ],
+        "synonyms": [
+          "raider",
+          "pillager",
+          "plunderer",
+          "looter",
+          "brigand"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rabble",
+    "pronunciation": "/ˈræbl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đám đông hỗn tạp, ô hợp (có tính khinh thị)",
+        "examples": [
+          "The speaker was drowned out by the rabble in the back.",
+          "A rabble of angry protesters surrounded the building.",
+          "He dismissed the opposition as nothing but a disorganised rabble."
+        ],
+        "synonyms": [
+          "mob",
+          "horde",
+          "riffraff",
+          "crowd",
+          "rout"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "novice",
+    "pronunciation": "/ˈnɒvɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người mới bắt đầu, tay mơ; tu sĩ mới vào dòng",
+        "examples": [
+          "Even a novice can learn to cook a basic meal.",
+          "She was a complete novice when she joined the team.",
+          "The training course is designed for novices with no prior experience."
+        ],
+        "synonyms": [
+          "beginner",
+          "newcomer",
+          "apprentice",
+          "learner",
+          "recruit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "niece",
+    "pronunciation": "/niːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cháu gái (con của anh/chị/em ruột)",
+        "examples": [
+          "She bought her niece a birthday present.",
+          "His niece is studying medicine at university.",
+          "She was as proud of her niece as if she were her own daughter."
+        ],
+        "synonyms": [
+          "kinswoman",
+          "relative",
+          "female relative",
+          "kin",
+          "family member"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "muse",
+    "pronunciation": "/mjuːz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nàng thơ, người truyền cảm hứng sáng tác",
+        "examples": [
+          "She was the artist's muse for over a decade.",
+          "His childhood home served as the muse for his first novel.",
+          "Every great poet needs a muse, real or imagined."
+        ],
+        "synonyms": [
+          "inspiration",
+          "icon",
+          "stimulus",
+          "motivator",
+          "creative spark"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "Muse (viết hoa) còn chỉ các nữ thần nghệ thuật trong thần thoại Hy Lạp.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mystic",
+    "pronunciation": "/ˈmɪstɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà thần bí học, người có trải nghiệm huyền bí tâm linh",
+        "examples": [
+          "The mystic spent years in silent meditation in the desert.",
+          "She was regarded as a mystic who could communicate with spirits.",
+          "Medieval mystics often described visions of divine light."
+        ],
+        "synonyms": [
+          "seer",
+          "visionary",
+          "prophet",
+          "shaman",
+          "sage"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Huyền bí, linh thiêng, bí ẩn",
+        "examples": [
+          "The ancient ruins had a mystic atmosphere at dawn.",
+          "She believed in a mystic connection between the moon and human moods.",
+          "The ceremony was filled with mystic ritual and chanting."
+        ],
+        "synonyms": [
+          "mystical",
+          "mysterious",
+          "spiritual",
+          "occult",
+          "supernatural"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "adjective",
+      "religion"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "spouse",
+    "pronunciation": "/spaʊs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vợ hoặc chồng (từ trung tính về giới)",
+        "examples": [
+          "The visa allows a spouse to join their partner in the country.",
+          "Your spouse may be entitled to a share of your pension.",
+          "She introduced her spouse to her colleagues at the event."
+        ],
+        "synonyms": [
+          "partner",
+          "husband",
+          "wife",
+          "mate",
+          "consort"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "migrant",
+    "pronunciation": "/ˈmaɪɡrənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người di cư (theo mùa vụ hoặc tìm kiếm việc làm)",
+        "examples": [
+          "Migrant workers move between cities in search of work.",
+          "The government tightened controls on economic migrants.",
+          "Migrant birds shelter in the reeds before continuing south."
+        ],
+        "synonyms": [
+          "immigrant",
+          "emigrant",
+          "settler",
+          "nomad",
+          "transient"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "Phân biệt: migrant (di cư theo mùa/tạm thời), immigrant (định cư lâu dài ở nước mới), emigrant (rời nước cũ).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mediator",
+    "pronunciation": "/ˈmiːdieɪtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người hoà giải, người trung gian trong tranh chấp",
+        "examples": [
+          "My role is to act as a mediator between employees and management.",
+          "The UN sent a mediator to negotiate the ceasefire.",
+          "A skilled mediator can help resolve disputes without litigation."
+        ],
+        "synonyms": [
+          "arbitrator",
+          "negotiator",
+          "intermediary",
+          "go-between",
+          "conciliator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "guarantor",
+    "pronunciation": "/ˌɡærənˈtɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người bảo lãnh (chịu trách nhiệm thay nếu người được bảo lãnh không thực hiện nghĩa vụ)",
+        "examples": [
+          "The United Nations will act as guarantor of the peace settlement.",
+          "You must have a guarantor to get a visa to enter the country.",
+          "The bank required a personal guarantor before approving the loan."
+        ],
+        "synonyms": [
+          "surety",
+          "backer",
+          "warrantor",
+          "underwriter",
+          "sponsor"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "oligarch",
+    "pronunciation": "/ˈɒlɪɡɑːrk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà tài phiệt, người nắm quyền lực chính trị và kinh tế lớn",
+        "examples": [
+          "Several oligarchs made their fortunes during the privatisation period.",
+          "The oligarch used his media holdings to influence public opinion.",
+          "Assets belonging to sanctioned oligarchs were frozen by the government."
+        ],
+        "synonyms": [
+          "tycoon",
+          "magnate",
+          "plutocrat",
+          "mogul",
+          "baron"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "politics",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pervert",
+    "pronunciation": "/ˈpɜːrvɜːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ biến thái, người có hành vi tình dục lệch lạc (xúc phạm)",
+        "examples": [
+          "He was convicted as a sexual pervert.",
+          "Police are looking for a pervert who was seen lurking near the school.",
+          "The tabloid labelled him a pervert before any charges were filed."
+        ],
+        "synonyms": [
+          "deviant",
+          "degenerate",
+          "predator",
+          "sex offender",
+          "aberrant"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Bóp méo, xuyên tạc, làm lệch lạc (sự thật, công lý, đạo đức)",
+        "examples": [
+          "He was accused of perverting the course of justice.",
+          "The propaganda perverted the truth beyond recognition.",
+          "Money can pervert the original purpose of any institution."
+        ],
+        "synonyms": [
+          "distort",
+          "twist",
+          "corrupt",
+          "warp",
+          "misrepresent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "verb"
+    ],
+    "note": "Trọng âm khác nhau: danh từ /ˈpɜːrvɜːt/ (nhấn vần đầu), động từ /pəˈvɜːrt/ (nhấn vần sau).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "entrant",
+    "pronunciation": "/ˈentrənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thí sinh; người mới tham gia; người mới vào nghề",
+        "examples": [
+          "All entrants must register before the competition begins.",
+          "She was the youngest entrant in the race.",
+          "New entrants to the job market often struggle to find work."
+        ],
+        "synonyms": [
+          "contestant",
+          "competitor",
+          "candidate",
+          "applicant",
+          "newcomer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prodigy",
+    "pronunciation": "/ˈprɒdɪdʒi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thần đồng; người có tài năng phi thường",
+        "examples": [
+          "Mozart was a musical prodigy who composed at the age of five.",
+          "She was considered a prodigy in mathematics from an early age.",
+          "The young prodigy won the national chess championship at age nine."
+        ],
+        "synonyms": [
+          "genius",
+          "wonder child",
+          "wunderkind",
+          "talent",
+          "phenom"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dotard",
+    "pronunciation": "/ˈdoʊtərd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ông lão lú lẫn, người già yếu và mất trí (từ xúc phạm nặng)",
+        "examples": [
+          "He dismissed his rival as a doddering dotard unfit for office.",
+          "The insult 'dotard' made international headlines.",
+          "Calling someone a dotard is a serious and derogatory accusation."
+        ],
+        "synonyms": [
+          "senile person",
+          "doddering fool",
+          "old fool",
+          "fogy",
+          "dodderer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "plaintiff",
+    "pronunciation": "/ˈpleɪntɪf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nguyên đơn (bên đứng kiện)",
+        "examples": [
+          "The plaintiff argued that the defendant's actions caused financial loss.",
+          "A successful plaintiff may be awarded damages by the court.",
+          "The plaintiff must prove their claim on the balance of probabilities."
+        ],
+        "synonyms": [
+          "claimant",
+          "complainant",
+          "petitioner",
+          "litigant",
+          "pursuer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rogue",
+    "pronunciation": "/roʊɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ bất tuân, kẻ hoạt động ngoài quy tắc; kẻ láu cá đáng yêu",
+        "examples": [
+          "He was branded a rogue who defied every rule in the book.",
+          "The film's protagonist is a charming rogue who lives by his wits.",
+          "A rogue within the organisation leaked confidential files."
+        ],
+        "synonyms": [
+          "scoundrel",
+          "villain",
+          "outlaw",
+          "rascal",
+          "maverick"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

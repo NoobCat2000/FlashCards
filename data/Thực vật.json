@@ -1,0 +1,513 @@
+[
+  {
+    "word": "avocado",
+    "pronunciation": "/ˌævəˈkɑːdəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quả/trái bơ",
+        "examples": [
+          "Avocados are rich in healthy monounsaturated fats.",
+          "She spread mashed avocado on toast for breakfast.",
+          "The avocado tree takes several years to bear its first fruit."
+        ],
+        "synonyms": [
+          "alligator pear",
+          "butter fruit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lime",
+    "pronunciation": "/laɪm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quả chanh xanh (lime); cây chanh; vôi (khoáng chất dùng trong nông nghiệp)",
+        "examples": [
+          "Squeeze some lime juice over the tacos for extra freshness.",
+          "A gin and tonic with a slice of lime is a classic drink.",
+          "The farmer spread lime on the fields to reduce soil acidity."
+        ],
+        "synonyms": [
+          "citrus fruit",
+          "lemon relative",
+          "Key lime"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "'Lime' (chanh xanh) ≠ 'lemon' (chanh vàng). Lime phổ biến trong ẩm thực Đông Nam Á.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "garlic",
+    "pronunciation": "/ˈɡɑːlɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tỏi",
+        "examples": [
+          "She fried the garlic in olive oil until it turned golden.",
+          "Garlic is a staple ingredient in Mediterranean and Asian cooking.",
+          "The recipe calls for three cloves of garlic, finely minced."
+        ],
+        "synonyms": [
+          "Allium sativum",
+          "clove herb",
+          "stinking rose"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "concrete"
+    ],
+    "note": "Đơn vị đếm: 'a clove of garlic' (tép tỏi); 'a bulb of garlic' (củ tỏi).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "chilli",
+    "pronunciation": "/ˈtʃɪli/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ớt, quả ớt cay",
+        "examples": [
+          "The curry was packed with fresh red chillies.",
+          "She grows red and green chillies in her garden.",
+          "This chilli paste is extremely spicy — use it sparingly."
+        ],
+        "synonyms": [
+          "chilli pepper",
+          "hot pepper",
+          "cayenne"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "concrete"
+    ],
+    "note": "Chính tả: 'chilli' (Anh Anh), 'chili' (Mỹ), 'chile' (Tây Ban Nha/Mỹ Latin). Database dùng 'chilli'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "foliage",
+    "pronunciation": "/ˈfəʊliɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tán lá, lá cây (của một cây hoặc cả khu vực)",
+        "examples": [
+          "The autumn foliage in New England is breathtakingly spectacular.",
+          "The foliage of the old oak tree provides shade all summer long.",
+          "This plant is valued mainly for its attractive, variegated foliage."
+        ],
+        "synonyms": [
+          "leaves",
+          "greenery",
+          "vegetation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fungus",
+    "pronunciation": "/ˈfʌŋɡəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nấm (sinh vật không quang hợp — gồm nấm ăn, nấm mốc, và nấm gây bệnh)",
+        "examples": [
+          "A fungus can be either beneficial or destructive to plants.",
+          "Athlete's foot is caused by a type of fungus on the skin.",
+          "Some fungi are edible and delicious; others are deadly poisonous."
+        ],
+        "synonyms": [
+          "mould",
+          "mold",
+          "mushroom"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "medical",
+      "science",
+      "concrete"
+    ],
+    "note": "Số nhiều: 'fungi' (/ˈfʌŋɡaɪ/) — dạng học thuật; 'funguses' — dạng thông thường.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mushroom",
+    "pronunciation": "/ˈmʌʃruːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nấm (thường chỉ quả thể nấm ăn được)",
+        "examples": [
+          "She sliced the mushrooms and added them to the omelette.",
+          "Wild mushrooms must be carefully identified before eating.",
+          "The forest floor was covered with mushrooms after the autumn rain."
+        ],
+        "synonyms": [
+          "toadstool",
+          "fungus"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tăng trưởng nhanh chóng, mọc lên như nấm",
+        "examples": [
+          "New startups have mushroomed in the technology sector over the past decade.",
+          "Social media usage mushroomed during the pandemic lockdowns.",
+          "Housing prices have mushroomed since the central bank lowered interest rates."
+        ],
+        "synonyms": [
+          "grow rapidly",
+          "proliferate",
+          "expand",
+          "boom"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "plant",
+      "food"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "weedy",
+    "pronunciation": "/ˈwiːdi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhiều cỏ dại; (người) gầy còm, yếu đuối (informal)",
+        "examples": [
+          "The neglected garden had become weedy and completely overgrown.",
+          "He was a weedy little boy who was often bullied at school.",
+          "The pond looked weedy and unkempt after a summer of no maintenance."
+        ],
+        "synonyms": [
+          "overgrown",
+          "scrawny",
+          "puny",
+          "spindly"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "plant",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pollinate",
+    "pronunciation": "/ˈpɒlɪneɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thụ phấn (chuyển phấn hoa từ nhị sang nhụy)",
+        "examples": [
+          "Bees pollinate flowers as they search for nectar.",
+          "Many crops depend entirely on insects to pollinate them.",
+          "Without bees to pollinate them, many plants cannot produce fruit or seeds."
+        ],
+        "synonyms": [
+          "fertilize",
+          "cross-pollinate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "plant",
+      "nature",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sprout",
+    "pronunciation": "/spraʊt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mầm, chồi cây; mầm giá đỗ",
+        "examples": [
+          "The seeds produced their first sprouts after three days of watering.",
+          "Bean sprouts are a popular ingredient in Asian noodle dishes.",
+          "Brussels sprouts are a type of miniature cabbage cooked as a vegetable."
+        ],
+        "synonyms": [
+          "shoot",
+          "bud",
+          "seedling"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nảy mầm, mọc lên; (tóc, râu) mọc nhanh",
+        "examples": [
+          "The seeds sprouted within a week of being planted.",
+          "He sprouted a beard during the long lockdown period.",
+          "New businesses have sprouted up all across the city centre."
+        ],
+        "synonyms": [
+          "germinate",
+          "bud",
+          "grow",
+          "emerge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "plant",
+      "food",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pasture",
+    "pronunciation": "/ˈpɑːstʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng cỏ dùng để chăn thả gia súc",
+        "examples": [
+          "The cows were grazing in the lush green pasture at sunrise.",
+          "The farm has 200 acres of pasture land.",
+          "Put the horses out to pasture before sunset."
+        ],
+        "synonyms": [
+          "meadow",
+          "grassland",
+          "field",
+          "grazing land"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "agriculture",
+      "nature",
+      "concrete"
+    ],
+    "note": "'Put out to pasture' (idiom) = cho nghỉ hưu (người hoặc thiết bị cũ).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "meadow",
+    "pronunciation": "/ˈmedəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng cỏ, bãi cỏ (thường có hoa dại, không chăn thả)",
+        "examples": [
+          "The children played in the meadow on warm summer afternoons.",
+          "Wildflowers filled the meadow with colour every spring.",
+          "The village sits in a peaceful valley surrounded by rolling meadows."
+        ],
+        "synonyms": [
+          "field",
+          "grassland",
+          "pasture"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "nature",
+      "concrete"
+    ],
+    "note": "'Meadow' thường gợi hình ảnh lãng mạn, tự nhiên hơn 'pasture' (mang tính canh tác hơn).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cabbage",
+    "pronunciation": "/ˈkæbɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bắp cải",
+        "examples": [
+          "She shredded the cabbage for a fresh, crunchy coleslaw.",
+          "Stuffed cabbage leaves are a traditional dish in Eastern Europe.",
+          "Red cabbage is often pickled and served alongside cold meats."
+        ],
+        "synonyms": [
+          "Brassica oleracea",
+          "greens",
+          "colewort"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bloom",
+    "pronunciation": "/bluːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hoa, bông hoa; thời kỳ rực rỡ, đỉnh cao",
+        "examples": [
+          "The cherry trees were in full bloom throughout April.",
+          "She was in the bloom of youth when she met him.",
+          "The garden was filled with colourful blooms in late spring."
+        ],
+        "synonyms": [
+          "flower",
+          "blossom",
+          "prime",
+          "peak"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nở hoa; phát triển rực rỡ, thăng hoa",
+        "examples": [
+          "The roses bloom every spring without fail.",
+          "She really bloomed during her years at university.",
+          "His talent bloomed under the guidance of a talented mentor."
+        ],
+        "synonyms": [
+          "flower",
+          "blossom",
+          "thrive",
+          "flourish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "plant",
+      "nature",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coconut",
+    "pronunciation": "/ˈkəʊkənʌt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quả dừa; cùi dừa; nước dừa",
+        "examples": [
+          "Coconut milk is a key ingredient in many Southeast Asian curries.",
+          "She cracked open a fresh coconut on the beach.",
+          "Coconut oil is widely used in both cooking and cosmetics."
+        ],
+        "synonyms": [
+          "coconut palm fruit",
+          "tropical nut",
+          "Cocos nucifera"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "plant",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stump",
+    "pronunciation": "/stʌmp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gốc cây (phần còn lại sau khi cây bị chặt hoặc gãy)",
+        "examples": [
+          "The old oak tree had been cut down, leaving only a mossy stump.",
+          "Children love to play on the tree stumps in the forest.",
+          "The ball hit the stump and the batsman was given out."
+        ],
+        "synonyms": [
+          "trunk base",
+          "remnant"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm bối rối, không thể trả lời; đi lại nặng nề",
+        "examples": [
+          "The question completely stumped me — I had no idea at all.",
+          "The puzzle stumped even the most experienced crossword players.",
+          "He stumped off angrily without saying a word to anyone."
+        ],
+        "synonyms": [
+          "baffle",
+          "perplex",
+          "puzzle",
+          "bewilder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "plant",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

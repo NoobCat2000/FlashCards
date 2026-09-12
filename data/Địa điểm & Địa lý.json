@@ -1,0 +1,1313 @@
+[
+  {
+    "word": "embassy",
+    "pronunciation": "/ˈembəsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đại sứ quán (tòa nhà và nhân sự của đại sứ quán nước ngoài)",
+        "examples": [
+          "She queued outside the embassy to apply for a visa.",
+          "The protesters gathered outside the American embassy.",
+          "The ambassador welcomed guests at the embassy reception."
+        ],
+        "synonyms": [
+          "consulate",
+          "legation",
+          "diplomatic mission"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "politics",
+      "organization"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "haven",
+    "pronunciation": "/ˈheɪvn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nơi trú ẩn an toàn, chốn bình yên; thiên đường (về thuế hoặc tự do)",
+        "examples": [
+          "The library was a haven for students during exam season.",
+          "Switzerland is considered a tax haven by many corporations.",
+          "The coastal village became a haven for artists seeking peace."
+        ],
+        "synonyms": [
+          "refuge",
+          "sanctuary",
+          "shelter",
+          "retreat"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract"
+    ],
+    "note": "'Tax haven' = thiên đường thuế. Khác 'harbour' (cảng) mặc dù từ nguyên liên quan.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "refuge",
+    "pronunciation": "/ˈrefjuːdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nơi ẩn náu, nơi trú ẩn (khỏi nguy hiểm); nơi tị nạn",
+        "examples": [
+          "The hikers took refuge in a cave when the storm broke.",
+          "She found refuge in her books during the difficult period.",
+          "Thousands sought refuge from the conflict across the border."
+        ],
+        "synonyms": [
+          "shelter",
+          "sanctuary",
+          "haven",
+          "asylum"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shelter",
+    "pronunciation": "/ˈʃeltər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nơi trú ẩn (khỏi thời tiết, nguy hiểm); nơi tạm trú cho người vô gia cư/động vật",
+        "examples": [
+          "They took shelter from the rain under a large tree.",
+          "The city opened emergency shelters for homeless people in winter.",
+          "An animal shelter rescues and rehomes abandoned pets."
+        ],
+        "synonyms": [
+          "cover",
+          "refuge",
+          "protection",
+          "haven"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Che chở, bảo vệ; trú ẩn",
+        "examples": [
+          "The trees sheltered the hikers from the wind.",
+          "She sheltered under a shop awning until the rain passed.",
+          "Parents naturally want to shelter their children from harm."
+        ],
+        "synonyms": [
+          "protect",
+          "shield",
+          "harbour",
+          "cover"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intercontinental",
+    "pronunciation": "/ˌɪntəˌkɒntɪˈnentl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Liên lục địa (giữa các châu lục)",
+        "examples": [
+          "Intercontinental flights typically take twelve hours or more.",
+          "The missile has an intercontinental range of over 5,000 kilometres.",
+          "The hotel chain has intercontinental operations in over fifty countries."
+        ],
+        "synonyms": [
+          "transoceanic",
+          "global",
+          "long-haul"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "place",
+      "transport",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "quagmire",
+    "pronunciation": "/ˈkwæɡmaɪər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầm lầy sũng nước; tình thế bế tắc khó thoát",
+        "examples": [
+          "The soldiers' boots sank deep into the quagmire.",
+          "The country risks getting sucked into an unwinnable quagmire.",
+          "The negotiations have turned into a political quagmire."
+        ],
+        "synonyms": [
+          "bog",
+          "swamp",
+          "marsh",
+          "morass"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng rất phổ biến: 'political/military quagmire' = tình trạng sa lầy.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "harbour",
+    "pronunciation": "/ˈhɑːbər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cảng (nơi tàu thuyền neo đậu)",
+        "examples": [
+          "The fishing boats returned to harbour at sunset.",
+          "A new harbour was built to accommodate larger cruise ships.",
+          "The city's natural harbour was the reason for its founding."
+        ],
+        "synonyms": [
+          "port",
+          "dock",
+          "marina",
+          "anchorage"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Che giấu, bao che; nuôi dưỡng (ý nghĩ, mối oán hận)",
+        "examples": [
+          "She was accused of harbouring a known fugitive.",
+          "He harboured deep resentment about the way he had been treated.",
+          "Don't harbour negative thoughts — they only harm you."
+        ],
+        "synonyms": [
+          "shelter",
+          "conceal",
+          "hide",
+          "cherish",
+          "nurse"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "transport",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ: 'harbor'. Nghĩa bóng 'harbour feelings' = ôm ấp cảm xúc âm thầm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fortress",
+    "pronunciation": "/ˈfɔːtrəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Pháo đài (công trình phòng thủ kiên cố); nơi/tổ chức phòng thủ mạnh",
+        "examples": [
+          "The medieval fortress overlooked the entire valley below.",
+          "The rebel forces stormed the mountain fortress at dawn.",
+          "The company's head office became a fortress during the hostile takeover."
+        ],
+        "synonyms": [
+          "fort",
+          "stronghold",
+          "citadel",
+          "castle"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "military",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "desert",
+    "pronunciation": "/ˈdezət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sa mạc (vùng đất khô hạn, ít mưa)",
+        "examples": [
+          "The Sahara is the largest hot desert in the world.",
+          "The desert bloomed briefly after the unexpected rainfall.",
+          "Temperatures in the desert can exceed 50°C in summer."
+        ],
+        "synonyms": [
+          "wasteland",
+          "arid land",
+          "badlands"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "Phân biệt với 'dessert' (tráng miệng) — chỉ khác nhau 1 chữ 's'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "hilltop",
+    "pronunciation": "/ˈhɪltɒp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đỉnh đồi",
+        "examples": [
+          "The village was perched on a hilltop overlooking the valley.",
+          "They climbed to the hilltop for a panoramic view.",
+          "The castle ruins on the hilltop could be seen for miles."
+        ],
+        "synonyms": [
+          "summit",
+          "crest",
+          "peak"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "venue",
+    "pronunciation": "/ˈvenjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Địa điểm (nơi tổ chức sự kiện, buổi biểu diễn, trận đấu)",
+        "examples": [
+          "The concert venue holds 20,000 people.",
+          "We're still looking for a suitable venue for the wedding.",
+          "The trial was moved to a different venue due to security concerns."
+        ],
+        "synonyms": [
+          "location",
+          "site",
+          "premises",
+          "arena"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "swamp",
+    "pronunciation": "/swɒmp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầm lầy, đất ngập nước",
+        "examples": [
+          "The Florida Everglades is one of the largest swamps in the world.",
+          "Crocodiles lurk in the swamps of the Nile delta.",
+          "The construction site turned into a swamp after the heavy rains."
+        ],
+        "synonyms": [
+          "marsh",
+          "bog",
+          "wetland",
+          "quagmire"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tràn ngập, nhấn chìm; (không chính thức) áp đảo bằng công việc/yêu cầu",
+        "examples": [
+          "The village was swamped by floodwaters after the dam broke.",
+          "She was completely swamped with work after returning from holiday.",
+          "The helpline was swamped with calls during the outage."
+        ],
+        "synonyms": [
+          "flood",
+          "overwhelm",
+          "inundate",
+          "submerge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "nature",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "suburb",
+    "pronunciation": "/ˈsʌbɜːb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vùng ngoại ô (khu dân cư bên ngoài trung tâm thành phố)",
+        "examples": [
+          "They moved to the suburbs after their first child was born.",
+          "The commute from the suburb to downtown takes forty minutes.",
+          "The suburb has good schools and plenty of green space."
+        ],
+        "synonyms": [
+          "outskirts",
+          "residential area",
+          "dormitory town"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "concrete"
+    ],
+    "note": "'The suburbs' (số nhiều) = khu vực ngoại thành nói chung.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "slum",
+    "pronunciation": "/slʌm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khu ổ chuột, khu nghèo đô thị với điều kiện sống kém",
+        "examples": [
+          "Millions of people live in urban slums without access to clean water.",
+          "She grew up in a slum but worked her way to university.",
+          "The city demolished the slums and built public housing."
+        ],
+        "synonyms": [
+          "shantytown",
+          "ghetto",
+          "deprived area",
+          "favela"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shore",
+    "pronunciation": "/ʃɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bờ biển, bờ hồ (chỗ đất tiếp giáp mặt nước)",
+        "examples": [
+          "Children played on the shore while their parents watched from the beach.",
+          "The ship ran aground on the rocky shore.",
+          "He longed to return to his home shores after years abroad."
+        ],
+        "synonyms": [
+          "coast",
+          "beach",
+          "bank",
+          "waterfront"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "'Shore' = bờ biển/hồ/sông. 'Coast' thường chỉ bờ biển quy mô lớn hơn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cascade",
+    "pronunciation": "/kæˈskeɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thác nước nhỏ; dòng chảy tầng tầng lớp lớp; chuỗi liên tiếp",
+        "examples": [
+          "A cascade of water fell over the mossy rocks.",
+          "A cascade of problems followed the initial mistake.",
+          "Her hair fell in cascades around her shoulders."
+        ],
+        "synonyms": [
+          "waterfall",
+          "torrent",
+          "series",
+          "succession"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tuôn ra ào ạt, đổ xuống như thác; lan truyền theo chuỗi",
+        "examples": [
+          "Water cascaded down the mountain after the heavy rain.",
+          "Information cascaded down through the management layers.",
+          "Light cascaded through the stained-glass window."
+        ],
+        "synonyms": [
+          "pour",
+          "flow",
+          "tumble",
+          "spill"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "nature",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cliff",
+    "pronunciation": "/klɪf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vách đá (bờ biển hoặc núi có sườn đứng)",
+        "examples": [
+          "The hiker stood at the cliff edge and looked down at the sea.",
+          "The castle perched on a cliff high above the harbour.",
+          "Seabirds nest in the crevices of the chalk cliffs."
+        ],
+        "synonyms": [
+          "precipice",
+          "bluff",
+          "crag",
+          "escarpment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "'Cliffhanger' = tình huống căng thẳng chưa có hồi kết (gốc từ cảnh phim/tiểu thuyết rơi xuống vách đá).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coast",
+    "pronunciation": "/kəʊst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bờ biển (vùng đất tiếp giáp biển)",
+        "examples": [
+          "The storm caused damage all along the coast.",
+          "We drove down the scenic coast road from Nice to Monaco.",
+          "He retired to a cottage on the west coast of Ireland."
+        ],
+        "synonyms": [
+          "shoreline",
+          "seaside",
+          "seashore",
+          "coastline"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "'The coast is clear' (idiom) = không còn nguy hiểm/mối đe dọa nào nữa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "terrain",
+    "pronunciation": "/təˈreɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Địa hình (tính chất và đặc điểm của bề mặt đất)",
+        "examples": [
+          "The mountain terrain made driving extremely difficult.",
+          "Soldiers need to know how to navigate unfamiliar terrain.",
+          "The off-road vehicle was designed for rough terrain."
+        ],
+        "synonyms": [
+          "landscape",
+          "topography",
+          "ground",
+          "land"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exude",
+    "pronunciation": "/ɪɡˈzjuːd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tiết ra, rỉ ra (chất lỏng); toát lên, phát ra (cảm giác, sự tự tin)",
+        "examples": [
+          "Pine trees exude a sticky resin that traps insects.",
+          "She exudes confidence in every room she walks into.",
+          "The old house exuded an air of neglect and sadness."
+        ],
+        "synonyms": [
+          "emit",
+          "radiate",
+          "ooze",
+          "emanate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "abstract",
+      "nature"
+    ],
+    "note": "Hai cách dùng: (1) vật lý: tiết ra chất lỏng/hơi; (2) nghĩa bóng: toát ra cảm giác/chất lượng nào đó.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "terrace",
+    "pronunciation": "/ˈterəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sân thượng (mái bằng dùng để ngồi); dãy nhà liền kề; ruộng bậc thang",
+        "examples": [
+          "They had breakfast on the hotel terrace overlooking the sea.",
+          "The block includes a rooftop terrace with panoramic city views.",
+          "Victorian terraces line both sides of the narrow street."
+        ],
+        "synonyms": [
+          "patio",
+          "deck",
+          "veranda",
+          "balcony"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "concrete"
+    ],
+    "note": "Ba nghĩa: (1) sân thượng/ban công rộng; (2) dãy nhà liền kề một kiểu ('terraced houses'); (3) ruộng bậc thang.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pavement",
+    "pronunciation": "/ˈpeɪvmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vỉa hè (Anh Anh); mặt đường nhựa (Anh Mỹ)",
+        "examples": [
+          "She tripped on the uneven pavement and sprained her ankle.",
+          "A café put tables out on the pavement in summer.",
+          "The workers resurfaced the cracked pavement outside the school."
+        ],
+        "synonyms": [
+          "sidewalk",
+          "footpath",
+          "walkway"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "transport",
+      "concrete"
+    ],
+    "note": "Tiếng Anh Anh: 'pavement' = vỉa hè; tiếng Anh Mỹ 'pavement' = mặt đường, còn vỉa hè = 'sidewalk'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "embankment",
+    "pronunciation": "/ɪmˈbæŋkmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đê, bờ đất cao (dọc sông, đường sắt, hoặc đường bộ)",
+        "examples": [
+          "They walked along the Thames Embankment on a sunny afternoon.",
+          "The railway embankment was reinforced after the flooding.",
+          "Willow trees line the embankment beside the river."
+        ],
+        "synonyms": [
+          "dike",
+          "bank",
+          "levee",
+          "berm"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "transport",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "excursion",
+    "pronunciation": "/ɪkˈskɜːʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chuyến đi ngắn, chuyến tham quan (thường trong ngày)",
+        "examples": [
+          "The school organized an excursion to the natural history museum.",
+          "We took a day excursion to the nearby islands.",
+          "A boat excursion along the coast was included in the package."
+        ],
+        "synonyms": [
+          "trip",
+          "outing",
+          "day trip",
+          "tour"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ravine",
+    "pronunciation": "/rəˈviːn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hẻm núi, vực sâu hẹp (do nước xói mòn)",
+        "examples": [
+          "The hikers had to cross a narrow bridge over a deep ravine.",
+          "The river carved a ravine through the limestone over millions of years.",
+          "A body was found at the bottom of the ravine."
+        ],
+        "synonyms": [
+          "gorge",
+          "canyon",
+          "gully",
+          "chasm"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ranch",
+    "pronunciation": "/rɑːntʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trang trại chăn nuôi lớn (thường ở Mỹ, chủ yếu nuôi gia súc)",
+        "examples": [
+          "He grew up on a cattle ranch in Texas.",
+          "The ranch covers thousands of acres of open land.",
+          "She moved from the city to manage her family's ranch."
+        ],
+        "synonyms": [
+          "farm",
+          "estate",
+          "homestead"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reservoir",
+    "pronunciation": "/ˈrezəvwɑːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hồ chứa nước (nhân tạo hoặc tự nhiên); kho dự trữ",
+        "examples": [
+          "The reservoir supplies water to the entire city.",
+          "Drought has left the reservoir at its lowest level in decades.",
+          "She has a vast reservoir of knowledge and experience."
+        ],
+        "synonyms": [
+          "lake",
+          "water supply",
+          "store",
+          "supply"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "abstract",
+      "concrete"
+    ],
+    "note": "Nghĩa bóng: 'a reservoir of' = nguồn dự trữ lớn về (kiến thức, năng lượng, v.v.).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ridge",
+    "pronunciation": "/rɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sống núi, dãy núi hẹp; gờ nổi dài trên bề mặt",
+        "examples": [
+          "The hikers followed the ridge to the summit.",
+          "A high-pressure ridge is moving in from the west, bringing clear skies.",
+          "There is a sharp ridge along the top of the roof."
+        ],
+        "synonyms": [
+          "crest",
+          "spine",
+          "edge",
+          "range"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lodge",
+    "pronunciation": "/lɒdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà nghỉ (tại khu nghỉ dưỡng/khu săn bắn); nhà gác cổng",
+        "examples": [
+          "They stayed at a ski lodge in the Alps for a week.",
+          "The safari lodge was nestled deep in the game reserve.",
+          "The security guard was stationed at the lodge by the gate."
+        ],
+        "synonyms": [
+          "cabin",
+          "chalet",
+          "retreat",
+          "guesthouse"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nộp (đơn, khiếu nại) chính thức; ở tạm; mắc kẹt vào đâu đó",
+        "examples": [
+          "She lodged a formal complaint with the management.",
+          "He lodged with a local family while studying abroad.",
+          "A fish bone lodged in his throat."
+        ],
+        "synonyms": [
+          "file",
+          "submit",
+          "stay",
+          "become stuck"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ledge",
+    "pronunciation": "/ledʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gờ đá, bệ nhỏ nhô ra (trên vách đá hoặc tường); bậu cửa sổ",
+        "examples": [
+          "The climber rested on a narrow ledge halfway up the cliff.",
+          "A pigeon sat on the window ledge looking in.",
+          "Don't leave anything on the window ledge — it might fall."
+        ],
+        "synonyms": [
+          "shelf",
+          "projection",
+          "outcrop",
+          "sill"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "avenue",
+    "pronunciation": "/ˈævənjuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đại lộ, phố rộng; phương hướng, cách tiếp cận (cơ hội, giải pháp)",
+        "examples": [
+          "The parade moved down Fifth Avenue to the cheers of the crowd.",
+          "Several avenues were explored before a solution was found.",
+          "This new partnership opens up exciting avenues for growth."
+        ],
+        "synonyms": [
+          "boulevard",
+          "road",
+          "option",
+          "approach",
+          "route"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng: 'explore every avenue' = thử mọi hướng tiếp cận.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "alley",
+    "pronunciation": "/ˈæli/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngõ hẻm (đường nhỏ hẹp giữa các tòa nhà)",
+        "examples": [
+          "The mugger followed her down a dark alley.",
+          "The restaurant's back door opened onto a service alley.",
+          "Cats prowled the alleys behind the market stalls."
+        ],
+        "synonyms": [
+          "lane",
+          "passage",
+          "narrow street",
+          "backstreet"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "concrete"
+    ],
+    "note": "'Up someone's alley' (idiom) = đúng sở thích/chuyên môn của ai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "aquarium",
+    "pronunciation": "/əˈkweəriəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bể cá (tại nhà); thủy cung (cơ sở tham quan công cộng)",
+        "examples": [
+          "She has a large tropical aquarium in her living room.",
+          "The children loved watching the sharks at the city aquarium.",
+          "The aquarium recently added a coral reef exhibit."
+        ],
+        "synonyms": [
+          "fish tank",
+          "marine park"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "concrete",
+      "animal"
+    ],
+    "note": "Số nhiều: 'aquariums' (thông thường) hoặc 'aquaria' (học thuật).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crevasse",
+    "pronunciation": "/krɪˈvæs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khe nứt sâu trên sông băng; vết nứt lớn",
+        "examples": [
+          "The mountaineer fell into a hidden crevasse and was injured.",
+          "Explorers must probe the snow ahead to detect crevasses.",
+          "Satellite images revealed new crevasses opening in the ice sheet."
+        ],
+        "synonyms": [
+          "crack",
+          "fissure",
+          "chasm",
+          "crevice"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "Chủ yếu dùng cho khe nứt trong sông băng. 'Crevice' = khe nứt nhỏ trong đá.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "orchard",
+    "pronunciation": "/ˈɔːtʃəd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vườn cây ăn quả",
+        "examples": [
+          "The farm has a large apple orchard behind the barn.",
+          "They went apple-picking in the orchard in autumn.",
+          "The ancient orchard produces some of the finest cherries in the region."
+        ],
+        "synonyms": [
+          "fruit garden",
+          "grove",
+          "plantation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "agriculture",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "corridor",
+    "pronunciation": "/ˈkɒrɪdɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hành lang (trong tòa nhà); hành lang (địa lý/ngoại giao: dải đất kết nối hai vùng)",
+        "examples": [
+          "She hurried down the corridor to reach the meeting room in time.",
+          "The children were running in the corridors between classes.",
+          "The Danzig Corridor was a key flashpoint before World War II."
+        ],
+        "synonyms": [
+          "hallway",
+          "passageway",
+          "aisle"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "outlet",
+    "pronunciation": "/ˈaʊtlɛt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nơi giải tỏa (cảm xúc/năng lượng); ổ cắm điện; cửa hàng giảm giá; lối thoát của nước",
+        "examples": [
+          "Music became an outlet for her emotions after the divorce.",
+          "Plug the appliance into the nearest outlet.",
+          "The factory outlet sells items at discounted prices."
+        ],
+        "synonyms": [
+          "release",
+          "vent",
+          "socket",
+          "store",
+          "exit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "abstract",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "continent",
+    "pronunciation": "/ˈkɒntɪnənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lục địa (một trong bảy khối đất liền lớn của Trái Đất)",
+        "examples": [
+          "Africa is the second largest continent in the world.",
+          "The explorer was the first to cross the continent on foot.",
+          "Trade between continents was revolutionised by the shipping container."
+        ],
+        "synonyms": [
+          "landmass",
+          "mainland"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "marsh",
+    "pronunciation": "/mɑːʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đầm lầy, đồng lầy (đất ẩm ướt, thường có cỏ lau)",
+        "examples": [
+          "Migratory birds flock to the coastal marshes every winter.",
+          "The soldiers found it almost impossible to cross the marshy ground.",
+          "The nature reserve protects an important area of salt marsh."
+        ],
+        "synonyms": [
+          "wetland",
+          "bog",
+          "fen",
+          "swamp"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dyke",
+    "pronunciation": "/daɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đê, đập đất ngăn nước; tường đá nông thôn",
+        "examples": [
+          "The dykes of the Netherlands protect much of the country from flooding.",
+          "Workers reinforced the dykes after the storm warning.",
+          "Dry-stone dykes divide the hillside pastures in the Scottish countryside."
+        ],
+        "synonyms": [
+          "levee",
+          "embankment",
+          "dam",
+          "seawall"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "place",
+      "nature",
+      "concrete"
+    ],
+    "note": "Tiếng Anh Anh thường dùng 'dyke'; tiếng Anh Mỹ: 'dike'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "moor",
+    "pronunciation": "/mɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vùng đất hoang rộng lớn, thường ở trên cao, phủ đầy cây thạch thảo (moorland)",
+        "examples": [
+          "The Yorkshire Moors are popular with hikers and birdwatchers.",
+          "A thick fog rolled across the moor as night fell.",
+          "The moors of northern England have an atmosphere of wild solitude."
+        ],
+        "synonyms": [
+          "heath",
+          "moorland",
+          "upland",
+          "wasteland"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Neo đậu (tàu thuyền); buộc vào bờ",
+        "examples": [
+          "The boat was moored to the dock for the night.",
+          "They moored the yacht in the harbour and went ashore.",
+          "Visitors can moor their boats at the marina."
+        ],
+        "synonyms": [
+          "tie up",
+          "dock",
+          "anchor",
+          "berth"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "nature",
+      "transport",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "promenade",
+    "pronunciation": "/ˌprɒməˈnɑːd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đường đi bộ ven biển/công viên; khu dạo chơi",
+        "examples": [
+          "We strolled along the promenade as the sun set over the sea.",
+          "The seaside promenade was packed with tourists in summer.",
+          "A new promenade was built along the riverbank."
+        ],
+        "synonyms": [
+          "boardwalk",
+          "esplanade",
+          "walkway",
+          "seafront"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Dạo bộ (cách điệu, trang trọng)",
+        "examples": [
+          "Couples promenaded along the boulevard on Sunday afternoons.",
+          "Victorian ladies promenaded in the park to be seen.",
+          "The guests promenaded through the grand gallery before dinner."
+        ],
+        "synonyms": [
+          "stroll",
+          "saunter",
+          "parade"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "place",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

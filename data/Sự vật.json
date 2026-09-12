@@ -1,0 +1,2346 @@
+[
+  {
+    "word": "preservative",
+    "pronunciation": "/prɪˈzɜːvətɪv/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất bảo quản (trong thực phẩm, vật liệu)",
+        "examples": [
+          "Salt is the oldest and most widely used food preservative.",
+          "The label states that the product contains no artificial preservatives.",
+          "He painted the fence posts with a wood preservative."
+        ],
+        "synonyms": [
+          "additive",
+          "conservant",
+          "stabiliser"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Có tác dụng bảo quản",
+        "examples": [
+          "Salt has a preservative effect on meat and fish.",
+          "The preservative properties of vinegar have been known for centuries.",
+          "A preservative coating was applied to the timber."
+        ],
+        "synonyms": [
+          "protective",
+          "conservative",
+          "preventive"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cargo",
+    "pronunciation": "/ˈkɑːɡəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàng hóa (vận chuyển bằng tàu, máy bay)",
+        "examples": [
+          "The ship was carrying a cargo of oil.",
+          "The cargo was unloaded at the dock.",
+          "A cargo plane delivered medical supplies to the disaster zone."
+        ],
+        "synonyms": [
+          "freight",
+          "shipment",
+          "load",
+          "consignment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "accelerant",
+    "pronunciation": "/ækˈselərənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất xúc tiến; chất gây cháy nhanh (điều tra hỏa hoạn)",
+        "examples": [
+          "Investigators found traces of accelerant at the scene.",
+          "Petrol is commonly used as an accelerant in arson attacks.",
+          "The fire spread unusually fast, suggesting the presence of an accelerant."
+        ],
+        "synonyms": [
+          "catalyst",
+          "fuel",
+          "igniter",
+          "fire-starter"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bazaar",
+    "pronunciation": "/bəˈzɑːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chợ (phiên), khu chợ sầm uất (thường ở Trung Đông, Nam Á)",
+        "examples": [
+          "The street bazaar was a kaleidoscope of colours, smells and sounds.",
+          "She spent the afternoon browsing the stalls of the bazaar.",
+          "You can bargain for hours in the local bazaar."
+        ],
+        "synonyms": [
+          "market",
+          "souk",
+          "marketplace",
+          "fair"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barrel",
+    "pronunciation": "/ˈbærəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thùng gỗ lớn (hình trụ, phình giữa); đơn vị đo dầu (159 lít)",
+        "examples": [
+          "Wine was stored in oak barrels for three years.",
+          "Oil prices rose to $90 a barrel.",
+          "The barrel wobbled and rolled off the truck."
+        ],
+        "synonyms": [
+          "cask",
+          "keg",
+          "drum",
+          "tub"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "canister",
+    "pronunciation": "/ˈkænɪstər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bình chứa trụ, hộp kim loại (đựng khí, hóa chất, thực phẩm)",
+        "examples": [
+          "Police fired tear gas canisters into the crowd.",
+          "The canister is filled with activated charcoal.",
+          "She keeps flour and sugar in labelled canisters."
+        ],
+        "synonyms": [
+          "tin",
+          "container",
+          "cylinder",
+          "flask"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "vessel",
+    "pronunciation": "/ˈvesl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tàu thuyền; mạch máu; bình chứa",
+        "examples": [
+          "Coast guard vessels were dispatched to the area.",
+          "The rupture of a blood vessel usually causes bruising.",
+          "The ancient Egyptians used clay vessels to store grain."
+        ],
+        "synonyms": [
+          "ship",
+          "craft",
+          "boat",
+          "container"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coal",
+    "pronunciation": "/kəʊl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Than đá",
+        "examples": [
+          "Coal mining was a major industry in this region.",
+          "The factory was powered by coal in the 19th century.",
+          "He raked the glowing coals in the fireplace."
+        ],
+        "synonyms": [
+          "carbon",
+          "coke",
+          "anthracite",
+          "fossil fuel"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "debris",
+    "pronunciation": "/ˈdebriː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mảnh vụn, đống đổ nát",
+        "examples": [
+          "She was hit by flying debris from the blast.",
+          "Rescue workers searched through the debris for survivors.",
+          "Debris from the crash was scattered across the motorway."
+        ],
+        "synonyms": [
+          "wreckage",
+          "rubble",
+          "fragments",
+          "detritus"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diaper",
+    "pronunciation": "/ˈdaɪəpər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tã lót (trẻ em)",
+        "examples": [
+          "The baby needs a clean diaper.",
+          "She changed the diaper before putting the baby to bed.",
+          "Disposable diapers are convenient but not eco-friendly."
+        ],
+        "synonyms": [
+          "nappy",
+          "napkin"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "British English: nappy.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brick",
+    "pronunciation": "/brɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gạch; người đáng tin cậy (informal)",
+        "examples": [
+          "The old building was constructed from red brick.",
+          "He is a real brick — always reliable in a crisis.",
+          "The wall was built brick by brick over many months."
+        ],
+        "synonyms": [
+          "block",
+          "tile",
+          "masonry"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fence",
+    "pronunciation": "/fens/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàng rào",
+        "examples": [
+          "The house was surrounded by a tall wooden fence.",
+          "He hired a workman to repair the fence.",
+          "Children were playing on the other side of the fence."
+        ],
+        "synonyms": [
+          "barrier",
+          "railing",
+          "wall",
+          "enclosure"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fuel",
+    "pronunciation": "/fjuːəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhiên liệu, chất đốt",
+        "examples": [
+          "Food and fuel were scarce in this region.",
+          "The car has a full tank of fuel.",
+          "Uranium is used to fuel nuclear plants."
+        ],
+        "synonyms": [
+          "energy source",
+          "propellant",
+          "combustible",
+          "petrol"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cung cấp nhiên liệu; thúc đẩy, kích động",
+        "examples": [
+          "His resignation only fuelled suspicions of a cover-up.",
+          "Rising inequality fuelled public anger.",
+          "She fuelled the fire with dry logs before going to bed."
+        ],
+        "synonyms": [
+          "power",
+          "stoke",
+          "drive",
+          "feed",
+          "ignite"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tile",
+    "pronunciation": "/taɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gạch lát (sàn, tường); ngói lợp mái",
+        "examples": [
+          "The bathroom floor was covered in white ceramic tiles.",
+          "The roof tiles were replaced after the storm.",
+          "Colourful tiles decorated the courtyard walls."
+        ],
+        "synonyms": [
+          "slab",
+          "paving stone",
+          "shingle",
+          "flagstone"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Lát gạch, lợp ngói",
+        "examples": [
+          "They plan to tile the kitchen floor next week.",
+          "The roofers tiled the entire house in two days.",
+          "The shower cubicle was tiled with marble."
+        ],
+        "synonyms": [
+          "cover",
+          "pave",
+          "lay",
+          "face"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "oddity",
+    "pronunciation": "/ˈɒdɪti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vật kỳ lạ, điều khác thường, người kỳ quái",
+        "examples": [
+          "The museum is full of oddities from around the world.",
+          "She was regarded as something of an oddity in the village.",
+          "The building's design is an architectural oddity."
+        ],
+        "synonyms": [
+          "curiosity",
+          "peculiarity",
+          "anomaly",
+          "rarity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conduit",
+    "pronunciation": "/ˈkɒndjuɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ống dẫn; kênh trung gian (người hoặc tổ chức)",
+        "examples": [
+          "Pakistan became a conduit for drugs produced in Afghanistan.",
+          "The internet serves as a conduit for the rapid exchange of information.",
+          "The diplomat acted as a conduit between the two governments."
+        ],
+        "synonyms": [
+          "pipe",
+          "channel",
+          "duct",
+          "medium",
+          "carrier"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "siren",
+    "pronunciation": "/ˈsaɪərən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Còi báo động; Siren (nhân vật thần thoại Hy Lạp)",
+        "examples": [
+          "The wailing of the siren woke the entire neighbourhood.",
+          "An ambulance siren could be heard in the distance.",
+          "The factory siren signalled the end of the shift."
+        ],
+        "synonyms": [
+          "alarm",
+          "alert",
+          "horn",
+          "klaxon"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dart",
+    "pronunciation": "/dɑːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phi tiêu (trò chơi); mũi tên nhỏ; sự lao vụt",
+        "examples": [
+          "He threw the dart and hit the bullseye.",
+          "She made a dart for the door as soon as the bell rang.",
+          "The child made a sudden dart across the road."
+        ],
+        "synonyms": [
+          "spike",
+          "arrow",
+          "projectile",
+          "rush"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Phóng nhanh, lao vút",
+        "examples": [
+          "A lizard darted across the path in front of us.",
+          "She darted out of the room before anyone could stop her.",
+          "His eyes darted nervously around the room."
+        ],
+        "synonyms": [
+          "dash",
+          "rush",
+          "shoot",
+          "sprint",
+          "bolt"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "substance",
+    "pronunciation": "/ˈsʌbstəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất; thực chất, nội dung đáng kể",
+        "examples": [
+          "Diamond is the hardest natural substance known.",
+          "The report lacked substance and offered no real solutions.",
+          "Salt is a substance we use every day in cooking."
+        ],
+        "synonyms": [
+          "material",
+          "matter",
+          "compound",
+          "element"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "statue",
+    "pronunciation": "/ˈstætʃuː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bức tượng",
+        "examples": [
+          "Churchill's statue stands outside the parliament building.",
+          "The statue was carved from a single block of marble.",
+          "This statue is a memorial to a great statesman."
+        ],
+        "synonyms": [
+          "sculpture",
+          "figure",
+          "effigy",
+          "monument"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sill",
+    "pronunciation": "/sɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bậu cửa sổ",
+        "examples": [
+          "She placed a row of plants along the window sill.",
+          "The cat sat on the sill and watched the birds outside.",
+          "He leaned against the sill, looking out at the rain."
+        ],
+        "synonyms": [
+          "ledge",
+          "shelf",
+          "windowsill",
+          "overhang"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "borehole",
+    "pronunciation": "/ˈbɔːhəʊl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giếng khoan",
+        "examples": [
+          "We must sink a borehole so that people will have water.",
+          "The borehole reached a depth of 300 metres.",
+          "Boreholes provide clean water to many rural communities."
+        ],
+        "synonyms": [
+          "drill hole",
+          "well",
+          "shaft",
+          "bore"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "saddle",
+    "pronunciation": "/ˈsædl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Yên ngựa; yên xe đạp",
+        "examples": [
+          "She climbed into the saddle and rode off.",
+          "The saddle was made of fine leather.",
+          "He spent the whole day in the saddle."
+        ],
+        "synonyms": [
+          "seat",
+          "perch"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sheath",
+    "pronunciation": "/ʃiːθ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bao kiếm; vỏ bọc (dây điện, cơ quan sinh vật)",
+        "examples": [
+          "Put the dagger back in its sheath.",
+          "The sword slid smoothly back into its sheath.",
+          "The wire is protected by a plastic sheath."
+        ],
+        "synonyms": [
+          "scabbard",
+          "case",
+          "cover",
+          "casing",
+          "sleeve"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scabbard",
+    "pronunciation": "/ˈskæbəd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vỏ kiếm",
+        "examples": [
+          "He drew the blade from the scabbard.",
+          "The ornate scabbard was decorated with jewels.",
+          "The soldier returned his sword to its scabbard."
+        ],
+        "synonyms": [
+          "sheath",
+          "holster",
+          "case",
+          "cover"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "broom",
+    "pronunciation": "/bruːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chổi cán dài",
+        "examples": [
+          "She swept the floor with a broom.",
+          "He leaned the broom against the wall.",
+          "A new broom sweeps clean."
+        ],
+        "synonyms": [
+          "brush",
+          "sweeper",
+          "besom"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sack",
+    "pronunciation": "/sæk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bao tải, túi lớn; sự sa thải (informal)",
+        "examples": [
+          "The sack split and the rice poured out.",
+          "He got the sack after three warnings from his manager.",
+          "The corpse was sewn up in a sack and thrown into the river."
+        ],
+        "synonyms": [
+          "bag",
+          "pouch",
+          "sacking",
+          "dismissal"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Sa thải (informal); cướp phá (lịch sử)",
+        "examples": [
+          "He wants the power to sack incompetent teachers.",
+          "She was sacked for arriving late repeatedly.",
+          "Viking raiders sacked the village and took everything of value."
+        ],
+        "synonyms": [
+          "dismiss",
+          "fire",
+          "discharge",
+          "pillage",
+          "plunder"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stewpot",
+    "pronunciation": "/ˈstjuːpɒt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nồi hầm",
+        "examples": [
+          "The meat was simmering in the stewpot.",
+          "She added vegetables to the stewpot and let it cook slowly.",
+          "The old stewpot had been in the family for generations."
+        ],
+        "synonyms": [
+          "pot",
+          "casserole",
+          "cauldron",
+          "stew pot"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shower",
+    "pronunciation": "/ˈʃaʊər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vòi sen; cơn mưa rào",
+        "examples": [
+          "She took a quick shower before breakfast.",
+          "There will be scattered showers this afternoon.",
+          "The bathroom has both a shower and a bathtub."
+        ],
+        "synonyms": [
+          "downpour",
+          "spray",
+          "deluge",
+          "squall"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "jewel",
+    "pronunciation": "/ˈdʒuːəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đá quý; đồ trang sức; người/vật quý giá",
+        "examples": [
+          "The crown was set with priceless jewels.",
+          "She is the jewel of the family.",
+          "The jewel in the collection was a rare blue diamond."
+        ],
+        "synonyms": [
+          "gem",
+          "gemstone",
+          "precious stone",
+          "treasure"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scoop",
+    "pronunciation": "/skuːp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Muỗng múc; tin độc quyền (báo chí)",
+        "examples": [
+          "She used a small scoop to serve the ice cream.",
+          "The newspaper got a scoop on the prime minister's resignation.",
+          "He took a large scoop of flour from the bag."
+        ],
+        "synonyms": [
+          "ladle",
+          "spoon",
+          "shovel",
+          "exclusive"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Múc, xúc; giành được tin độc quyền",
+        "examples": [
+          "Cut the tomato in half and scoop out the seeds.",
+          "He scooped up the coins from the table.",
+          "The paper scooped the story before any other outlet."
+        ],
+        "synonyms": [
+          "ladle",
+          "spoon out",
+          "dig out",
+          "hollow out"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "shutter",
+    "pronunciation": "/ˈʃʌtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cửa chớp (cửa sổ); màn trập (máy ảnh)",
+        "examples": [
+          "Close the shutters before the storm hits.",
+          "The photographer adjusted the shutter speed.",
+          "Wooden shutters framed the cottage windows."
+        ],
+        "synonyms": [
+          "blind",
+          "screen",
+          "louvre",
+          "cover"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "instrument",
+    "pronunciation": "/ˈɪnstrəmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dụng cụ, nhạc cụ; công cụ đạt mục đích",
+        "examples": [
+          "Please handle this precision instrument carefully.",
+          "She plays several musical instruments.",
+          "Law can be an instrument of social change."
+        ],
+        "synonyms": [
+          "tool",
+          "device",
+          "implement",
+          "gadget"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "torch",
+    "pronunciation": "/tɔːtʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đèn pin (British); đuốc",
+        "examples": [
+          "She shone a torch into the dark cave.",
+          "The Olympic torch was carried through the city.",
+          "He lit a torch to guide his way through the tunnel."
+        ],
+        "synonyms": [
+          "flashlight",
+          "lantern",
+          "flame",
+          "light"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "British English: torch = flashlight. American English: flashlight.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "thicket",
+    "pronunciation": "/ˈθɪkɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bụi rậm, đám cây rậm",
+        "examples": [
+          "The rabbit disappeared into the thicket.",
+          "They pushed through the dense thicket of thorns.",
+          "A narrow path led through the thicket."
+        ],
+        "synonyms": [
+          "bushes",
+          "undergrowth",
+          "copse",
+          "shrubbery"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tyre",
+    "pronunciation": "/ˈtaɪər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lốp xe",
+        "examples": [
+          "The car had a flat tyre on the motorway.",
+          "Check your tyre pressure before a long journey.",
+          "He changed the tyre in under ten minutes."
+        ],
+        "synonyms": [
+          "rubber",
+          "tube"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "British English: tyre. American English: tire.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "towel",
+    "pronunciation": "/ˈtaʊəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khăn (tắm, mặt)",
+        "examples": [
+          "She dried her hair with a towel.",
+          "Clean towels are provided in every room.",
+          "He threw in the towel after three rounds."
+        ],
+        "synonyms": [
+          "cloth",
+          "flannel",
+          "face cloth",
+          "flannel"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tin",
+    "pronunciation": "/tɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thiếc (kim loại); lon, hộp (British)",
+        "examples": [
+          "She opened a tin of beans for dinner.",
+          "The tin roof rattled in the wind.",
+          "Tin is used to coat steel and prevent corrosion."
+        ],
+        "synonyms": [
+          "can",
+          "container",
+          "box"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "British English: tin = can (food container). American English: can.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tent",
+    "pronunciation": "/tent/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lều",
+        "examples": [
+          "They pitched their tent by the river.",
+          "The tent flapped in the strong wind.",
+          "The circus tent was enormous."
+        ],
+        "synonyms": [
+          "marquee",
+          "canopy",
+          "awning",
+          "bivouac"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tube",
+    "pronunciation": "/tjuːb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ống; tàu điện ngầm London (the Tube)",
+        "examples": [
+          "They inserted a tube in his mouth to help him breathe.",
+          "Squeeze the toothpaste from the tube.",
+          "The London Underground is also known as the Tube."
+        ],
+        "synonyms": [
+          "pipe",
+          "cylinder",
+          "duct",
+          "hollow"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prism",
+    "pronunciation": "/ˈprɪzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lăng kính (quang học); vật thể hình lăng trụ",
+        "examples": [
+          "Light is refracted when passed through a prism.",
+          "The glass prism refracted white light into the colours of the rainbow.",
+          "Each culture views history through its own prism."
+        ],
+        "synonyms": [
+          "crystal",
+          "polyhedron",
+          "optic"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "purse",
+    "pronunciation": "/pɜːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ví tiền; túi xách (American English)",
+        "examples": [
+          "She rummaged in her purse for loose change.",
+          "A heavy purse makes a light heart.",
+          "The government must tighten the public purse."
+        ],
+        "synonyms": [
+          "wallet",
+          "bag",
+          "handbag",
+          "pouch"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pile",
+    "pronunciation": "/paɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đống, núi (đồ vật chồng lên nhau)",
+        "examples": [
+          "The pile of bricks wobbled and fell.",
+          "There was a pile of dirty dishes in the sink.",
+          "She had a pile of work waiting on her desk."
+        ],
+        "synonyms": [
+          "heap",
+          "stack",
+          "mound",
+          "mass"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Chất đống, tích lũy",
+        "examples": [
+          "Unpaid bills began to pile up alarmingly.",
+          "Snow piled against the door overnight.",
+          "She piled her plate high with food."
+        ],
+        "synonyms": [
+          "heap",
+          "stack",
+          "accumulate",
+          "amass"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pillar",
+    "pronunciation": "/ˈpɪlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trụ cột (kiến trúc); trụ cột (nghĩa bóng)",
+        "examples": [
+          "Marble pillars supported the roof of the temple.",
+          "He was exalted as a pillar of the community.",
+          "Justice is the firmest pillar of government."
+        ],
+        "synonyms": [
+          "column",
+          "support",
+          "post",
+          "cornerstone"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "puddle",
+    "pronunciation": "/ˈpʌdl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vũng nước",
+        "examples": [
+          "Careful you don't tread in that puddle.",
+          "There was a puddle of water on the kitchen floor.",
+          "After the rain, the children jumped in every puddle they found."
+        ],
+        "synonyms": [
+          "pool",
+          "plash",
+          "mud pool"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pearl",
+    "pronunciation": "/pɜːl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngọc trai; điều quý giá",
+        "examples": [
+          "She wore a string of pearls around her neck.",
+          "The oyster produced a perfect pearl.",
+          "Pearls of wisdom are often found in old proverbs."
+        ],
+        "synonyms": [
+          "gem",
+          "nacre",
+          "jewel",
+          "bead"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "palisade",
+    "pronunciation": "/ˌpælɪˈseɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hàng rào cọc nhọn (dùng để phòng thủ)",
+        "examples": [
+          "They surrounded the yard with a palisade.",
+          "The fort was defended by a wooden palisade.",
+          "The second gate is a heavy wooden palisade."
+        ],
+        "synonyms": [
+          "stockade",
+          "fence",
+          "barrier",
+          "enclosure"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "emerald",
+    "pronunciation": "/ˈemərəld/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngọc lục bảo",
+        "examples": [
+          "She wore an emerald ring set in gold.",
+          "The emerald was the centrepiece of the royal crown.",
+          "Emeralds are prized for their intense green colour."
+        ],
+        "synonyms": [
+          "gem",
+          "gemstone",
+          "beryl",
+          "precious stone"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Màu xanh lục đậm (như ngọc bích)",
+        "examples": [
+          "The emerald waters of the Caribbean were breathtaking.",
+          "She wore an emerald green dress to the gala.",
+          "The Irish countryside was a deep emerald after the rain."
+        ],
+        "synonyms": [
+          "green",
+          "jade",
+          "viridian"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enamel",
+    "pronunciation": "/ɪˈnæml/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Men răng; men sứ, lớp men tráng",
+        "examples": [
+          "Sugary drinks erode the enamel on your teeth.",
+          "The bathtub had a classic white enamel finish.",
+          "The artist painted intricate patterns on enamel tiles."
+        ],
+        "synonyms": [
+          "glaze",
+          "coating",
+          "lacquer",
+          "varnish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "apparatus",
+    "pronunciation": "/ˌæpəˈreɪtəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thiết bị, dụng cụ; bộ máy (hệ thống tổ chức)",
+        "examples": [
+          "The laboratory was equipped with the latest scientific apparatus.",
+          "The state apparatus was used to suppress dissent.",
+          "Fire-fighting apparatus was deployed within minutes."
+        ],
+        "synonyms": [
+          "equipment",
+          "device",
+          "machinery",
+          "mechanism"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cradle",
+    "pronunciation": "/ˈkreɪdl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nôi (trẻ em); nơi khởi nguồn",
+        "examples": [
+          "The baby was rocking gently in the cradle.",
+          "Greece is often called the cradle of democracy.",
+          "The region is considered the cradle of civilisation."
+        ],
+        "synonyms": [
+          "crib",
+          "bassinet",
+          "birthplace",
+          "origins"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "relic",
+    "pronunciation": "/ˈrelɪk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Di vật; vật lưu niệm lịch sử; thánh tích",
+        "examples": [
+          "The museum displayed relics from ancient civilisations.",
+          "The old typewriter was a relic from a different age.",
+          "Holy relics were said to have miraculous powers."
+        ],
+        "synonyms": [
+          "artefact",
+          "remnant",
+          "keepsake",
+          "vestige"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rack",
+    "pronunciation": "/ræk/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giá đỡ, kệ; giá treo quần áo",
+        "examples": [
+          "Hang the coats on the rack by the door.",
+          "She browsed the clothes on the sale rack.",
+          "He stored wine bottles in a wooden rack."
+        ],
+        "synonyms": [
+          "shelf",
+          "stand",
+          "frame",
+          "holder"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Hành hạ, dày vò (rack your brain: vắt óc suy nghĩ)",
+        "examples": [
+          "She was racked with guilt after the argument.",
+          "The city was racked by years of social unrest.",
+          "Pain racked his body after the long march."
+        ],
+        "synonyms": [
+          "torment",
+          "agonise",
+          "torture",
+          "plague"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rag",
+    "pronunciation": "/ræɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giẻ rách; tờ báo tầm thường (informal)",
+        "examples": [
+          "He wiped the oil with an old rag.",
+          "She dressed in rags despite her family's wealth.",
+          "The newspaper was dismissed as a rag by critics."
+        ],
+        "synonyms": [
+          "cloth",
+          "scrap",
+          "tatter",
+          "shred"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coil",
+    "pronunciation": "/kɔɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộn (dây, lò xo); vòng xoắn",
+        "examples": [
+          "A coil of rope lay on the deck of the boat.",
+          "The snake lay in a tight coil on the rock.",
+          "An induction coil converts electrical energy."
+        ],
+        "synonyms": [
+          "spiral",
+          "loop",
+          "roll",
+          "spool"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cuộn lại, uốn khúc",
+        "examples": [
+          "The snake coiled around the branch.",
+          "She coiled her hair into a bun.",
+          "He coiled the rope and hung it on the hook."
+        ],
+        "synonyms": [
+          "wind",
+          "wrap",
+          "curl",
+          "spiral"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crest",
+    "pronunciation": "/krest/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đỉnh (sóng, đồi núi); mào (gà trống); huy hiệu dòng họ",
+        "examples": [
+          "The surfer waited for the crest of the wave.",
+          "The castle stood at the crest of the hill.",
+          "The family crest was engraved on the silver ring."
+        ],
+        "synonyms": [
+          "peak",
+          "summit",
+          "top",
+          "pinnacle",
+          "badge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "copper",
+    "pronunciation": "/ˈkɒpər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng đỏ (kim loại); cảnh sát (British informal)",
+        "examples": [
+          "The roof was covered in copper that had turned green.",
+          "Copper wiring is used throughout the building.",
+          "Her hair was a deep copper colour."
+        ],
+        "synonyms": [
+          "bronze",
+          "metal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "charcoal",
+    "pronunciation": "/ˈtʃɑːkəʊl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Than củi; chì than vẽ",
+        "examples": [
+          "He sketched the portrait using charcoal.",
+          "Food cooked over charcoal has a distinct smoky flavour.",
+          "She wore a charcoal grey suit to the interview."
+        ],
+        "synonyms": [
+          "carbon",
+          "coal",
+          "graphite"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cage",
+    "pronunciation": "/keɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lồng, cũi",
+        "examples": [
+          "The bird paced back and forth in its cage.",
+          "The young lion was kept in a cage at the zoo.",
+          "He felt as if his desk job was a comfortable cage."
+        ],
+        "synonyms": [
+          "enclosure",
+          "pen",
+          "hutch",
+          "coop"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nhốt vào lồng; giam cầm",
+        "examples": [
+          "The animals were caged and transported to the zoo.",
+          "She felt caged by the routine of her daily life.",
+          "The birds were caged for quarantine before release."
+        ],
+        "synonyms": [
+          "confine",
+          "imprison",
+          "lock up",
+          "enclose"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "choker",
+    "pronunciation": "/ˈtʃəʊkər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vòng cổ sát cổ",
+        "examples": [
+          "She wore a velvet choker to the formal dinner.",
+          "Pearl chokers were fashionable in the 1990s.",
+          "The choker was adorned with a small pendant."
+        ],
+        "synonyms": [
+          "necklace",
+          "collar",
+          "pendant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brazier",
+    "pronunciation": "/ˈbreɪʒər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lò than đốt ngoài trời",
+        "examples": [
+          "They huddled around the brazier to keep warm.",
+          "Street vendors cooked food over a charcoal brazier.",
+          "The brazier cast a warm orange light on the courtyard."
+        ],
+        "synonyms": [
+          "grill",
+          "fire basket",
+          "stove",
+          "pit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "brass",
+    "pronunciation": "/brɑːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng thau; nhạc cụ kèn; sự trơ tráo (informal)",
+        "examples": [
+          "The door handles were polished brass.",
+          "The band played a rousing brass fanfare.",
+          "He had the brass to ask for a raise after arriving late every day."
+        ],
+        "synonyms": [
+          "alloy",
+          "bronze",
+          "metal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lid",
+    "pronunciation": "/lɪd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nắp đậy",
+        "examples": [
+          "She couldn't get the lid off the jar.",
+          "Put the lid back on before the sauce boils over.",
+          "He kept the lid on his emotions during the meeting."
+        ],
+        "synonyms": [
+          "cover",
+          "cap",
+          "top",
+          "flap"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "roster",
+    "pronunciation": "/ˈrɒstər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Danh sách phân công; lịch trực",
+        "examples": [
+          "She checked the duty roster to see when she was next on shift.",
+          "The team roster was announced the day before the match.",
+          "His name appeared on the roster for Thursday's meeting."
+        ],
+        "synonyms": [
+          "list",
+          "schedule",
+          "rota",
+          "roll",
+          "timetable"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sail",
+    "pronunciation": "/seɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cánh buồm; chuyến đi thuyền",
+        "examples": [
+          "As the boat moved down the river, the wind began to fill the sails.",
+          "Hoist your sail when the wind is fair.",
+          "We set sail at dawn for the island."
+        ],
+        "synonyms": [
+          "canvas",
+          "sheet",
+          "spinnaker"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đi thuyền buồm; lướt sóng; khởi hành",
+        "examples": [
+          "They sailed from Southampton to New York.",
+          "The ship sailed smoothly into harbour.",
+          "She sailed across the bay in under an hour."
+        ],
+        "synonyms": [
+          "navigate",
+          "voyage",
+          "cruise",
+          "drift"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mat",
+    "pronunciation": "/mæt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chiếu, thảm; thảm yoga/judo",
+        "examples": [
+          "The dog lay drooling on the mat.",
+          "Please wipe your feet on the mat.",
+          "We must glue the mat down at the edges to stop it curling."
+        ],
+        "synonyms": [
+          "rug",
+          "carpet",
+          "pad",
+          "doormat"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fiddle",
+    "pronunciation": "/ˈfɪdl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đàn vi-ô-lông (thông thường); trò gian lận (informal)",
+        "examples": [
+          "He played the fiddle at local dances.",
+          "The musicians played reels on the fiddle.",
+          "It was a fiddle — the accounts had been tampered with."
+        ],
+        "synonyms": [
+          "violin",
+          "viola"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nghịch ngợm vặt vãnh; gian lận sổ sách",
+        "examples": [
+          "He kept fiddling with his keys during the meeting.",
+          "She fiddled the accounts to cover her tracks.",
+          "Stop fiddling with your phone during dinner."
+        ],
+        "synonyms": [
+          "tinker",
+          "tamper",
+          "play around",
+          "adjust",
+          "fidget"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "parcel",
+    "pronunciation": "/ˈpɑːsl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bưu kiện, gói hàng",
+        "examples": [
+          "This parcel is overweight by two kilos.",
+          "He tied the parcel with twine.",
+          "A parcel of land was set aside for a park."
+        ],
+        "synonyms": [
+          "package",
+          "packet",
+          "bundle",
+          "consignment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bracelet",
+    "pronunciation": "/ˈbreɪslɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vòng đeo tay",
+        "examples": [
+          "She had a charm bracelet on her wrist.",
+          "She clasped a bracelet round her wrist.",
+          "A gold bracelet dangled from his left wrist."
+        ],
+        "synonyms": [
+          "bangle",
+          "wristband",
+          "armlet",
+          "cuff"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "hinge",
+    "pronunciation": "/hɪndʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bản lề",
+        "examples": [
+          "The lid of the suitcase had a broken hinge, so it wouldn't open easily.",
+          "The gate swung on rusty hinges.",
+          "These reinforced hinges resist forced entry."
+        ],
+        "synonyms": [
+          "pivot",
+          "joint",
+          "fastening"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bathtub",
+    "pronunciation": "/ˈbæθtʌb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bồn tắm",
+        "examples": [
+          "Please let the water out of the bathtub.",
+          "The bathtub overflowed, saturating the carpet below.",
+          "She filled the bathtub with warm water and bath salts."
+        ],
+        "synonyms": [
+          "bath",
+          "tub",
+          "bathing basin"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "British English: bath. American English: bathtub.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "roller coaster",
+    "pronunciation": "/ˈrəʊlə ˌkəʊstər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tàu lượn siêu tốc; chuỗi trải nghiệm thăng trầm",
+        "examples": [
+          "She screamed on the roller coaster but wanted to go again immediately.",
+          "The negotiations have been a roller coaster of hope and setbacks.",
+          "He described the last five years of his career as an emotional roller coaster."
+        ],
+        "synonyms": [
+          "fairground ride",
+          "thrill ride",
+          "big dipper"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "newsflash",
+    "pronunciation": "/ˈnjuːzflæʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tin tức khẩn, tin nóng hổi được phát sóng gấp",
+        "examples": [
+          "We interrupt this programme with a newsflash.",
+          "A newsflash announced the sudden resignation of the prime minister.",
+          "Her phone lit up with a newsflash about the earthquake."
+        ],
+        "synonyms": [
+          "bulletin",
+          "breaking news",
+          "news alert",
+          "newsbreak"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "round",
+    "pronunciation": "/raʊnd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vòng (đấu, đàm phán); lượt (mua đồ uống)",
+        "examples": [
+          "The champion won every round of the tournament.",
+          "A new round of peace talks was scheduled for next month.",
+          "He bought a round of drinks for everyone at the table."
+        ],
+        "synonyms": [
+          "bout",
+          "stage",
+          "heat",
+          "session"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "spree",
+    "pronunciation": "/spriː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơn bùng phát; chuỗi hành động liên tiếp (thường tiêu cực)",
+        "examples": [
+          "She went on a spending spree after receiving her bonus.",
+          "The thieves went on a spree across three counties before being caught.",
+          "A shooting spree left four people dead in the downtown area."
+        ],
+        "synonyms": [
+          "binge",
+          "fling",
+          "splurge",
+          "rampage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "boast",
+    "pronunciation": "/bəʊst/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Khoe khoang; tự hào sở hữu (nghĩa tích cực)",
+        "examples": [
+          "He always boasts about his exam results.",
+          "The hotel boasts a rooftop pool and panoramic views.",
+          "She boasted that she could finish in under an hour."
+        ],
+        "synonyms": [
+          "brag",
+          "crow",
+          "vaunt",
+          "show off"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Lời khoe khoang; điều đáng tự hào",
+        "examples": [
+          "Her only boast was that she never missed a deadline.",
+          "His constant boast about his wealth irritated everyone.",
+          "It is no idle boast — she has the results to prove it."
+        ],
+        "synonyms": [
+          "brag",
+          "claim",
+          "vaunt"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "noun",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clash",
+    "pronunciation": "/klæʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Va chạm, xung đột; tiếng va chạm inh ỏi",
+        "examples": [
+          "Clashes broke out between rival groups in the city centre.",
+          "There was a clash of cymbals as the band started.",
+          "A scheduling clash meant she had to choose one event."
+        ],
+        "synonyms": [
+          "conflict",
+          "confrontation",
+          "collision",
+          "dispute"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Xung đột; chói tai; không hợp nhau (màu sắc)",
+        "examples": [
+          "The two leaders clashed over trade policy at the summit.",
+          "The colours in the design clashed badly.",
+          "Police and protesters clashed outside the building."
+        ],
+        "synonyms": [
+          "conflict",
+          "collide",
+          "argue",
+          "fight"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ritual",
+    "pronunciation": "/ˈrɪtʃuəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nghi lễ, nghi thức; thói quen thường làm",
+        "examples": [
+          "The ceremony involved ancient rituals passed down through generations.",
+          "Morning coffee has become a ritual she cannot skip.",
+          "The tribe performed a ritual to mark the start of the harvest season."
+        ],
+        "synonyms": [
+          "ceremony",
+          "rite",
+          "custom",
+          "tradition"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Mang tính nghi lễ, theo nghi thức",
+        "examples": [
+          "The ritual cleansing was performed at dawn.",
+          "He observed the ritual procedures without deviation.",
+          "The gathering began with a ritual exchange of gifts."
+        ],
+        "synonyms": [
+          "ceremonial",
+          "formal",
+          "solemn",
+          "traditional"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

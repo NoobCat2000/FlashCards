@@ -1,0 +1,86 @@
+[
+  {
+    "word": "sprint",
+    "pronunciation": "/sprɪnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc chạy nước rút; đoạn chạy hết tốc lực",
+        "examples": [
+          "She won the 100m sprint at the national championships.",
+          "The race ended with a sprint to the finish line.",
+          "A sprint finish separated the top three runners."
+        ],
+        "synonyms": [
+          "dash",
+          "run",
+          "race"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Chạy nước rút, chạy hết tốc lực",
+        "examples": [
+          "He sprinted down the hallway to catch the bus.",
+          "The striker sprinted past two defenders to score.",
+          "She sprinted the last 200 metres of the race."
+        ],
+        "synonyms": [
+          "dash",
+          "bolt",
+          "race"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "sport"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pace",
+    "pronunciation": "/peɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tốc độ, nhịp độ; một bước chân",
+        "examples": [
+          "We walked at a brisk pace to keep warm.",
+          "The project is progressing at a steady pace.",
+          "She set the pace for the rest of the runners."
+        ],
+        "synonyms": [
+          "speed",
+          "rate",
+          "tempo",
+          "rhythm"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đi lại qua lại (lo lắng); điều chỉnh nhịp độ",
+        "examples": [
+          "He paced back and forth nervously while waiting for the results.",
+          "She paced the room, unable to sleep.",
+          "The trainer paced the athletes through their warm-up routine."
+        ],
+        "synonyms": [
+          "stride",
+          "walk",
+          "march"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "sport",
+      "abstract"
+    ],
+    "note": "'Pace' trong thể thao chỉ tốc độ duy trì suốt cuộc đua, khác với 'sprint' (tốc độ tối đa ngắn hạn).",
+    "needsEnrichment": false
+  }
+]

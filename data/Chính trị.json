@@ -1,0 +1,1878 @@
+[
+  {
+    "word": "diplomatic",
+    "pronunciation": "/ˌdɪpləˈmætɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc ngoại giao; khéo léo trong giao tiếp, tế nhị",
+        "examples": [
+          "He accused the ambassador of diplomatic double-talk.",
+          "They have established diplomatic relations with many countries.",
+          "Her diplomatic response avoided offending either side."
+        ],
+        "synonyms": [
+          "tactful",
+          "judicious",
+          "discreet",
+          "skilled"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "embargo",
+    "pronunciation": "/ɪmˈbɑːɡəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lệnh cấm vận (cấm thương mại hoặc giao thương với một quốc gia/tổ chức)",
+        "examples": [
+          "Many allies are pushing to lift the trade embargo.",
+          "During the war, they laid an embargo on commerce with enemy countries.",
+          "The arms embargo was extended for another year."
+        ],
+        "synonyms": [
+          "sanction",
+          "ban",
+          "trade ban",
+          "prohibition"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Áp đặt lệnh cấm vận",
+        "examples": [
+          "The Security Council voted to embargo oil exports.",
+          "Several nations moved to embargo the regime's assets.",
+          "They threatened to embargo imports from the country."
+        ],
+        "synonyms": [
+          "ban",
+          "prohibit",
+          "sanction",
+          "blacklist"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exit poll",
+    "pronunciation": "/ˈeksɪt pəʊl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thăm dò ý kiến cử tri ngay sau khi bỏ phiếu (để dự đoán kết quả bầu cử)",
+        "examples": [
+          "Exit polls predicted a very close race.",
+          "The exit poll was wrong: the actual result differed by ten points.",
+          "National exit polls showed 54 percent of women voted for the incumbent."
+        ],
+        "synonyms": [
+          "post-vote survey",
+          "voter survey"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Khác với 'opinion poll' (thăm dò trước bầu cử): exit poll được thực hiện ngay khi người dân rời khỏi phòng bỏ phiếu.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "hardliner",
+    "pronunciation": "/ˈhɑːdlaɪnər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người theo đường lối cứng rắn, không chịu thỏa hiệp",
+        "examples": [
+          "He needs to persuade the hard-liners in the cabinet to accept the deal.",
+          "Hardliners in the party blocked any reform for years.",
+          "The hardliner faction gained influence after the election."
+        ],
+        "synonyms": [
+          "hawk",
+          "radical",
+          "extremist",
+          "die-hard"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mandate",
+    "pronunciation": "/ˈmændeɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Uỷ nhiệm, quyền được trao (thường do bầu cử); nhiệm vụ được giao",
+        "examples": [
+          "The President had a clear mandate to end the war.",
+          "She was elected with a strong mandate to tackle corruption.",
+          "The UN mandate authorised peacekeepers to use force if necessary."
+        ],
+        "synonyms": [
+          "authorization",
+          "commission",
+          "directive",
+          "remit"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ra lệnh, uỷ nhiệm (chính thức)",
+        "examples": [
+          "The constitution mandates a general election every five years.",
+          "New regulations mandate the use of safety equipment on all sites.",
+          "The court mandated the release of all political prisoners."
+        ],
+        "synonyms": [
+          "require",
+          "order",
+          "direct",
+          "authorise"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pact",
+    "pronunciation": "/pækt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hiệp ước, thỏa thuận (thường có tính ràng buộc)",
+        "examples": [
+          "The two countries signed a non-aggression pact.",
+          "He made a pact with his colleagues not to discuss salaries.",
+          "The peace pact collapsed after the border incident."
+        ],
+        "synonyms": [
+          "agreement",
+          "treaty",
+          "accord",
+          "deal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "repression",
+    "pronunciation": "/rɪˈpreʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự đàn áp (chính trị); sự kìm nén (cảm xúc)",
+        "examples": [
+          "The political repression in this country is enforced by terror.",
+          "They suffered years of repression at the hands of the old regime.",
+          "Psychological repression of traumatic memories can have long-term effects."
+        ],
+        "synonyms": [
+          "suppression",
+          "oppression",
+          "crackdown",
+          "subjugation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sanction",
+    "pronunciation": "/ˈsæŋkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lệnh trừng phạt (quốc tế); sự phê chuẩn/chấp thuận",
+        "examples": [
+          "Economic sanctions were imposed on the regime.",
+          "Their ideas received official sanction at the UN meeting.",
+          "Prison is the ultimate sanction of the legal system."
+        ],
+        "synonyms": [
+          "penalty",
+          "embargo",
+          "restriction",
+          "approval",
+          "authorisation"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Chấp thuận, phê chuẩn chính thức",
+        "examples": [
+          "The church refused to sanction the king's second marriage.",
+          "The committee sanctioned the use of emergency funds.",
+          "The project was sanctioned by the board after months of review."
+        ],
+        "synonyms": [
+          "authorise",
+          "approve",
+          "endorse",
+          "permit"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "Hai nghĩa trái ngược: (1) trừng phạt; (2) chấp thuận. Xem ngữ cảnh để phân biệt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sovereignty",
+    "pronunciation": "/ˈsɒvrənti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chủ quyền (quyền tự quyết tối cao của một quốc gia)",
+        "examples": [
+          "The country claimed sovereignty over the disputed island.",
+          "China exercises sovereignty over Hong Kong.",
+          "National sovereignty must be respected under international law."
+        ],
+        "synonyms": [
+          "independence",
+          "autonomy",
+          "self-rule",
+          "supremacy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "treaty",
+    "pronunciation": "/ˈtriːti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hiệp ước, điều ước quốc tế (văn kiện ký kết giữa các quốc gia)",
+        "examples": [
+          "The two nations signed a peace treaty after years of conflict.",
+          "The treaty was declared invalid because it had not been ratified.",
+          "The Nuclear Non-Proliferation Treaty aims to prevent the spread of nuclear weapons."
+        ],
+        "synonyms": [
+          "agreement",
+          "pact",
+          "accord",
+          "convention"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "treasury",
+    "pronunciation": "/ˈtreʒəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kho bạc nhà nước, ngân khố; Bộ Tài chính",
+        "examples": [
+          "The Treasury announced new measures to reduce the deficit.",
+          "America's Treasury Secretary identified the most heavily indebted countries.",
+          "The national treasury was depleted by years of conflict."
+        ],
+        "synonyms": [
+          "exchequer",
+          "finance ministry",
+          "public funds"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "business",
+      "concrete"
+    ],
+    "note": "Viết hoa khi chỉ cơ quan/bộ cụ thể: 'the Treasury'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "territorial integrity",
+    "pronunciation": "/ˌterɪˈtɔːriəl ɪnˈteɡrəti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Toàn vẹn lãnh thổ (nguyên tắc trong luật quốc tế)",
+        "examples": [
+          "The nation vowed to defend its territorial integrity at all costs.",
+          "Respecting territorial integrity is a cornerstone of the UN Charter.",
+          "The conflict threatened the territorial integrity of the entire region."
+        ],
+        "synonyms": [
+          "sovereignty",
+          "inviolability of borders"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Cụm từ quan trọng trong ngoại giao và luật quốc tế.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "topple",
+    "pronunciation": "/ˈtɒpl/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Lật đổ (chính quyền, người cầm quyền); ngã đổ",
+        "examples": [
+          "Political corruption threatened to topple the regime.",
+          "The coup toppled the democratically elected government.",
+          "The stack of books toppled off the shelf."
+        ],
+        "synonyms": [
+          "overthrow",
+          "oust",
+          "bring down",
+          "collapse"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dictatorship",
+    "pronunciation": "/dɪkˈteɪtəʃɪp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chế độ độc tài",
+        "examples": [
+          "The generals established a military dictatorship after the coup.",
+          "The country suffered under dictatorship for thirty years.",
+          "His dictatorship was marked by the suppression of free speech."
+        ],
+        "synonyms": [
+          "autocracy",
+          "tyranny",
+          "despotism",
+          "authoritarianism"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dictator",
+    "pronunciation": "/ˈdɪkteɪtə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhà độc tài",
+        "examples": [
+          "The dictator ruled the country with an iron fist.",
+          "History has shown that dictators eventually fall from power.",
+          "The people rose up against the dictator after decades of oppression."
+        ],
+        "synonyms": [
+          "autocrat",
+          "tyrant",
+          "despot",
+          "strongman"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dictatorial",
+    "pronunciation": "/ˌdɪktəˈtɔːriəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Độc đoán, độc tài",
+        "examples": [
+          "His attitude became increasingly dictatorial as his power grew.",
+          "He suspended the constitution and assumed dictatorial powers.",
+          "Her dictatorial management style drove away talented staff."
+        ],
+        "synonyms": [
+          "autocratic",
+          "tyrannical",
+          "despotic",
+          "overbearing"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "subsidy",
+    "pronunciation": "/ˈsʌbsədi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trợ cấp (tiền nhà nước hỗ trợ cho ngành/cá nhân)",
+        "examples": [
+          "The government cut agricultural subsidies to reduce the deficit.",
+          "The banks received a government subsidy to cover the interest rate differential.",
+          "Farm subsidies are controversial in international trade negotiations."
+        ],
+        "synonyms": [
+          "grant",
+          "aid",
+          "allowance",
+          "financial support"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "business",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "congressional",
+    "pronunciation": "/kənˈɡreʃənl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về Quốc hội (đặc biệt là Quốc hội Mỹ)",
+        "examples": [
+          "The president explained his plans to congressional leaders.",
+          "A congressional hearing was scheduled to investigate the scandal.",
+          "Congressional approval is required for any declaration of war."
+        ],
+        "synonyms": [
+          "parliamentary",
+          "legislative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics"
+    ],
+    "note": "Chủ yếu dùng với Quốc hội Mỹ (Congress). Quốc hội Anh dùng 'parliamentary'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "decree",
+    "pronunciation": "/dɪˈkriː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sắc lệnh, nghị định (lệnh chính thức từ người có quyền)",
+        "examples": [
+          "The Emperor issued a decree repealing martial law.",
+          "An official decree invalidated the vote in the capital.",
+          "The decree was published in the official gazette."
+        ],
+        "synonyms": [
+          "edict",
+          "order",
+          "proclamation",
+          "ruling"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ra sắc lệnh, ban lệnh",
+        "examples": [
+          "The president decreed that all schools would reopen on Monday.",
+          "The court decreed that the contract was null and void.",
+          "The king decreed a national holiday to celebrate the victory."
+        ],
+        "synonyms": [
+          "order",
+          "proclaim",
+          "mandate",
+          "rule"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "demonstrator",
+    "pronunciation": "/ˈdemənstreɪtə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người biểu tình; người trình diễn (sản phẩm)",
+        "examples": [
+          "As he left the meeting, he was berated by angry demonstrators.",
+          "Thousands of demonstrators marched through the city centre.",
+          "She worked as a product demonstrator at trade fairs."
+        ],
+        "synonyms": [
+          "protester",
+          "marcher",
+          "activist"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "suffrage",
+    "pronunciation": "/ˈsʌfrɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quyền bầu cử",
+        "examples": [
+          "Suffrage demands by women became increasingly vocal in the early 20th century.",
+          "Universal suffrage was achieved after decades of campaigning.",
+          "The suffrage movement changed the course of democracy worldwide."
+        ],
+        "synonyms": [
+          "voting rights",
+          "franchise",
+          "ballot"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "'Universal suffrage' = phổ thông đầu phiếu. The Suffragettes were British women who campaigned for the right to vote.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "imperialism",
+    "pronunciation": "/ɪmˈpɪəriəlɪzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chủ nghĩa đế quốc (chính sách mở rộng lãnh thổ và ảnh hưởng)",
+        "examples": [
+          "Plunder is the very nature of imperialism.",
+          "Critics accuse tech giants of cultural imperialism.",
+          "The book traces the rise and fall of European imperialism."
+        ],
+        "synonyms": [
+          "expansionism",
+          "colonialism",
+          "domination"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intemperate",
+    "pronunciation": "/ɪnˈtempərət/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Quá khích, thiếu kiềm chế (ngôn từ hoặc hành vi)",
+        "examples": [
+          "The tone of the minister's article was intemperate.",
+          "His intemperate remarks during the interview caused a public backlash.",
+          "The governor refused to be provoked into intemperate action."
+        ],
+        "synonyms": [
+          "immoderate",
+          "extreme",
+          "inflammatory",
+          "reckless"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "insurgent",
+    "pronunciation": "/ɪnˈsɜːdʒənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kẻ nổi loạn, chiến binh vũ trang nổi dậy chống chính quyền",
+        "examples": [
+          "Several insurgents were captured in the border crackdown.",
+          "The army battled insurgents in the mountain regions for months.",
+          "A suspected insurgent was arrested inside his home."
+        ],
+        "synonyms": [
+          "rebel",
+          "militant",
+          "guerrilla",
+          "fighter"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Có tính nổi loạn, thuộc phong trào nổi dậy",
+        "examples": [
+          "Insurgent forces were reported advancing in the region.",
+          "The insurgent movement grew in strength after the economic collapse.",
+          "Insurgent groups used the remote valleys as hideouts."
+        ],
+        "synonyms": [
+          "rebel",
+          "revolutionary",
+          "guerrilla"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "politics",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "terrorism",
+    "pronunciation": "/ˈterərɪzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chủ nghĩa khủng bố (dùng bạo lực hoặc đe dọa vì mục đích chính trị)",
+        "examples": [
+          "The government declared war on terrorism after the attack.",
+          "International cooperation is essential in the fight against terrorism.",
+          "The legislation criminalised the financing of terrorism."
+        ],
+        "synonyms": [
+          "extremism",
+          "political violence",
+          "jihadism"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "military",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tyrant",
+    "pronunciation": "/ˈtaɪərənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bạo chúa, kẻ cai trị tàn ác",
+        "examples": [
+          "The tyrant ruled through fear and intimidation.",
+          "History remembers him as a cruel tyrant who silenced all dissent.",
+          "The people rose up and overthrew the tyrant."
+        ],
+        "synonyms": [
+          "dictator",
+          "despot",
+          "autocrat",
+          "oppressor"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "territory",
+    "pronunciation": "/ˈterətɔːri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lãnh thổ; vùng đất thuộc phạm vi kiểm soát; lĩnh vực",
+        "examples": [
+          "The army recaptured the territory lost in the first battle.",
+          "Negotiations over disputed territory continued for months.",
+          "This topic is uncharted territory for the committee."
+        ],
+        "synonyms": [
+          "land",
+          "region",
+          "domain",
+          "terrain"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "place",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "oppressive",
+    "pronunciation": "/əˈpresɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Áp bức, khắc nghiệt; ngột ngạt (thời tiết hoặc cảm giác)",
+        "examples": [
+          "The new laws are just as oppressive as those they replace.",
+          "The political situation has grown increasingly oppressive.",
+          "The oppressive August heat made it hard to breathe."
+        ],
+        "synonyms": [
+          "repressive",
+          "tyrannical",
+          "harsh",
+          "suffocating"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "populist",
+    "pronunciation": "/ˈpɒpjʊlɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người theo chủ nghĩa dân túy (tuyên bố đại diện cho 'người dân thường' chống lại 'giới tinh hoa')",
+        "examples": [
+          "Populists have gained ground in many democracies in recent years.",
+          "The populist promised to drain the swamp and return power to the people.",
+          "Critics accused the leader of being a dangerous populist."
+        ],
+        "synonyms": [
+          "demagogue",
+          "man-of-the-people politician"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Thuộc chủ nghĩa dân túy, mang tính dân túy",
+        "examples": [
+          "The candidate adopted a populist platform to appeal to working-class voters.",
+          "Populist rhetoric often oversimplifies complex political issues.",
+          "The movement's populist appeal cut across traditional party lines."
+        ],
+        "synonyms": [
+          "grassroots",
+          "anti-establishment",
+          "demagogic"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "politics",
+      "person"
+    ],
+    "note": "'Populism' thường mang hàm ý tiêu cực trong báo chí phương Tây — ngụ ý đơn giản hóa vấn đề phức tạp.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "proletariat",
+    "pronunciation": "/ˌprəʊlɪˈteərɪət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giai cấp vô sản (giai cấp công nhân không có tư liệu sản xuất)",
+        "examples": [
+          "Marx believed the proletariat would eventually overthrow the bourgeoisie.",
+          "The revolution was led by the urban proletariat.",
+          "The party claimed to represent the interests of the proletariat."
+        ],
+        "synonyms": [
+          "working class",
+          "labouring class",
+          "workers"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "person"
+    ],
+    "note": "Thuật ngữ Marxist. Đối lập với 'bourgeoisie' (giai cấp tư sản).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "peerage",
+    "pronunciation": "/ˈpɪərɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tước vị quý tộc (trong hệ thống Anh: công, hầu, bá, tử, nam); giới quý tộc",
+        "examples": [
+          "The Prime Minister offered him a life peerage for his services.",
+          "Prior to union, each kingdom had its own peerage.",
+          "Sir Peter was raised to the peerage with the title of Baron."
+        ],
+        "synonyms": [
+          "nobility",
+          "aristocracy",
+          "lordship"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Hệ thống quý tộc Anh gồm 5 cấp: Duke, Marquess, Earl, Viscount, Baron.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ratify",
+    "pronunciation": "/ˈrætɪfaɪ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Phê chuẩn, thông qua chính thức (hiệp ước, luật, hay thỏa thuận)",
+        "examples": [
+          "The treaty was ratified by all member states.",
+          "Congress ratified the amendment after a lengthy debate.",
+          "The agreement will not take effect until both sides ratify it."
+        ],
+        "synonyms": [
+          "approve",
+          "endorse",
+          "confirm",
+          "validate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "regime",
+    "pronunciation": "/reɪˈʒiːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chế độ, chính quyền (thường ám chỉ chính quyền độc đoán hoặc chuyên quyền)",
+        "examples": [
+          "The authoritarian regime silenced all opposition.",
+          "A new regime took power following the coup.",
+          "The old regime collapsed under the weight of popular protest."
+        ],
+        "synonyms": [
+          "government",
+          "administration",
+          "rule",
+          "system"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "'Regime' thường hàm ý tiêu cực; để trung lập hơn dùng 'government' hoặc 'administration'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "revolt",
+    "pronunciation": "/rɪˈvəʊlt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc nổi loạn, nổi dậy (chống lại chính quyền hoặc quyền lực)",
+        "examples": [
+          "The peasants rose in revolt against the king's taxes.",
+          "The revolt was crushed within a week by loyalist forces.",
+          "A palace revolt ousted the prime minister from within her own party."
+        ],
+        "synonyms": [
+          "uprising",
+          "rebellion",
+          "insurrection",
+          "mutiny"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nổi loạn; gây kinh tởm, ghê tởm",
+        "examples": [
+          "The people revolted against the unjust laws.",
+          "Several MPs revolted against the government's tax bill.",
+          "The graphic scenes revolted even seasoned journalists."
+        ],
+        "synonyms": [
+          "rebel",
+          "rise up",
+          "mutiny",
+          "disgust",
+          "appal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) chính trị: nổi loạn; (2) cảm xúc: gây phản cảm/ghê tởm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "referendum",
+    "pronunciation": "/ˌrefəˈrendəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trưng cầu dân ý",
+        "examples": [
+          "The country held a referendum on independence.",
+          "Citizens voted in the referendum after months of intense campaigning.",
+          "The referendum result surprised most political analysts."
+        ],
+        "synonyms": [
+          "public vote",
+          "ballot",
+          "plebiscite"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Số nhiều: 'referendums' (thông thường) hoặc 'referenda' (học thuật). 'Plebiscite' = trưng cầu dân ý không ràng buộc pháp lý.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rebellion",
+    "pronunciation": "/rɪˈbeljən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc nổi dậy, chống đối (thường có tổ chức, có thể vũ trang)",
+        "examples": [
+          "The rebellion was swiftly crushed by the military.",
+          "A spirit of rebellion ran through the youth movement.",
+          "The rebellion against the regime lasted three years before being suppressed."
+        ],
+        "synonyms": [
+          "uprising",
+          "revolt",
+          "insurrection",
+          "mutiny"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "resurgence",
+    "pronunciation": "/rɪˈsɜːdʒəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự trỗi dậy, hồi sinh (của phong trào, xu hướng, hay thế lực)",
+        "examples": [
+          "There has been a resurgence of interest in traditional crafts.",
+          "The resurgence of nationalism alarmed neighbouring countries.",
+          "Economic resurgence followed years of stagnation."
+        ],
+        "synonyms": [
+          "revival",
+          "comeback",
+          "renaissance",
+          "rebirth"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "radicalism",
+    "pronunciation": "/ˈrædɪkəlɪzəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chủ nghĩa cấp tiến; chủ nghĩa cực đoan chính trị",
+        "examples": [
+          "Radicalism in politics can destabilise the status quo.",
+          "The rise of radicalism alarmed moderate politicians.",
+          "Economic inequality often fuels the spread of radicalism."
+        ],
+        "synonyms": [
+          "extremism",
+          "militancy",
+          "revolutionary politics"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conspiracy",
+    "pronunciation": "/kənˈspɪrəsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Âm mưu (bí mật bàn tính làm điều xấu); thuyết âm mưu",
+        "examples": [
+          "They were convicted of conspiracy to commit fraud.",
+          "The conspiracy theory was dismissed as baseless by the authorities.",
+          "A conspiracy within the party nearly brought down the government."
+        ],
+        "synonyms": [
+          "plot",
+          "scheme",
+          "collusion",
+          "cabal"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coalition",
+    "pronunciation": "/ˌkəʊəˈlɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Liên minh (chính trị, giữa các đảng hoặc quốc gia)",
+        "examples": [
+          "The two parties formed a coalition government after neither won a majority.",
+          "The international coalition launched a joint military operation.",
+          "Coalition politics requires compromise from all sides."
+        ],
+        "synonyms": [
+          "alliance",
+          "partnership",
+          "union",
+          "bloc"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "organization"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "abdicate",
+    "pronunciation": "/ˈæbdɪkeɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thoái vị (vua chúa); từ bỏ trách nhiệm",
+        "examples": [
+          "The king abdicated in favour of his eldest son.",
+          "Leaders should not abdicate their responsibility to act in a crisis.",
+          "He abdicated his role as team leader under pressure."
+        ],
+        "synonyms": [
+          "renounce",
+          "relinquish",
+          "resign",
+          "step down"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "abolish",
+    "pronunciation": "/əˈbɒlɪʃ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Xóa bỏ, bãi bỏ (luật, tập tục, hay tổ chức) hoàn toàn",
+        "examples": [
+          "Slavery was abolished in Britain in 1833.",
+          "The new government promised to abolish the unpopular bedroom tax.",
+          "Some argue that the death penalty should be abolished globally."
+        ],
+        "synonyms": [
+          "eliminate",
+          "do away with",
+          "scrap",
+          "annul"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "autonomy",
+    "pronunciation": "/ɔːˈtɒnəmi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quyền tự trị (quyền quản lý nội bộ độc lập)",
+        "examples": [
+          "The region was granted limited autonomy over its domestic affairs.",
+          "Teachers need more autonomy in the classroom.",
+          "The university enjoys considerable autonomy from the government."
+        ],
+        "synonyms": [
+          "self-governance",
+          "independence",
+          "self-rule",
+          "sovereignty"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allegiance",
+    "pronunciation": "/əˈliːdʒəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lòng trung thành (với quốc gia, đảng phái, hay tổ chức)",
+        "examples": [
+          "He pledged allegiance to the new government.",
+          "Her allegiance to the party never wavered throughout her career.",
+          "The soldiers swore an oath of allegiance to the Crown."
+        ],
+        "synonyms": [
+          "loyalty",
+          "devotion",
+          "fidelity",
+          "commitment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "'Pledge allegiance' = tuyên thệ trung thành. The Pledge of Allegiance là lời thề của người Mỹ với quốc kỳ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ultimatum",
+    "pronunciation": "/ˌʌltɪˈmeɪtəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tối hậu thư (đòi hỏi cuối cùng, nếu không chấp nhận sẽ có hậu quả)",
+        "examples": [
+          "He issued an ultimatum: accept the terms or face military action.",
+          "The government rejected the ultimatum from the rebel group.",
+          "Issuing ultimatums rarely leads to productive negotiation."
+        ],
+        "synonyms": [
+          "final demand",
+          "last warning",
+          "final notice"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Số nhiều: 'ultimatums' (thông thường) hoặc 'ultimata' (học thuật).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "colonise",
+    "pronunciation": "/ˈkɒlənaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thuộc địa hoá, thiết lập thuộc địa; chiếm đóng (nghĩa bóng)",
+        "examples": [
+          "European powers colonised much of Africa and Asia during the 19th century.",
+          "The island was colonised by Dutch settlers in the 17th century.",
+          "Companies are beginning to colonise digital spaces in new ways."
+        ],
+        "synonyms": [
+          "settle",
+          "occupy",
+          "take over",
+          "subjugate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ: 'colonize'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nomination",
+    "pronunciation": "/ˌnɒmɪˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự đề cử (ứng viên, giải thưởng, chức vụ)",
+        "examples": [
+          "Her nomination for the Booker Prize was widely praised.",
+          "The party announced its presidential nomination at the convention.",
+          "He accepted the nomination with a short but heartfelt speech."
+        ],
+        "synonyms": [
+          "proposal",
+          "selection",
+          "candidacy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "emirate",
+    "pronunciation": "/ˈemərɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tiểu vương quốc (do emir cai trị)",
+        "examples": [
+          "The emirate opened parts of its property market to foreign buyers.",
+          "The United Arab Emirates is a federation of seven emirates.",
+          "The emirate invested heavily in infrastructure and tourism."
+        ],
+        "synonyms": [
+          "principality",
+          "sheikhdom"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "place"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "feminist",
+    "pronunciation": "/ˈfemɪnɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người theo chủ nghĩa nữ quyền",
+        "examples": [
+          "All her life she was an ardent feminist.",
+          "Prominent feminists gathered for the conference on gender equality.",
+          "He called himself a feminist and championed equal pay legislation."
+        ],
+        "synonyms": [
+          "women's rights advocate",
+          "egalitarian"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Thuộc chủ nghĩa nữ quyền",
+        "examples": [
+          "She wrote from a firmly feminist perspective.",
+          "The novel has been praised for its feminist themes.",
+          "Feminist theory challenges traditional power structures in society."
+        ],
+        "synonyms": [
+          "pro-women",
+          "egalitarian"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "slavery",
+    "pronunciation": "/ˈsleɪvəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chế độ nô lệ; tình trạng bị buộc phải làm việc khổ sai",
+        "examples": [
+          "William Wilberforce campaigned for the abolition of slavery.",
+          "People are still suffering under the yoke of modern slavery.",
+          "They condemned slavery as the gravest violation of human rights."
+        ],
+        "synonyms": [
+          "bondage",
+          "servitude",
+          "captivity",
+          "enslavement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "'Modern slavery' = nô lệ hiện đại: cưỡng bức lao động, buôn người.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "democratically",
+    "pronunciation": "/ˌdeməˈkrætɪkli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách dân chủ",
+        "examples": [
+          "This committee will enable decisions to be made democratically.",
+          "They saw their democratically elected president overthrown by a military coup.",
+          "The motion was democratically put to a vote."
+        ],
+        "synonyms": [
+          "by popular vote",
+          "through free elections"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "legislature",
+    "pronunciation": "/ˈledʒɪsleɪtʃə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơ quan lập pháp (quốc hội, nghị viện)",
+        "examples": [
+          "The legislature passed a new bill on environmental protection.",
+          "They voted to reduce the power of the legislature.",
+          "The bill was sent to the legislature for approval."
+        ],
+        "synonyms": [
+          "parliament",
+          "congress",
+          "assembly",
+          "senate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "organization"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "electorate",
+    "pronunciation": "/ɪˈlektərət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cử tri, toàn thể cử tri",
+        "examples": [
+          "According to polls, the British electorate is deeply divided.",
+          "There is widespread apathy among the electorate this election cycle.",
+          "Only about half of the electorate bothered to vote."
+        ],
+        "synonyms": [
+          "voters",
+          "constituents",
+          "the public"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "demarche",
+    "pronunciation": "/deɪˈmɑːʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kháng nghị ngoại giao (tuyên bố hoặc yêu cầu chính thức qua kênh ngoại giao)",
+        "examples": [
+          "The US government issued a demarche to protest the new trade restrictions.",
+          "The embassy delivered a demarche requesting the release of detained citizens.",
+          "A diplomatic demarche was filed after the spy expulsions."
+        ],
+        "synonyms": [
+          "diplomatic protest",
+          "formal complaint",
+          "démarche"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Từ tiếng Pháp. Formal diplomatic term.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "feudal",
+    "pronunciation": "/ˈfjuːdl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Phong kiến (thuộc chế độ phong kiến)",
+        "examples": [
+          "The feudal system was based on land ownership and vassalage.",
+          "Public opinion was firmly against preserving the old feudal order.",
+          "They were hired as soldiers by feudal lords in exchange for land."
+        ],
+        "synonyms": [
+          "medieval",
+          "manorial",
+          "aristocratic"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "unilaterally",
+    "pronunciation": "/ˌjuːnɪˈlætrəli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Đơn phương (do một phía quyết định, không có sự đồng thuận của bên kia)",
+        "examples": [
+          "The rebels unilaterally declared a ceasefire.",
+          "The district unilaterally proclaimed its independence.",
+          "The country cannot unilaterally withdraw from an international treaty."
+        ],
+        "synonyms": [
+          "independently",
+          "on one's own",
+          "alone"
+        ]
+      }
+    ],
+    "tags": [
+      "adverb",
+      "politics"
+    ],
+    "note": "Phân biệt: 'bilaterally' (song phương), 'multilaterally' (đa phương).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disenfranchise",
+    "pronunciation": "/ˌdɪsɪnˈfræntʃaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tước quyền bầu cử; tước đoạt quyền lợi cơ bản",
+        "examples": [
+          "Voter suppression laws effectively disenfranchise minority communities.",
+          "Those without a fixed address are often disenfranchised.",
+          "The ruling disenfranchised millions of citizens living abroad."
+        ],
+        "synonyms": [
+          "deprive of rights",
+          "disqualify",
+          "marginalise"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "Ngược lại: 'enfranchise' = trao quyền bầu cử.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disempower",
+    "pronunciation": "/ˌdɪsɪmˈpaʊə/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tước bỏ quyền lực, làm mất tiếng nói",
+        "examples": [
+          "Centralising all decisions disempowers regional governments.",
+          "The media can disempower citizens by keeping them ill-informed.",
+          "Structural inequality systematically disempowers marginalised groups."
+        ],
+        "synonyms": [
+          "weaken",
+          "undermine",
+          "marginalise",
+          "deprive"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "diplomacy",
+    "pronunciation": "/dɪˈpləʊməsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngoại giao; kỹ năng xử lý tế nhị trong quan hệ cá nhân",
+        "examples": [
+          "Economic diplomacy has become as important as military power.",
+          "The two leaders resolved the crisis through quiet diplomacy.",
+          "It took great diplomacy to keep all parties at the negotiating table."
+        ],
+        "synonyms": [
+          "negotiation",
+          "tact",
+          "statecraft",
+          "foreign policy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intransigence",
+    "pronunciation": "/ɪnˈtrænsɪdʒəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ngoan cố, không chịu nhượng bộ hay thỏa hiệp",
+        "examples": [
+          "Political intransigence on both sides blocked any meaningful progress.",
+          "The prime minister's intransigence over treaty terms shocked allies.",
+          "Voters grew frustrated with the intransigence of the ruling coalition."
+        ],
+        "synonyms": [
+          "stubbornness",
+          "inflexibility",
+          "obstinacy",
+          "uncompromising stance"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "abstract"
+    ],
+    "note": "Từ gốc: 'intransigent' (adj) = cứng đầu, không chịu thỏa hiệp.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bribe",
+    "pronunciation": "/braɪb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hối lộ (tiền hoặc vật phẩm đưa để mua chuộc)",
+        "examples": [
+          "The official was convicted of accepting a bribe.",
+          "He tried to pay a bribe to avoid prosecution.",
+          "Bribery and corruption are widespread problems in some administrations."
+        ],
+        "synonyms": [
+          "kickback",
+          "inducement",
+          "payoff",
+          "backhander"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Hối lộ, mua chuộc",
+        "examples": [
+          "He tried to bribe the inspector to overlook the violations.",
+          "She was accused of bribing officials to secure the contract.",
+          "The witness was bribed into changing his testimony."
+        ],
+        "synonyms": [
+          "corrupt",
+          "buy off",
+          "pay off",
+          "suborn"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "politics",
+      "law",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "asylum",
+    "pronunciation": "/əˈsaɪləm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quyền tị nạn chính trị; nơi tị nạn; (lịch sử) bệnh viện tâm thần",
+        "examples": [
+          "The opposition leader sought asylum in a neighbouring country.",
+          "Asylum seekers must demonstrate a well-founded fear of persecution.",
+          "The government's asylum policy drew criticism from human rights groups."
+        ],
+        "synonyms": [
+          "refuge",
+          "sanctuary",
+          "protection",
+          "shelter"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "politics",
+      "place",
+      "abstract"
+    ],
+    "note": "'Seek/claim asylum' = xin tị nạn. Nghĩa lịch sử: nơi trú ẩn cho người tâm thần.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "maritime",
+    "pronunciation": "/ˈmærɪtaɪm/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về hàng hải, biển; gần biển",
+        "examples": [
+          "The nation asserted its maritime rights in the disputed zone.",
+          "Maritime borders are governed by the UN Convention on the Law of the Sea.",
+          "Britain's maritime heritage includes centuries of naval dominance."
+        ],
+        "synonyms": [
+          "naval",
+          "nautical",
+          "seafaring",
+          "coastal"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "politics",
+      "transport"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "word": "cuff",
+    "pronunciation": "/kʌf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ tay áo, măng-sét (phần cuối ống tay áo)",
+        "examples": [
+          "He rolled up his shirt cuffs before washing the dishes.",
+          "The jacket has elegant gold buttons on the cuffs.",
+          "Her cuffs were frayed from years of wear."
+        ],
+        "synonyms": [
+          "wristband",
+          "sleeve end"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tát nhẹ, đánh bằng lòng bàn tay",
+        "examples": [
+          "She cuffed him playfully on the shoulder.",
+          "He cuffed the dog lightly to stop it barking.",
+          "The older boy cuffed his younger brother on the arm."
+        ],
+        "synonyms": [
+          "slap",
+          "tap",
+          "smack"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "fashion",
+      "concrete"
+    ],
+    "note": "'Off the cuff' = ứng khẩu, không chuẩn bị trước.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "hood",
+    "pronunciation": "/hʊd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mũ trùm đầu gắn liền với áo; nắp ca-pô xe hơi",
+        "examples": [
+          "She pulled her hood up against the rain.",
+          "He opened the car's hood to check the engine.",
+          "The hoodie gets its name from the hood sewn into it."
+        ],
+        "synonyms": [
+          "cowl",
+          "cap",
+          "cover"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "fashion",
+      "transport",
+      "concrete"
+    ],
+    "note": "Tiếng Anh Mỹ dùng 'hood' cho nắp ca-pô; tiếng Anh Anh dùng 'bonnet'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "collar",
+    "pronunciation": "/ˈkɒlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cổ áo; vòng cổ thú cưng",
+        "examples": [
+          "He loosened his collar after a long day in the office.",
+          "The dog wore a red leather collar with a name tag.",
+          "Her dress had a wide lace collar."
+        ],
+        "synonyms": [
+          "neckband",
+          "neckline"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tóm cổ, bắt giữ; chặn lại để nói chuyện",
+        "examples": [
+          "Police collared the suspect near the train station.",
+          "My boss collared me in the corridor to ask about the report.",
+          "Security guards collared the shoplifter at the exit."
+        ],
+        "synonyms": [
+          "apprehend",
+          "grab",
+          "catch",
+          "nab"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "fashion",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "flannel",
+    "pronunciation": "/ˈflænl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vải flannel, vải dạ mềm mịn",
+        "examples": [
+          "He wore a warm flannel shirt on the hiking trip.",
+          "The baby's blanket was made of soft flannel.",
+          "Flannel pajamas are popular in the colder months."
+        ],
+        "synonyms": [
+          "wool cloth",
+          "soft fabric"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "fashion",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "textile",
+    "pronunciation": "/ˈtekstaɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vải, hàng dệt; ngành dệt may",
+        "examples": [
+          "The country exports cotton and other textiles.",
+          "She studied the history of textile production in her thesis.",
+          "Silk is one of the most luxurious textiles in the world."
+        ],
+        "synonyms": [
+          "fabric",
+          "cloth",
+          "material"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về/liên quan đến ngành dệt may",
+        "examples": [
+          "The textile industry employs thousands of workers in this region.",
+          "She works in a textile factory on the outskirts of town.",
+          "Textile exports have grown significantly this year."
+        ],
+        "synonyms": [
+          "weaving",
+          "fabric"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "fashion",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

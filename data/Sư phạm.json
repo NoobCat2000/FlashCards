@@ -1,0 +1,207 @@
+[
+  {
+    "word": "curricular",
+    "pronunciation": "/kəˈrɪkjʊlər/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về chương trình giảng dạy",
+        "examples": [
+          "Extracurricular activities are an important part of school life.",
+          "The school made several curricular changes this year.",
+          "Curricular reform has been a key priority for the education ministry."
+        ],
+        "synonyms": [
+          "academic",
+          "scholastic",
+          "educational"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "education"
+    ],
+    "note": "Thường gặp trong cụm 'extracurricular' (ngoại khóa).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "didactic",
+    "pronunciation": "/daɪˈdæktɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Mang tính giáo huấn, dùng để giảng dạy; (tiêu cực) thuyết giảng quá mức",
+        "examples": [
+          "The fable has a didactic purpose — teaching children about honesty.",
+          "His teaching style was considered overly didactic and boring.",
+          "The novel is intentionally didactic, promoting clear moral values."
+        ],
+        "synonyms": [
+          "instructive",
+          "educational",
+          "moralizing",
+          "preachy"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "education"
+    ],
+    "note": "Thường mang hàm ý tiêu cực khi dùng để mô tả người hoặc văn bản — giảng đạo một cách nhàm chán, áp đặt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tuition",
+    "pronunciation": "/tjuːˈɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Học phí",
+        "examples": [
+          "University tuition fees have risen sharply over the past decade.",
+          "She couldn't afford the tuition and had to drop out.",
+          "The scholarship covered full tuition and living expenses."
+        ],
+        "synonyms": [
+          "fees",
+          "school fees",
+          "course fees"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Sự dạy học, kèm cặp riêng",
+        "examples": [
+          "He received private tuition in mathematics every week.",
+          "The center offers tuition in English for foreign students.",
+          "One-to-one tuition can be very effective for struggling learners."
+        ],
+        "synonyms": [
+          "teaching",
+          "instruction",
+          "coaching",
+          "tutoring"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "education",
+      "abstract"
+    ],
+    "note": "Tiếng Anh Mỹ thường dùng 'tuition' để chỉ học phí; tiếng Anh Anh có thể dùng cho cả hai nghĩa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "curriculum",
+    "pronunciation": "/kəˈrɪkjʊləm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chương trình giảng dạy",
+        "examples": [
+          "The school redesigned its curriculum to include more STEM subjects.",
+          "Reading and writing are core parts of the primary school curriculum.",
+          "He argued that history should be more prominent in the national curriculum."
+        ],
+        "synonyms": [
+          "syllabus",
+          "course of study",
+          "program"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "education",
+      "abstract"
+    ],
+    "note": "Số nhiều: 'curricula' (hàn lâm) hoặc 'curriculums' (thông thường).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "recite",
+    "pronunciation": "/rɪˈsaɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Đọc thuộc lòng trước đám đông; kể lại, liệt kê",
+        "examples": [
+          "She stood up and recited the poem from memory.",
+          "Students were asked to recite the multiplication tables.",
+          "He recited a long list of complaints to the manager."
+        ],
+        "synonyms": [
+          "repeat",
+          "quote",
+          "chant",
+          "declaim"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "education",
+      "language"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cram",
+    "pronunciation": "/kræm/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Học nhồi nhét (trước kỳ thi); nhồi đầy vào chỗ chật hẹp",
+        "examples": [
+          "He spent the whole night cramming for the final exam.",
+          "You can't cram a year's worth of knowledge into one study session.",
+          "She crammed her suitcase with clothes for the two-week trip."
+        ],
+        "synonyms": [
+          "study intensively",
+          "memorize",
+          "stuff",
+          "pack"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "education"
+    ],
+    "note": "'Cram for an exam' = ôn thi gấp trong thời gian ngắn. Thường hiệu quả ngắn hạn nhưng không giúp ghi nhớ lâu dài.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tutelage",
+    "pronunciation": "/ˈtjuːtɪlɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự dạy dỗ, chỉ bảo của người có thẩm quyền; sự giám hộ",
+        "examples": [
+          "She developed her skills under the tutelage of a renowned chef.",
+          "The young artist flourished under the tutelage of her mentor.",
+          "Under his tutelage, the team won three consecutive championships."
+        ],
+        "synonyms": [
+          "guidance",
+          "mentorship",
+          "supervision",
+          "instruction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "education",
+      "abstract"
+    ],
+    "note": "Formal/literary. Thường dùng trong cụm 'under the tutelage of' = dưới sự chỉ dạy của.",
+    "needsEnrichment": false
+  }
+]

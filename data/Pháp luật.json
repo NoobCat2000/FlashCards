@@ -1,0 +1,1951 @@
+[
+  {
+    "word": "accomplice",
+    "pronunciation": "/əˈkɒmplɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đồng phạm",
+        "examples": [
+          "She became his unwitting accomplice in the robbery.",
+          "He was charged as an accomplice to the crime.",
+          "Police are searching for the accomplice who drove the getaway car."
+        ],
+        "synonyms": [
+          "co-conspirator",
+          "abettor",
+          "partner in crime",
+          "accessory",
+          "collaborator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allege",
+    "pronunciation": "/əˈledʒ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Cáo buộc, viện dẫn (chưa được chứng minh)",
+        "examples": [
+          "Police allege the shooting was gang-related.",
+          "It is alleged that he stole over a million dollars.",
+          "The women allege that top executives routinely harassed female employees."
+        ],
+        "synonyms": [
+          "claim",
+          "assert",
+          "contend",
+          "maintain",
+          "charge"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "allegation",
+    "pronunciation": "/ˌæləˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cáo buộc (chưa được chứng minh)",
+        "examples": [
+          "Have you any evidence to support this allegation?",
+          "It took over two months to disprove the allegation.",
+          "She denied all the allegations made against her."
+        ],
+        "synonyms": [
+          "accusation",
+          "charge",
+          "claim",
+          "assertion",
+          "complaint"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prosecutor",
+    "pronunciation": "/ˈprɒsɪkjuːtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Công tố viên, người đại diện buộc tội",
+        "examples": [
+          "Once she became a prosecutor, she quickly established herself as a masterful trial lawyer.",
+          "The prosecutor recommended a fifteen-year sentence.",
+          "The state prosecutor described the police action as confused and disorganised."
+        ],
+        "synonyms": [
+          "public prosecutor",
+          "district attorney",
+          "state counsel",
+          "litigant",
+          "arraigner"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "convict",
+    "pronunciation": "/ˈkɒnvɪkt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tù nhân, người bị kết án",
+        "examples": [
+          "The novel begins with Pip's meeting with an escaped convict.",
+          "The convict was released on parole after ten years.",
+          "A group of convicts escaped from the prison."
+        ],
+        "synonyms": [
+          "prisoner",
+          "inmate",
+          "felon",
+          "offender",
+          "detainee"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Kết án, tuyên phạm tội",
+        "examples": [
+          "There wasn't enough evidence to convict her.",
+          "He was convicted of murder and sentenced to life imprisonment.",
+          "The jury convicted him on three separate counts."
+        ],
+        "synonyms": [
+          "sentence",
+          "find guilty",
+          "condemn",
+          "imprison",
+          "punish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "Trọng âm khác nhau: danh từ /ˈkɒnvɪkt/ (nhấn vần đầu), động từ /kənˈvɪkt/ (nhấn vần sau).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "illegal",
+    "pronunciation": "/ɪˈliːɡl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất hợp pháp, vi phạm pháp luật",
+        "examples": [
+          "Their action was judged illegal by the International Court.",
+          "It is illegal to sell alcohol to children.",
+          "Illegal hunting is threatening the survival of the species."
+        ],
+        "synonyms": [
+          "unlawful",
+          "illicit",
+          "criminal",
+          "prohibited",
+          "unauthorised"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "justify",
+    "pronunciation": "/ˈdʒʌstɪfaɪ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Biện minh, bào chữa, chứng minh là đúng",
+        "examples": [
+          "Ministers must appear before parliament and justify their actions.",
+          "Nothing can justify the use of violence against civilians.",
+          "He struggled to justify the expense to his superiors."
+        ],
+        "synonyms": [
+          "vindicate",
+          "warrant",
+          "excuse",
+          "rationalise",
+          "defend"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "jury",
+    "pronunciation": "/ˈdʒʊəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bồi thẩm đoàn",
+        "examples": [
+          "The jury deliberated for three hours before reaching a decision.",
+          "The jury returned a unanimous verdict of not guilty.",
+          "Both sides were allowed to question potential jury members."
+        ],
+        "synonyms": [
+          "panel",
+          "tribunal",
+          "bench",
+          "adjudicators",
+          "peers"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "'The jury is still out' là thành ngữ nghĩa là 'chưa có kết luận rõ ràng'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "appeal",
+    "pronunciation": "/əˈpiːl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kháng cáo; lời kêu gọi; sức hút",
+        "examples": [
+          "The appeal was rejected by the High Court.",
+          "We launched an appeal for funds after the disaster.",
+          "The simplicity of the design is part of its appeal."
+        ],
+        "synonyms": [
+          "petition",
+          "request",
+          "plea",
+          "entreaty",
+          "application"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Kháng cáo; kêu gọi; thu hút",
+        "examples": [
+          "The defence appealed against the sentence.",
+          "He appealed to the public for calm.",
+          "The film appeals to a wide audience."
+        ],
+        "synonyms": [
+          "petition",
+          "apply",
+          "plead",
+          "solicit",
+          "attract"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "custody",
+    "pronunciation": "/ˈkʌstədi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự giam giữ (cảnh sát); quyền nuôi con",
+        "examples": [
+          "He was kept in custody for his own safety.",
+          "After the riot, thirty-two people were taken into police custody.",
+          "The father was awarded custody of the children."
+        ],
+        "synonyms": [
+          "detention",
+          "imprisonment",
+          "confinement",
+          "care",
+          "guardianship"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "confinement",
+    "pronunciation": "/kənˈfaɪnmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự giam cầm, cầm tù",
+        "examples": [
+          "They were held in confinement for three weeks.",
+          "He spent eleven years in solitary confinement.",
+          "Prisoners are punished by being placed in solitary confinement."
+        ],
+        "synonyms": [
+          "imprisonment",
+          "detention",
+          "incarceration",
+          "captivity",
+          "custody"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "connivance",
+    "pronunciation": "/kəˈnaɪvəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự thông đồng, làm ngơ để cho phép điều xấu xảy ra",
+        "examples": [
+          "The crime was committed with the connivance of a police officer.",
+          "He tried to bribe the police into connivance.",
+          "The fraud was only possible through the connivance of senior management."
+        ],
+        "synonyms": [
+          "collusion",
+          "complicity",
+          "conspiracy",
+          "cooperation",
+          "tacit agreement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "interrogation",
+    "pronunciation": "/ɪnˌterəˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự thẩm vấn, hỏi cung",
+        "examples": [
+          "Under interrogation, he refused to say anything for the first two hours.",
+          "She revealed the name of her accomplice during interrogation.",
+          "He confessed after four days of intensive interrogation."
+        ],
+        "synonyms": [
+          "questioning",
+          "cross-examination",
+          "grilling",
+          "interview",
+          "debriefing"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "testify",
+    "pronunciation": "/ˈtestɪfaɪ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm chứng, khai trước toà",
+        "examples": [
+          "She refused to testify against her brother.",
+          "Mr Molto has agreed to testify at the trial.",
+          "Can you testify that you saw the defendant at the scene of the crime?"
+        ],
+        "synonyms": [
+          "give evidence",
+          "bear witness",
+          "depose",
+          "attest",
+          "swear"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "litigation",
+    "pronunciation": "/ˌlɪtɪˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Kiện tụng, quá trình tố tụng dân sự",
+        "examples": [
+          "Some business disputes require litigation to resolve.",
+          "It can help avoid expensive and protracted litigation.",
+          "The litigation will probably drag on for years."
+        ],
+        "synonyms": [
+          "legal action",
+          "lawsuit",
+          "suit",
+          "legal proceedings",
+          "prosecution"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "liability",
+    "pronunciation": "/ˌlaɪəˈbɪləti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Trách nhiệm pháp lý; khoản nợ; người/thứ gây bất lợi",
+        "examples": [
+          "Tenants have legal liability for any damage they cause.",
+          "The company maintains liability insurance for all its directors.",
+          "After the scandal, he became a liability to the party."
+        ],
+        "synonyms": [
+          "responsibility",
+          "obligation",
+          "accountability",
+          "debt",
+          "burden"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "defendant",
+    "pronunciation": "/dɪˈfendənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bị cáo, bị đơn",
+        "examples": [
+          "The defendant pleaded not guilty.",
+          "The defendant was found guilty on all counts.",
+          "The judge instructed the defendant to rise."
+        ],
+        "synonyms": [
+          "accused",
+          "respondent",
+          "suspect",
+          "prisoner at the bar",
+          "litigant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exculpate",
+    "pronunciation": "/ˈekskʌlpeɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giải oan, minh oan, chứng minh không có tội",
+        "examples": [
+          "The pilot will surely be exculpated when all the facts are known.",
+          "He was exculpated by the testimony of several witnesses.",
+          "New DNA evidence may exculpate the accused."
+        ],
+        "synonyms": [
+          "absolve",
+          "acquit",
+          "exonerate",
+          "clear",
+          "vindicate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "misconduct",
+    "pronunciation": "/ˌmɪsˈkɒndʌkt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hành vi sai trái, vi phạm quy tắc nghề nghiệp",
+        "examples": [
+          "The doctor was accused of professional misconduct.",
+          "Investigators found evidence of gross misconduct.",
+          "The officer was dismissed for misconduct."
+        ],
+        "synonyms": [
+          "wrongdoing",
+          "malpractice",
+          "impropriety",
+          "malfeasance",
+          "delinquency"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "perpetuity",
+    "pronunciation": "/ˌpɜːrpəˈtjuːəti/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự vĩnh viễn, mãi mãi (dùng nhiều trong văn bản pháp lý)",
+        "examples": [
+          "They do not own the land in perpetuity.",
+          "The trust fund will ensure preservation of the site in perpetuity.",
+          "The agreement grants broadcasting rights in perpetuity."
+        ],
+        "synonyms": [
+          "permanence",
+          "eternity",
+          "endlessness",
+          "infinity",
+          "forever"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "Thường gặp trong cụm 'in perpetuity' = mãi mãi, vĩnh viễn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "testimony",
+    "pronunciation": "/ˈtestɪməni/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lời khai, lời chứng; bằng chứng",
+        "examples": [
+          "The testimony of witnesses vindicated the defendant.",
+          "Barker's testimony is crucial to the prosecution's case.",
+          "His success is a testimony to years of hard work."
+        ],
+        "synonyms": [
+          "evidence",
+          "deposition",
+          "statement",
+          "declaration",
+          "attestation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "inquest",
+    "pronunciation": "/ˈɪŋkwest/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc điều tra pháp y (đặc biệt về nguyên nhân tử vong)",
+        "examples": [
+          "The inquest heard that she died from multiple injuries.",
+          "The coroner will hold an inquest into the deaths.",
+          "An inquest found that the deceased had died of a drugs overdose."
+        ],
+        "synonyms": [
+          "inquiry",
+          "investigation",
+          "post-mortem examination",
+          "hearing",
+          "probe"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "verdict",
+    "pronunciation": "/ˈvɜːrdɪkt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phán quyết, kết luận",
+        "examples": [
+          "The jury were unanimous in their verdict.",
+          "The jury returned a verdict of not guilty.",
+          "The response to the verdict was one of outrage."
+        ],
+        "synonyms": [
+          "judgement",
+          "ruling",
+          "decision",
+          "finding",
+          "outcome"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prosecute",
+    "pronunciation": "/ˈprɒsɪkjuːt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Truy tố, đưa ra xét xử",
+        "examples": [
+          "Does the agency have the power to prosecute companies?",
+          "The district attorney decided not to prosecute.",
+          "Trespassers will be prosecuted."
+        ],
+        "synonyms": [
+          "charge",
+          "indict",
+          "arraign",
+          "sue",
+          "bring to trial"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "trespass",
+    "pronunciation": "/ˈtrespəs/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Xâm phạm trái phép (tài sản, quyền riêng tư, lòng hiếu khách)",
+        "examples": [
+          "I always prosecute people who trespass on my land.",
+          "I don't want to trespass on your hospitality any further.",
+          "Signs warned visitors not to trespass beyond the barrier."
+        ],
+        "synonyms": [
+          "intrude",
+          "encroach",
+          "invade",
+          "violate",
+          "infringe"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Hành vi xâm phạm trái phép",
+        "examples": [
+          "He was fined for trespass on private land.",
+          "The court found him guilty of trespass.",
+          "A notice was posted warning against trespass on the property."
+        ],
+        "synonyms": [
+          "intrusion",
+          "encroachment",
+          "violation",
+          "infringement",
+          "incursion"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law",
+      "noun"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "legislation",
+    "pronunciation": "/ˌledʒɪsˈleɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Pháp luật, luật được ban hành",
+        "examples": [
+          "The government rushed through legislation aimed at organised crime.",
+          "New legislation was introduced to protect consumer rights.",
+          "This legislation effectively prevents us from trading abroad."
+        ],
+        "synonyms": [
+          "law",
+          "statute",
+          "regulation",
+          "act",
+          "enactment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "divorce",
+    "pronunciation": "/dɪˈvɔːrs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ly hôn, sự ly hôn",
+        "examples": [
+          "They decided to get a divorce after twenty years together.",
+          "The divorce was finalised last month.",
+          "She filed for divorce after discovering the affair."
+        ],
+        "synonyms": [
+          "separation",
+          "dissolution",
+          "split",
+          "break-up",
+          "annulment"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ly hôn; tách rời khỏi",
+        "examples": [
+          "She divorced him after discovering the affair.",
+          "He divorced his wife and remarried a year later.",
+          "You cannot divorce politics from economics in this analysis."
+        ],
+        "synonyms": [
+          "separate from",
+          "split from",
+          "part from",
+          "dissolve a marriage",
+          "end a marriage with"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "denounce",
+    "pronunciation": "/dɪˈnaʊns/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tố giác, lên án công khai",
+        "examples": [
+          "We must denounce injustice wherever it occurs.",
+          "Ministers took the floor to denounce the decision.",
+          "Human rights groups denounced the arrests as politically motivated."
+        ],
+        "synonyms": [
+          "condemn",
+          "censure",
+          "criticise",
+          "accuse",
+          "expose"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "slander",
+    "pronunciation": "/ˈslɑːndər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vu khống bằng lời nói (phỉ báng nói — phân biệt với libel là phỉ báng viết)",
+        "examples": [
+          "A reputation that was besmirched by slander.",
+          "He is being sued for slander.",
+          "Many teachers saw the statement as a gross slander on their profession."
+        ],
+        "synonyms": [
+          "defamation",
+          "libel",
+          "calumny",
+          "disparagement",
+          "smear"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Vu khống, nói xấu, phỉ báng bằng lời nói",
+        "examples": [
+          "He was accused of slandering his former colleague.",
+          "She had to issue an apology after slandering the minister on live TV.",
+          "It is an offence to slander a public official."
+        ],
+        "synonyms": [
+          "defame",
+          "libel",
+          "malign",
+          "disparage",
+          "calumniate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "Slander = phỉ báng bằng lời nói; libel = phỉ báng bằng văn bản. Cả hai đều là tội 'defamation'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "infringe",
+    "pronunciation": "/ɪnˈfrɪndʒ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Xâm phạm, vi phạm (quyền, luật pháp, bản quyền)",
+        "examples": [
+          "This law is starting to infringe on our personal liberties.",
+          "He occasionally infringes the law by parking illegally.",
+          "Two of the projects are deemed to infringe EU legislation."
+        ],
+        "synonyms": [
+          "violate",
+          "breach",
+          "contravene",
+          "transgress",
+          "trespass on"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "illicit",
+    "pronunciation": "/ɪˈlɪsɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất hợp pháp, phi pháp; trái đạo đức xã hội",
+        "examples": [
+          "They were prosecuted for illicit liquor selling.",
+          "The college cannot condone any behaviour involving illicit drugs.",
+          "The police cracked down on illicit trading."
+        ],
+        "synonyms": [
+          "illegal",
+          "unlawful",
+          "prohibited",
+          "criminal",
+          "forbidden"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "law"
+    ],
+    "note": "Phân biệt với 'elicit' (gợi ra, khai thác) — phát âm giống nhau nhưng nghĩa hoàn toàn khác.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "codify",
+    "pronunciation": "/ˈkɒdɪfaɪ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Hệ thống hoá, pháp điển hoá (viết thành luật hoặc quy tắc chính thức)",
+        "examples": [
+          "The agreement must still be codified by federal legislation.",
+          "It brought forth written constitutions and codified basic rights.",
+          "The laws were codified into a single document."
+        ],
+        "synonyms": [
+          "systematise",
+          "organise",
+          "catalogue",
+          "classify",
+          "compile"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enquiry",
+    "pronunciation": "/ɪnˈkwaɪəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cuộc điều tra, sự thẩm tra",
+        "examples": [
+          "The enquiry must be independently conducted.",
+          "They've passed the enquiry over to the police.",
+          "The police are following several lines of enquiry."
+        ],
+        "synonyms": [
+          "investigation",
+          "inquiry",
+          "examination",
+          "probe",
+          "study"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "Tiếng Anh Anh: 'enquiry' thường dùng cho hỏi thăm thông thường; 'inquiry' cho điều tra chính thức. Tiếng Anh Mỹ dùng 'inquiry' cho cả hai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "perpetrator",
+    "pronunciation": "/ˈpɜːrpətreɪtər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thủ phạm, người thực hiện hành vi phạm tội",
+        "examples": [
+          "The perpetrator of this crime must be traced.",
+          "DNA evidence helped identify the perpetrator.",
+          "The perpetrator fled the scene before police arrived."
+        ],
+        "synonyms": [
+          "offender",
+          "culprit",
+          "criminal",
+          "wrongdoer",
+          "assailant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exempt",
+    "pronunciation": "/ɪɡˈzempt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Được miễn, không phải tuân theo (quy định, thuế, nghĩa vụ)",
+        "examples": [
+          "Charitable organisations are exempt from certain taxes.",
+          "No one is exempt from the law.",
+          "Children under five are exempt from the entrance charge."
+        ],
+        "synonyms": [
+          "excused",
+          "freed",
+          "excepted",
+          "released",
+          "immune"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Miễn cho, cho phép không phải tuân theo",
+        "examples": [
+          "The law exempts students from paying council tax.",
+          "She was exempted from jury duty due to illness.",
+          "Small businesses were exempted from the new regulations."
+        ],
+        "synonyms": [
+          "excuse",
+          "free",
+          "release",
+          "spare",
+          "absolve"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "law",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "extenuate",
+    "pronunciation": "/ɪkˈstenjueɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giảm nhẹ (mức độ nghiêm trọng của tội lỗi, lỗi lầm)",
+        "examples": [
+          "There were extenuating circumstances that the judge took into account.",
+          "He offered no extenuating argument in his defence.",
+          "His difficult upbringing was cited as an extenuating factor."
+        ],
+        "synonyms": [
+          "mitigate",
+          "reduce",
+          "lessen",
+          "diminish",
+          "palliate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "Thường gặp ở dạng tính từ 'extenuating' trong cụm 'extenuating circumstances' (hoàn cảnh giảm nhẹ tội).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "expropriate",
+    "pronunciation": "/ɪkˈsprəʊprieɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tịch thu, sung công (nhà nước thu hồi tài sản tư nhân)",
+        "examples": [
+          "The government expropriated the land from private owners.",
+          "His property was expropriated without fair compensation.",
+          "The law allows the state to expropriate assets in cases of national interest."
+        ],
+        "synonyms": [
+          "confiscate",
+          "seize",
+          "commandeer",
+          "nationalise",
+          "dispossess"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "attestation",
+    "pronunciation": "/ˌætɪˈsteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự chứng thực, xác nhận chính thức",
+        "examples": [
+          "The document required official attestation before submission.",
+          "She provided an attestation of her qualifications.",
+          "Attestation of identity is required to open a bank account."
+        ],
+        "synonyms": [
+          "certification",
+          "verification",
+          "authentication",
+          "confirmation",
+          "endorsement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "legitimacy",
+    "pronunciation": "/lɪˈdʒɪtɪməsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tính hợp pháp, tính chính danh",
+        "examples": [
+          "The legitimacy of the election was questioned by opposition parties.",
+          "They challenged the legitimacy of the new government.",
+          "His claim to the throne lacked legal legitimacy."
+        ],
+        "synonyms": [
+          "legality",
+          "validity",
+          "lawfulness",
+          "authority",
+          "right"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "license",
+    "pronunciation": "/ˈlaɪsns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giấy phép, bằng lái (tài liệu cho phép làm gì đó)",
+        "examples": [
+          "You need a licence to operate that type of vehicle.",
+          "He was stripped of his driving licence after the offence.",
+          "The restaurant was granted a licence to serve alcohol."
+        ],
+        "synonyms": [
+          "permit",
+          "authorisation",
+          "certificate",
+          "warrant",
+          "charter"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cấp phép, cho phép chính thức",
+        "examples": [
+          "The company was licensed to operate in three countries.",
+          "He was licensed to carry a firearm.",
+          "The government licenses pharmaceutical companies to produce vaccines."
+        ],
+        "synonyms": [
+          "authorise",
+          "permit",
+          "certify",
+          "accredit",
+          "sanction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "Tiếng Anh Anh: danh từ là 'licence', động từ là 'license'. Tiếng Anh Mỹ dùng 'license' cho cả hai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "offence",
+    "pronunciation": "/əˈfens/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tội phạm; sự xúc phạm",
+        "examples": [
+          "He was charged with a serious offence.",
+          "No offence was intended by the remark.",
+          "A first offence usually results in a lighter sentence."
+        ],
+        "synonyms": [
+          "crime",
+          "misdemeanour",
+          "wrongdoing",
+          "transgression",
+          "violation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "Tiếng Anh Anh: 'offence'; Tiếng Anh Mỹ: 'offense'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "compliance",
+    "pronunciation": "/kəmˈplaɪəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự tuân thủ (quy định, luật pháp)",
+        "examples": [
+          "All staff must act in compliance with company policy.",
+          "Compliance with environmental regulations is mandatory.",
+          "The audit found full compliance across all departments."
+        ],
+        "synonyms": [
+          "adherence",
+          "conformity",
+          "obedience",
+          "observance",
+          "accordance"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bribery",
+    "pronunciation": "/ˈbraɪbəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tội hối lộ",
+        "examples": [
+          "He was charged with bribery and corruption.",
+          "Bribery of public officials carries a heavy sentence.",
+          "The investigation revealed widespread bribery in the construction sector."
+        ],
+        "synonyms": [
+          "corruption",
+          "graft",
+          "backhander",
+          "kickback",
+          "inducement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arrest",
+    "pronunciation": "/əˈrest/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bắt giữ, sự bắt giam",
+        "examples": [
+          "Police made several arrests following the riot.",
+          "He was placed under house arrest pending trial.",
+          "The suspect was held under arrest for forty-eight hours."
+        ],
+        "synonyms": [
+          "detention",
+          "apprehension",
+          "capture",
+          "custody",
+          "seizure"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Bắt giữ; ngăn chặn (nghĩa bóng)",
+        "examples": [
+          "The suspect was arrested at the airport.",
+          "Two people were arrested and taken in for questioning.",
+          "A new drug has been found to arrest the spread of the cancer."
+        ],
+        "synonyms": [
+          "detain",
+          "apprehend",
+          "seize",
+          "take into custody",
+          "collar"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "apprehend",
+    "pronunciation": "/ˌæprɪˈhend/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Bắt giữ (tội phạm); hiểu, nắm bắt (nghĩa bóng)",
+        "examples": [
+          "The fugitive was apprehended at the border.",
+          "Officers worked throughout the night to apprehend the suspect.",
+          "She could not quite apprehend the full meaning of the phrase."
+        ],
+        "synonyms": [
+          "arrest",
+          "detain",
+          "capture",
+          "seize",
+          "catch"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "assault",
+    "pronunciation": "/əˈsɔːlt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hành hung, tấn công thể chất; cuộc tấn công quân sự",
+        "examples": [
+          "He was charged with assault after the altercation.",
+          "The troops launched a full assault on the position at dawn.",
+          "She was the victim of a violent assault."
+        ],
+        "synonyms": [
+          "attack",
+          "battery",
+          "ambush",
+          "onslaught",
+          "raid"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Hành hung, tấn công",
+        "examples": [
+          "He was charged after assaulting a police officer.",
+          "The troops assaulted the enemy stronghold at dawn.",
+          "She was assaulted in the car park late at night."
+        ],
+        "synonyms": [
+          "attack",
+          "strike",
+          "batter",
+          "set upon",
+          "fall upon"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "absolve",
+    "pronunciation": "/əbˈzɒlv/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tha tội, giải oan; miễn trừ trách nhiệm",
+        "examples": [
+          "The court absolved him of all charges.",
+          "She refused to absolve him of responsibility for the accident.",
+          "In the confessional, the priest absolves the penitent."
+        ],
+        "synonyms": [
+          "acquit",
+          "exonerate",
+          "clear",
+          "pardon",
+          "excuse"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law",
+      "religion"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "annulment",
+    "pronunciation": "/əˈnʌlmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự huỷ bỏ (hôn nhân, hợp đồng) — coi như chưa bao giờ tồn tại",
+        "examples": [
+          "She applied for an annulment of the marriage.",
+          "The annulment meant the contract had never been legally valid.",
+          "An annulment differs from a divorce in that it treats the marriage as void."
+        ],
+        "synonyms": [
+          "cancellation",
+          "dissolution",
+          "invalidation",
+          "nullification",
+          "revocation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "Phân biệt: annulment (hôn nhân bị tuyên vô hiệu từ đầu), divorce (chấm dứt hôn nhân hợp lệ).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "judiciary",
+    "pronunciation": "/dʒuˈdɪʃieri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngành tư pháp, hệ thống toà án",
+        "examples": [
+          "An independent judiciary is essential to democracy.",
+          "The judiciary ruled the law unconstitutional.",
+          "Public confidence in the judiciary has declined in recent years."
+        ],
+        "synonyms": [
+          "courts",
+          "bench",
+          "legal system",
+          "judicature",
+          "tribunals"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conviction",
+    "pronunciation": "/kənˈvɪkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự kết án; niềm tin mạnh mẽ",
+        "examples": [
+          "She appealed unsuccessfully against her conviction for murder.",
+          "The High Court later quashed his conviction.",
+          "He argued his case with great conviction."
+        ],
+        "synonyms": [
+          "sentence",
+          "condemnation",
+          "ruling",
+          "belief",
+          "certainty"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "magistrate",
+    "pronunciation": "/ˈmædʒɪstreɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quan toà, thẩm phán (thường xét xử các vụ án nhỏ)",
+        "examples": [
+          "The magistrate issued a warrant for his arrest.",
+          "The magistrate remanded him in custody for two weeks.",
+          "The defendant was summoned before a magistrate."
+        ],
+        "synonyms": [
+          "judge",
+          "justice of the peace",
+          "JP",
+          "court official",
+          "tribunal officer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "connive",
+    "pronunciation": "/kəˈnaɪv/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thông đồng, làm ngơ trước điều sai trái",
+        "examples": [
+          "Some government officials connive at corruption.",
+          "Not to protest is to connive at the destruction of the environment.",
+          "The guards connived with the escapees."
+        ],
+        "synonyms": [
+          "conspire",
+          "collude",
+          "scheme",
+          "plot",
+          "collaborate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "culprit",
+    "pronunciation": "/ˈkʌlprɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thủ phạm; nguyên nhân (nghĩa mở rộng)",
+        "examples": [
+          "Are you the culprit who broke this window?",
+          "The police put the culprit in jail.",
+          "High production costs are the main culprit behind the price rise."
+        ],
+        "synonyms": [
+          "offender",
+          "wrongdoer",
+          "perpetrator",
+          "guilty party",
+          "miscreant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "judicial",
+    "pronunciation": "/dʒuˈdɪʃl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc tư pháp, liên quan đến toà án và xét xử",
+        "examples": [
+          "The inquiry acknowledges failings in the judicial system.",
+          "Greenpeace applied for a judicial review to challenge the decision.",
+          "The president's powers are subject to judicial oversight."
+        ],
+        "synonyms": [
+          "legal",
+          "juridical",
+          "forensic",
+          "court-related",
+          "adjudicative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arson",
+    "pronunciation": "/ˈɑːrsn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tội phóng hỏa, đốt phá có chủ ý và bất hợp pháp",
+        "examples": [
+          "He was convicted of arson and sentenced to five years in prison.",
+          "The fire was quickly identified as arson.",
+          "Police are investigating the blaze as a possible arson attack."
+        ],
+        "synonyms": [
+          "fire-setting",
+          "incendiarism",
+          "deliberate burning",
+          "fire-raising",
+          "pyromania"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deportation",
+    "pronunciation": "/ˌdiːpɔːrˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự trục xuất ra khỏi đất nước",
+        "examples": [
+          "He was facing deportation after his visa expired.",
+          "The government ordered the deportation of undocumented migrants.",
+          "She fled the deportation order and went into hiding."
+        ],
+        "synonyms": [
+          "expulsion",
+          "exile",
+          "banishment",
+          "removal",
+          "extradition"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "adjudicate",
+    "pronunciation": "/əˈdʒuːdɪkeɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Phán xét, xét xử, phân xử (tranh chấp)",
+        "examples": [
+          "The panel was asked to adjudicate a dispute between two contractors.",
+          "The court will adjudicate on the constitutional question next month.",
+          "An independent body was appointed to adjudicate complaints."
+        ],
+        "synonyms": [
+          "judge",
+          "arbitrate",
+          "decide",
+          "determine",
+          "settle"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "statutory",
+    "pronunciation": "/ˈstætʃətɔːri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Theo luật định, được quy định bởi pháp luật",
+        "examples": [
+          "Workers have a statutory right to take parental leave.",
+          "The statutory deadline for tax returns is 31 January.",
+          "The regulator failed to carry out its statutory duties."
+        ],
+        "synonyms": [
+          "legal",
+          "legislative",
+          "prescribed",
+          "mandated",
+          "obligatory"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "happenstance",
+    "pronunciation": "/ˈhæpənstæns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự tình cờ, ngẫu nhiên",
+        "examples": [
+          "The evidence was discovered by happenstance during an unrelated search.",
+          "The court ruled it was not happenstance but a deliberate act.",
+          "Liability cannot rest on happenstance alone."
+        ],
+        "synonyms": [
+          "coincidence",
+          "chance",
+          "accident",
+          "fortuity",
+          "serendipity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "plaintiff",
+    "pronunciation": "/ˈpleɪntɪf/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nguyên đơn (bên đứng kiện trong vụ án dân sự)",
+        "examples": [
+          "The plaintiff must prove their claim on the balance of probabilities.",
+          "The judge found in favour of the plaintiff.",
+          "The plaintiff sought two million dollars in damages."
+        ],
+        "synonyms": [
+          "claimant",
+          "complainant",
+          "petitioner",
+          "litigant",
+          "pursuer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law"
+    ],
+    "note": "Phân biệt: plaintiff (nguyên đơn), defendant (bị đơn/bị cáo).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "asylum",
+    "pronunciation": "/əˈsaɪləm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quyền tị nạn chính trị; nơi trú ẩn an toàn",
+        "examples": [
+          "The refugee applied for asylum at the border crossing.",
+          "Granting asylum is a legal obligation under international law.",
+          "His asylum claim was rejected on procedural grounds."
+        ],
+        "synonyms": [
+          "refuge",
+          "sanctuary",
+          "shelter",
+          "haven",
+          "protection"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bribe",
+    "pronunciation": "/braɪb/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hối lộ, tiền/quà mua chuộc",
+        "examples": [
+          "The politician denied ever accepting a bribe.",
+          "He was arrested for offering a bribe to a public official.",
+          "Several officials were implicated in a bribery scandal."
+        ],
+        "synonyms": [
+          "inducement",
+          "kickback",
+          "backhander",
+          "payoff",
+          "sweetener"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đưa hối lộ, mua chuộc",
+        "examples": [
+          "He tried to bribe the official with a large sum of money.",
+          "She was found guilty of bribing a public servant.",
+          "He bribed his way through the customs checkpoint."
+        ],
+        "synonyms": [
+          "corrupt",
+          "buy off",
+          "pay off",
+          "suborn",
+          "grease the palm of"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "graft",
+    "pronunciation": "/ɡrɑːft/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tham nhũng, hối lộ (nghĩa chính trị/pháp lý)",
+        "examples": [
+          "The report exposed years of graft within the police force.",
+          "Officials accused of graft were removed from their posts.",
+          "Graft has undermined public trust in government institutions."
+        ],
+        "synonyms": [
+          "corruption",
+          "bribery",
+          "embezzlement",
+          "fraud",
+          "misconduct"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "law",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

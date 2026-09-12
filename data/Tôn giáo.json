@@ -1,0 +1,296 @@
+[
+  {
+    "word": "biblical",
+    "pronunciation": "/ˈbɪblɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về Kinh Thánh; (cường điệu) vô cùng lớn hoặc nghiêm trọng",
+        "examples": [
+          "The story of Noah is a well-known biblical tale.",
+          "The town suffered floods of truly biblical proportions.",
+          "The speech was full of biblical language and imagery."
+        ],
+        "synonyms": [
+          "scriptural",
+          "holy",
+          "sacred"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "religion"
+    ],
+    "note": "'Of biblical proportions' = cực kỳ lớn/nghiêm trọng — dùng để cường điệu hóa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sanctuary",
+    "pronunciation": "/ˈsæŋktʃuəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nơi trú ẩn an toàn; thánh đường; khu bảo tồn thiên nhiên",
+        "examples": [
+          "The church offered sanctuary to refugees fleeing the war.",
+          "The nature reserve is a sanctuary for endangered bird species.",
+          "Her bedroom was her personal sanctuary from the chaos of daily life."
+        ],
+        "synonyms": [
+          "refuge",
+          "haven",
+          "shelter",
+          "preserve"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "place",
+      "nature",
+      "abstract"
+    ],
+    "note": "Ba nghĩa chính: (1) nơi trú ẩn pháp lý/tôn giáo; (2) khu vực linh thiêng trong nhà thờ; (3) khu bảo tồn thiên nhiên.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "faith",
+    "pronunciation": "/feɪθ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đức tin tôn giáo; niềm tin, sự tin tưởng vào ai/điều gì",
+        "examples": [
+          "Her faith in God helped her get through the most difficult times.",
+          "I have faith that things will eventually improve.",
+          "He betrayed her faith by breaking every promise he made."
+        ],
+        "synonyms": [
+          "belief",
+          "trust",
+          "confidence",
+          "conviction"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "abstract"
+    ],
+    "note": "'Have faith in' = tin tưởng vào. 'In good faith' = với thiện chí thực sự.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sermon",
+    "pronunciation": "/ˈsɜːmən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bài giảng đạo (trong nhà thờ); (bóng) lời thuyết giảng dài dòng, rao giảng",
+        "examples": [
+          "The priest delivered a powerful sermon on forgiveness and redemption.",
+          "The congregation listened to the sermon in respectful silence.",
+          "I've had enough of your sermons about being punctual to meetings."
+        ],
+        "synonyms": [
+          "homily",
+          "lecture",
+          "preaching",
+          "address"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng: 'deliver/give someone a sermon' = dạy đời ai đó một cách không được yêu cầu.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "penance",
+    "pronunciation": "/ˈpenəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự sám hối; hành động để chuộc tội; hình phạt tự nguyện",
+        "examples": [
+          "He did penance for his sins by fasting and praying for a week.",
+          "She performed acts of penance to seek forgiveness from God.",
+          "As a kind of penance for being late, he bought coffee for the entire team."
+        ],
+        "synonyms": [
+          "atonement",
+          "reparation",
+          "self-punishment",
+          "contrition"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "preach",
+    "pronunciation": "/priːtʃ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giảng đạo, thuyết pháp; (tiêu cực) thuyết giảng lặp đi lặp lại, giảng đạo người khác",
+        "examples": [
+          "The minister preached about love, forgiveness, and community.",
+          "Martin Luther King Jr. preached non-violent resistance to civil injustice.",
+          "Stop preaching to me — I know exactly what I should be doing."
+        ],
+        "synonyms": [
+          "sermonize",
+          "lecture",
+          "moralize",
+          "advocate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "religion",
+      "abstract"
+    ],
+    "note": "'Practise what you preach' = làm đúng những gì mình rao giảng (thành ngữ).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "myth",
+    "pronunciation": "/mɪθ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thần thoại, huyền thoại; quan niệm sai lầm phổ biến",
+        "examples": [
+          "The myth of Prometheus tells how fire was brought to humanity.",
+          "It's a complete myth that we only use 10% of our brains.",
+          "The company tried to debunk myths about the safety of its products."
+        ],
+        "synonyms": [
+          "legend",
+          "fable",
+          "folklore",
+          "misconception"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) câu chuyện thần thoại cổ xưa; (2) quan niệm sai lầm nhưng được tin rộng rãi.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mantra",
+    "pronunciation": "/ˈmæntrə/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Câu thần chú (Ấn Độ giáo/Phật giáo); khẩu hiệu cá nhân được lặp đi lặp lại",
+        "examples": [
+          "The monks chanted a Sanskrit mantra during the meditation session.",
+          "Her personal mantra was 'never give up, no matter how hard it gets'.",
+          "The company's mantra — 'customer first' — guides every decision they make."
+        ],
+        "synonyms": [
+          "chant",
+          "motto",
+          "slogan",
+          "catchphrase"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "religion",
+      "abstract"
+    ],
+    "note": "Gốc tiếng Sanskrit. Nghĩa rộng hiện đại: bất kỳ câu nói lặp đi lặp lại để tạo động lực.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "curse",
+    "pronunciation": "/kɜːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lời nguyền; lời chửi rủa; tai họa, nỗi khổ",
+        "examples": [
+          "The witch cast a powerful curse on the entire royal family.",
+          "He let out a string of curses when he missed the last bus.",
+          "Corruption has been the curse of this country for generations."
+        ],
+        "synonyms": [
+          "hex",
+          "jinx",
+          "swear word",
+          "affliction"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nguyền rủa; chửi thề",
+        "examples": [
+          "The witch cursed the prince to sleep for a hundred years.",
+          "He cursed under his breath when he spilled coffee on his shirt.",
+          "She cursed her terrible luck and started over from scratch."
+        ],
+        "synonyms": [
+          "damn",
+          "hex",
+          "swear",
+          "blaspheme"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "religion",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reincarnate",
+    "pronunciation": "/ˌriːɪnˈkɑːneɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Đầu thai, tái sinh (linh hồn vào thể xác mới sau khi chết)",
+        "examples": [
+          "Many Hindus believe the soul is reincarnated into a new body after death.",
+          "The lama was believed to have been reincarnated as a child in Tibet.",
+          "She joked that she must have been a cat in a previous life."
+        ],
+        "synonyms": [
+          "be reborn",
+          "transmigrate"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "religion",
+      "abstract"
+    ],
+    "note": "Thường dùng ở thể bị động: 'be reincarnated as...'",
+    "needsEnrichment": false
+  }
+]

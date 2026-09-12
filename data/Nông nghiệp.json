@@ -1,0 +1,527 @@
+[
+  {
+    "word": "fertilizer",
+    "pronunciation": "/ˈfɜːtɪlaɪzər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phân bón",
+        "examples": [
+          "Farmers apply fertilizer to their fields every spring.",
+          "Excessive use of chemical fertilizers can damage soil quality.",
+          "Organic fertilizers like compost are increasingly popular."
+        ],
+        "synonyms": [
+          "plant food",
+          "manure",
+          "compost"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "soil",
+    "pronunciation": "/sɔɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đất (tầng đất trồng trọt, đất canh tác)",
+        "examples": [
+          "The soil in this region is rich and fertile.",
+          "Heavy rain can erode valuable topsoil.",
+          "The plants need well-drained soil to thrive."
+        ],
+        "synonyms": [
+          "earth",
+          "ground",
+          "dirt",
+          "loam"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "agriculture",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fertile",
+    "pronunciation": "/ˈfɜːtaɪl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Màu mỡ, phì nhiêu (đất); có khả năng sinh sản (người/động vật)",
+        "examples": [
+          "The Nile Delta has some of the most fertile land in Africa.",
+          "Fertile soil is essential for growing high-quality crops.",
+          "The couple was relieved to learn she was still fertile."
+        ],
+        "synonyms": [
+          "productive",
+          "rich",
+          "fruitful",
+          "fecund"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "agriculture",
+      "nature"
+    ],
+    "note": "Đối lập: 'barren' (cằn cỗi, vô sinh). 'Fertile ground' nghĩa bóng = môi trường thuận lợi cho sự phát triển.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "terraced field",
+    "pronunciation": "/ˈterəst fiːld/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ruộng bậc thang",
+        "examples": [
+          "Terraced fields carved into the hillside are a common sight in northern Vietnam.",
+          "The terraced fields of Mù Cang Chải are a UNESCO-recognised landscape.",
+          "Farmers created terraced fields to cultivate rice on steep mountain slopes."
+        ],
+        "synonyms": [
+          "terrace",
+          "stepped field"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crop",
+    "pronunciation": "/krɒp/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mùa vụ, vụ mùa; lứa sản phẩm hoặc người",
+        "examples": [
+          "This year's wheat crop was the best in a decade.",
+          "Crops failed across the region due to severe drought.",
+          "A new crop of graduates entered the job market this spring."
+        ],
+        "synonyms": [
+          "harvest",
+          "yield",
+          "produce"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Cắt ngắn (tóc, ảnh); (động vật) gặm cỏ",
+        "examples": [
+          "She cropped her hair short before the summer.",
+          "The photo was cropped to remove the busy background.",
+          "Sheep were quietly cropping the grass on the hillside."
+        ],
+        "synonyms": [
+          "trim",
+          "cut",
+          "clip",
+          "graze"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "agriculture",
+      "abstract"
+    ],
+    "note": "'Crop up' = xuất hiện bất ngờ (phrasal verb).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fishery",
+    "pronunciation": "/ˈfɪʃəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nghề cá, ngư trường; trại nuôi cá",
+        "examples": [
+          "The cod fishery off the coast collapsed in the 1990s due to overfishing.",
+          "He works in a local fishery processing factory.",
+          "Sustainable management of fisheries is crucial for long-term food security."
+        ],
+        "synonyms": [
+          "fishing industry",
+          "fish farm"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "agriculture",
+      "work"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "incubate",
+    "pronunciation": "/ˈɪŋkjʊbeɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ấp trứng; ủ (vi khuẩn, bệnh); nuôi dưỡng (ý tưởng, dự án)",
+        "examples": [
+          "The hen incubated her eggs for three weeks before they hatched.",
+          "The disease incubates for five to ten days before symptoms appear.",
+          "The company has been incubating new ideas in its innovation lab."
+        ],
+        "synonyms": [
+          "hatch",
+          "brood",
+          "develop",
+          "nurture"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "agriculture",
+      "medical",
+      "abstract"
+    ],
+    "note": "'Incubation period' = thời gian ủ bệnh.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "breed",
+    "pronunciation": "/briːd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giống (động vật, đặc biệt giống được lai tạo)",
+        "examples": [
+          "The Labrador is one of the most popular dog breeds in the world.",
+          "What breed is your horse?",
+          "They developed a new breed of cattle resistant to tropical diseases."
+        ],
+        "synonyms": [
+          "species",
+          "strain",
+          "variety",
+          "type"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Lai tạo, nhân giống (động vật); gây ra (cảm xúc tiêu cực)",
+        "examples": [
+          "She breeds tropical fish as a hobby.",
+          "The farm breeds thoroughbred racehorses for competition.",
+          "Poverty and inequality breed resentment and social unrest."
+        ],
+        "synonyms": [
+          "raise",
+          "rear",
+          "reproduce",
+          "generate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "agriculture",
+      "animal"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "peasant",
+    "pronunciation": "/ˈpeznt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nông dân nghèo (bối cảnh lịch sử hoặc đang phát triển)",
+        "examples": [
+          "Peasants in medieval Europe paid taxes and labour to the local lord.",
+          "Millions of peasants were forced to leave their land during the famine.",
+          "The revolution was led by poor peasants and factory workers."
+        ],
+        "synonyms": [
+          "farmer",
+          "smallholder",
+          "villager"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "agriculture",
+      "person"
+    ],
+    "note": "Có thể mang hàm ý miệt thị khi dùng trong ngữ cảnh hiện đại để chỉ người kém giáo dục.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "graze",
+    "pronunciation": "/ɡreɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "(Động vật) gặm cỏ, ăn cỏ; chăn thả gia súc",
+        "examples": [
+          "Cattle grazed peacefully in the meadow all afternoon.",
+          "Sheep have been grazing on these hills for centuries.",
+          "Farmers graze their herds on communal land during summer."
+        ],
+        "synonyms": [
+          "feed",
+          "nibble",
+          "pasture"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Xước nhẹ bề mặt; sướt qua",
+        "examples": [
+          "The bullet grazed his arm, leaving only a minor wound.",
+          "She grazed her knee badly when she fell off the bicycle.",
+          "The car just grazed the bollard as it turned the corner."
+        ],
+        "synonyms": [
+          "scrape",
+          "scratch",
+          "skim",
+          "brush"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "agriculture",
+      "animal"
+    ],
+    "note": "Hai nghĩa hoàn toàn khác: (1) súc vật gặm cỏ; (2) xước nhẹ bề mặt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "arable",
+    "pronunciation": "/ˈærəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "(Đất) có thể canh tác, thích hợp để trồng trọt",
+        "examples": [
+          "Only 10% of the country's total land is arable.",
+          "Arable farming has declined as land is converted to pasture.",
+          "They decided to convert the arable land into a nature reserve."
+        ],
+        "synonyms": [
+          "cultivable",
+          "fertile",
+          "productive"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "agriculture",
+      "nature"
+    ],
+    "note": "Đối lập: 'barren' hoặc 'infertile'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cultivate",
+    "pronunciation": "/ˈkʌltɪveɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Canh tác, trồng trọt; nuôi dưỡng (mối quan hệ, kỹ năng, thái độ)",
+        "examples": [
+          "Local farmers cultivate rice in the flooded paddies during monsoon season.",
+          "She cultivated a friendship with her neighbour over many years.",
+          "He spent years cultivating his knowledge of classical music."
+        ],
+        "synonyms": [
+          "farm",
+          "grow",
+          "develop",
+          "foster",
+          "nurture"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "agriculture",
+      "abstract"
+    ],
+    "note": "Dùng cả nghĩa đen (canh tác đất) lẫn nghĩa bóng (vun đắp mối quan hệ/kỹ năng).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reap",
+    "pronunciation": "/riːp/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Gặt, thu hoạch; gặt hái kết quả",
+        "examples": [
+          "Farmers reap the wheat in late summer after months of hard work.",
+          "The company is now reaping the benefits of its early investment.",
+          "You reap what you sow — choices today shape outcomes tomorrow."
+        ],
+        "synonyms": [
+          "harvest",
+          "collect",
+          "gather",
+          "obtain"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "agriculture",
+      "abstract"
+    ],
+    "note": "'You reap what you sow' = gieo gì gặt nấy — thành ngữ phổ biến.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ripen",
+    "pronunciation": "/ˈraɪpən/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chín, trở nên chín; làm cho chín (trái cây, phomai, rượu)",
+        "examples": [
+          "Tomatoes ripen best in warm, sunny conditions.",
+          "Bananas ripen quickly at room temperature.",
+          "The cheese needs to ripen for at least six months to develop its flavour."
+        ],
+        "synonyms": [
+          "mature",
+          "mellow"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "agriculture",
+      "food"
+    ],
+    "note": "Dùng cho trái cây, ngũ cốc, phomai, và rượu vang.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "barren",
+    "pronunciation": "/ˈbærən/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cằn cỗi, không màu mỡ (đất); vô sinh (người/động vật); thiếu vắng (ý tưởng)",
+        "examples": [
+          "The desert landscape was utterly barren and devoid of life.",
+          "After years of drought, the once-fertile fields became barren.",
+          "He described the meeting as a barren exchange of empty promises."
+        ],
+        "synonyms": [
+          "infertile",
+          "arid",
+          "sterile",
+          "desolate"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "agriculture",
+      "nature"
+    ],
+    "note": "Đối lập: 'fertile'. Cũng dùng nghĩa bóng: 'a barren period' = thời kỳ không sản xuất được gì.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "agricultural",
+    "pronunciation": "/ˌæɡrɪˈkʌltʃərəl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về/liên quan đến nông nghiệp",
+        "examples": [
+          "Agricultural land makes up 40% of the country's total area.",
+          "The agricultural sector employs millions of people in developing countries.",
+          "New agricultural techniques have dramatically improved crop yields."
+        ],
+        "synonyms": [
+          "farming",
+          "agrarian",
+          "rural"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "agriculture"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "compost",
+    "pronunciation": "/ˈkɒmpɒst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phân hữu cơ, mùn compost (từ chất thải hữu cơ)",
+        "examples": [
+          "She added compost to the garden to improve the soil quality.",
+          "The kitchen waste was turned into compost over several months.",
+          "Compost is a natural, eco-friendly alternative to chemical fertilizers."
+        ],
+        "synonyms": [
+          "organic fertilizer",
+          "mulch"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm phân compost từ chất thải hữu cơ",
+        "examples": [
+          "Many households now compost their food scraps and garden waste.",
+          "He composted the fallen leaves into a rich mulch for the garden.",
+          "Composting reduces the amount of organic waste sent to landfill."
+        ],
+        "synonyms": [
+          "decompose",
+          "recycle"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "agriculture",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

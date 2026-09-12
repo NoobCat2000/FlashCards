@@ -1,0 +1,934 @@
+[
+  {
+    "word": "mineral",
+    "pronunciation": "/ˈmɪnərəl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khoáng chất (chất tự nhiên vô cơ trong đất đá hoặc cơ thể)",
+        "examples": [
+          "Iron is an essential mineral for healthy blood cell production.",
+          "The region is rich in minerals, including copper and gold.",
+          "Drinking mineral water can supplement your daily mineral intake."
+        ],
+        "synonyms": [
+          "ore",
+          "element",
+          "compound"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về khoáng chất, có nguồn gốc khoáng vật",
+        "examples": [
+          "Mineral water is sourced from natural springs.",
+          "The rock sample contained mineral deposits.",
+          "She applied mineral sunscreen before going outdoors."
+        ],
+        "synonyms": [
+          "inorganic",
+          "natural"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "science",
+      "nature",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "condensate",
+    "pronunciation": "/ˈkɒndenseɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất ngưng tụ (chất lỏng tạo ra khi hơi nguội lại)",
+        "examples": [
+          "Condensate formed on the cold pipe as warm air passed over it.",
+          "Natural gas condensate is extracted alongside crude oil.",
+          "Water condensate dripped from the air conditioning unit."
+        ],
+        "synonyms": [
+          "condensation",
+          "liquid",
+          "distillate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "liquefy",
+    "pronunciation": "/ˈlɪkwɪfaɪ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Hóa lỏng, biến thành chất lỏng (từ rắn hoặc khí)",
+        "examples": [
+          "Natural gas is liquefied for easier storage and transport.",
+          "The ice cream began to liquefy in the hot sun.",
+          "Extreme pressure can liquefy gases at room temperature."
+        ],
+        "synonyms": [
+          "melt",
+          "dissolve",
+          "liquidize"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "neutralize",
+    "pronunciation": "/ˈnjuːtrəlaɪz/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Trung hòa (hóa học); vô hiệu hóa, làm mất tác dụng",
+        "examples": [
+          "Baking soda can neutralize the acid in the mixture.",
+          "The antidote neutralizes the venom before it reaches the bloodstream.",
+          "The government sought to neutralize the political threat from the opposition."
+        ],
+        "synonyms": [
+          "counteract",
+          "cancel out",
+          "nullify",
+          "offset"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "precipitate",
+    "pronunciation": "/prɪˈsɪpɪteɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Kết tủa (hóa học); làm xảy ra đột ngột và sớm hơn dự kiến",
+        "examples": [
+          "Adding hydrochloric acid to the solution will precipitate a white solid.",
+          "The financial crisis precipitated a wave of bank failures.",
+          "His resignation precipitated a leadership struggle within the party."
+        ],
+        "synonyms": [
+          "cause",
+          "trigger",
+          "hasten",
+          "bring about"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Chất kết tủa (rắn tạo ra trong phản ứng hóa học)",
+        "examples": [
+          "A white precipitate formed at the bottom of the test tube.",
+          "Filter the precipitate from the solution using filter paper.",
+          "The precipitate was collected and dried for further analysis."
+        ],
+        "synonyms": [
+          "sediment",
+          "deposit",
+          "residue"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "noun",
+      "science",
+      "abstract"
+    ],
+    "note": "Adj cùng gốc: 'precipitate' (hành động) = quá vội vàng, thiếu suy xét.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fossil",
+    "pronunciation": "/ˈfɒsl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hóa thạch (dấu tích của sinh vật cổ đại được bảo tồn trong đá)",
+        "examples": [
+          "Paleontologists discovered a well-preserved dinosaur fossil in Montana.",
+          "Fossils tell us a great deal about life on Earth millions of years ago.",
+          "Coal is a type of fossil fuel formed from ancient plant material."
+        ],
+        "synonyms": [
+          "relic",
+          "remains"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "nature",
+      "concrete"
+    ],
+    "note": "'Fossil fuel' (nhiên liệu hóa thạch) = than, dầu, khí đốt. Nghĩa bóng: 'fossil' = người bảo thủ, cổ lỗ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dissertation",
+    "pronunciation": "/ˌdɪsəˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Luận văn tiến sĩ hoặc thạc sĩ (tài liệu nghiên cứu học thuật dài)",
+        "examples": [
+          "She spent three years writing her doctoral dissertation on climate policy.",
+          "His dissertation was later published as a book.",
+          "Students must defend their dissertation before a panel of examiners."
+        ],
+        "synonyms": [
+          "thesis",
+          "treatise",
+          "academic paper"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "education",
+      "abstract"
+    ],
+    "note": "'Dissertation' (thường dùng ở Mỹ) = luận án tiến sĩ; 'thesis' (thường dùng ở Anh) = luận án tiến sĩ. Nghĩa có thể hoán đổi.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "distill",
+    "pronunciation": "/dɪˈstɪl/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chưng cất (tách chất bằng bay hơi và ngưng tụ); chắt lọc, tóm gọn bản chất",
+        "examples": [
+          "Whisky is made by distilling fermented grain mash.",
+          "Water can be purified by distilling it.",
+          "The report distills years of research into a ten-page summary."
+        ],
+        "synonyms": [
+          "refine",
+          "purify",
+          "condense",
+          "extract"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng thông dụng: 'distill something into' = chắt lọc, tóm tắt bản chất cốt lõi.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "refrigerant",
+    "pronunciation": "/rɪˈfrɪdʒərənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất làm lạnh (dùng trong hệ thống điều hòa, tủ lạnh)",
+        "examples": [
+          "CFCs were once the most common refrigerants before they were banned.",
+          "The air conditioner leaked refrigerant and stopped cooling effectively.",
+          "Modern refrigerants are designed to have a lower environmental impact."
+        ],
+        "synonyms": [
+          "coolant",
+          "cooling agent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pamphlet",
+    "pronunciation": "/ˈpæmflɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tờ rơi, tài liệu mỏng không đóng bìa cứng (thường mang tính thông tin hoặc tuyên truyền)",
+        "examples": [
+          "She handed out pamphlets about the dangers of air pollution.",
+          "The party distributed political pamphlets before the election.",
+          "A pamphlet on first aid was available at the reception desk."
+        ],
+        "synonyms": [
+          "leaflet",
+          "brochure",
+          "flyer",
+          "booklet"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "education",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tentative",
+    "pronunciation": "/ˈtentətɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dự kiến, thăm dò, chưa chắc chắn (kế hoạch, đề xuất); do dự, thiếu tự tin",
+        "examples": [
+          "We made a tentative agreement to meet next Tuesday.",
+          "The doctor gave a tentative diagnosis pending further tests.",
+          "She gave a tentative smile, unsure of how the news would be received."
+        ],
+        "synonyms": [
+          "provisional",
+          "preliminary",
+          "uncertain",
+          "hesitant"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) chưa chính thức/dứt khoát; (2) do dự về mặt tâm lý.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "resonate",
+    "pronunciation": "/ˈrezəneɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Cộng hưởng (vật lý); gây tiếng vang, chạm đến cảm xúc của người khác",
+        "examples": [
+          "The bell resonated throughout the cathedral.",
+          "The speech resonated deeply with the audience.",
+          "Her story resonated with millions of people around the world."
+        ],
+        "synonyms": [
+          "vibrate",
+          "echo",
+          "strike a chord",
+          "ring true"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng rất phổ biến: 'resonate with someone' = chạm đến, gây cộng hưởng cảm xúc.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "telemetry",
+    "pronunciation": "/tɪˈlemɪtri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phép đo từ xa; hệ thống truyền dữ liệu đo lường qua khoảng cách",
+        "examples": [
+          "Formula 1 engineers analyze telemetry data from the car in real time.",
+          "The satellite sends telemetry back to Earth every hour.",
+          "Medical telemetry allows doctors to monitor patients remotely."
+        ],
+        "synonyms": [
+          "remote sensing",
+          "data transmission"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "technology"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "treatise",
+    "pronunciation": "/ˈtriːtɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chuyên luận, luận văn học thuật (nghiên cứu chuyên sâu về một chủ đề)",
+        "examples": [
+          "Darwin's 'On the Origin of Species' is one of the most influential scientific treatises ever written.",
+          "She wrote a treatise on international trade law.",
+          "The medieval scholar produced a lengthy treatise on philosophy."
+        ],
+        "synonyms": [
+          "thesis",
+          "dissertation",
+          "study",
+          "monograph"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "education",
+      "abstract"
+    ],
+    "note": "Formal/academic. Dài và chuyên sâu hơn 'essay' hay 'article'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "patent",
+    "pronunciation": "/ˈpeɪtnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bằng sáng chế, quyền sở hữu trí tuệ đối với phát minh",
+        "examples": [
+          "She filed a patent for her new medical device.",
+          "The company holds over 5,000 patents worldwide.",
+          "The patent expired after twenty years, allowing generics to be produced."
+        ],
+        "synonyms": [
+          "intellectual property",
+          "invention right"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đăng ký bằng sáng chế cho phát minh",
+        "examples": [
+          "He patented his invention before presenting it at the trade show.",
+          "The process was patented by the research team last year.",
+          "You should patent your idea before sharing it publicly."
+        ],
+        "synonyms": [
+          "register",
+          "protect",
+          "secure"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Rõ ràng, hiển nhiên (formal)",
+        "examples": [
+          "What he said was patent nonsense.",
+          "Her disappointment was patent to everyone in the room.",
+          "It is a patent lie — everyone knows the truth."
+        ],
+        "synonyms": [
+          "obvious",
+          "evident",
+          "blatant",
+          "clear"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "adjective",
+      "science",
+      "law",
+      "business"
+    ],
+    "note": "Ba vai trò từ loại. Adj nghĩa 'rõ ràng' khá formal/literary.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ecological",
+    "pronunciation": "/ˌiːkəˈlɒdʒɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về sinh thái học; liên quan đến mối quan hệ giữa sinh vật và môi trường",
+        "examples": [
+          "The oil spill caused significant ecological damage to the coastline.",
+          "Deforestation has severe ecological consequences.",
+          "The ecological impact of the dam was studied for years before construction."
+        ],
+        "synonyms": [
+          "environmental",
+          "natural",
+          "green"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "coefficient",
+    "pronunciation": "/ˌkəʊɪˈfɪʃnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hệ số (toán học/vật lý: số nhân với biến; thước đo tỷ lệ)",
+        "examples": [
+          "In the equation 3x + 5, 3 is the coefficient of x.",
+          "The drag coefficient of the car was reduced through aerodynamic design.",
+          "A high correlation coefficient indicates a strong statistical relationship."
+        ],
+        "synonyms": [
+          "factor",
+          "multiplier",
+          "ratio"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cortical",
+    "pronunciation": "/ˈkɔːtɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về vỏ não (cortex) hoặc vỏ ngoài của cơ quan",
+        "examples": [
+          "Cortical neurons are responsible for higher cognitive functions.",
+          "The study mapped cortical activity during language processing.",
+          "Cortical bone forms the outer layer of most bones."
+        ],
+        "synonyms": [
+          "cerebral",
+          "outer",
+          "surface"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "medical"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cognitive",
+    "pronunciation": "/ˈkɒɡnɪtɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về nhận thức (các quá trình tư duy như trí nhớ, chú ý, lý luận)",
+        "examples": [
+          "Sleep deprivation impairs cognitive performance significantly.",
+          "The therapy focuses on changing negative cognitive patterns.",
+          "Language learning has been shown to have cognitive benefits for older adults."
+        ],
+        "synonyms": [
+          "mental",
+          "intellectual",
+          "psychological"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "medical",
+      "abstract"
+    ],
+    "note": "'Cognitive science' = khoa học nhận thức. 'Cognitive bias' = thiên lệch nhận thức.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "precipitation",
+    "pronunciation": "/prɪˌsɪpɪˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Lượng mưa (tổng lượng nước từ trời — mưa, tuyết, mưa đá); sự kết tủa (hóa học)",
+        "examples": [
+          "Annual precipitation in this region averages 1,200 mm.",
+          "The forecast predicts heavy precipitation throughout the weekend.",
+          "The chemical reaction caused precipitation of a brown solid."
+        ],
+        "synonyms": [
+          "rainfall",
+          "snowfall",
+          "condensation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "nature"
+    ],
+    "note": "Bao gồm tất cả các dạng nước rơi từ trời: rain, snow, sleet, hail.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "oscillate",
+    "pronunciation": "/ˈɒsɪleɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Dao động, rung qua lại (vật lý); do dự, thay đổi qua lại (quan điểm)",
+        "examples": [
+          "The pendulum oscillates back and forth at a fixed frequency.",
+          "The economy continues to oscillate between growth and recession.",
+          "He oscillated between optimism and despair throughout the trial."
+        ],
+        "synonyms": [
+          "vibrate",
+          "swing",
+          "fluctuate",
+          "waver"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "idempotent",
+    "pronunciation": "/ˌaɪdɪmˈpəʊtənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất biến khi thực hiện nhiều lần — kết quả giống nhau dù áp dụng một hay nhiều lần (toán học/khoa học máy tính)",
+        "examples": [
+          "An idempotent HTTP request will produce the same result no matter how many times it is sent.",
+          "Multiplying by 1 is an idempotent operation in mathematics.",
+          "Designing idempotent APIs is important for reliable distributed systems."
+        ],
+        "synonyms": [
+          "self-consistent",
+          "repeatable",
+          "invariant under repeated application"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "technology"
+    ],
+    "note": "Quan trọng trong lập trình và API design: idempotent operation = thực hiện nhiều lần vẫn cho cùng kết quả.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "confound",
+    "pronunciation": "/kənˈfaʊnd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm sai lệch kết quả nghiên cứu (biến gây nhiễu); làm rối loạn, bất ngờ",
+        "examples": [
+          "A third variable was confounding the results of the experiment.",
+          "The unexpected victory confounded all the political analysts.",
+          "Don't confound the two concepts — they are quite different."
+        ],
+        "synonyms": [
+          "distort",
+          "confuse",
+          "perplex",
+          "muddle"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "abstract"
+    ],
+    "note": "Trong nghiên cứu khoa học: 'confound' = khi biến nhiễu ảnh hưởng đến kết quả thực nghiệm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "confounding variable",
+    "pronunciation": "/kənˈfaʊndɪŋ ˈveəriəbl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Biến gây nhiễu (biến không được kiểm soát ảnh hưởng đến kết quả nghiên cứu)",
+        "examples": [
+          "Age was a confounding variable in the study linking coffee consumption to heart disease.",
+          "Researchers must control for confounding variables to ensure valid results.",
+          "Socioeconomic status is often a confounding variable in educational research."
+        ],
+        "synonyms": [
+          "confounder",
+          "lurking variable",
+          "nuisance variable"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "abstract"
+    ],
+    "note": "Thuật ngữ quan trọng trong thiết kế nghiên cứu và thống kê.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "observational",
+    "pronunciation": "/ˌɒbzəˈveɪʃənl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dựa trên quan sát (không can thiệp, không kiểm soát biến) — đối lập với thực nghiệm",
+        "examples": [
+          "This is an observational study, so we cannot prove causation.",
+          "Observational data can reveal patterns but cannot establish cause and effect.",
+          "The researchers used observational methods to study animal behaviour."
+        ],
+        "synonyms": [
+          "non-experimental",
+          "descriptive",
+          "qualitative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "abstract"
+    ],
+    "note": "'Observational study' vs 'experimental study' — quan sát thuần túy vs thực nghiệm có kiểm soát.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "empirical",
+    "pronunciation": "/ɪmˈpɪrɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dựa trên bằng chứng thực tế và thực nghiệm (không phải lý thuyết hay suy diễn)",
+        "examples": [
+          "The claim has no empirical support — it is based entirely on anecdote.",
+          "Empirical research involves collecting and analyzing real data.",
+          "Scientists rely on empirical evidence to test their theories."
+        ],
+        "synonyms": [
+          "experimental",
+          "evidence-based",
+          "observable",
+          "measurable"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "science",
+      "abstract"
+    ],
+    "note": "'Empirical evidence' = bằng chứng có thể quan sát và kiểm chứng được. Đối lập: 'theoretical'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "inoculate",
+    "pronunciation": "/ɪˈnɒkjʊleɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tiêm chủng, chủng ngừa; tiếp xúc có kiểm soát để tạo miễn dịch",
+        "examples": [
+          "Children should be inoculated against measles before starting school.",
+          "The entire population was inoculated during the outbreak.",
+          "Reading diverse viewpoints can inoculate you against misinformation."
+        ],
+        "synonyms": [
+          "vaccinate",
+          "immunize",
+          "protect"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "medical"
+    ],
+    "note": "Nghĩa bóng thú vị: 'inoculate against' = chuẩn bị phòng thủ trước (ý tưởng nguy hiểm, thông tin sai).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "contaminate",
+    "pronunciation": "/kənˈtæmɪneɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm ô nhiễm, nhiễm khuẩn, làm bẩn (thức ăn, nước, môi trường, mẫu nghiên cứu)",
+        "examples": [
+          "The chemical spill contaminated the local water supply.",
+          "Cross-contamination occurs when raw meat touches cooked food.",
+          "The control group results were contaminated by an experimental error."
+        ],
+        "synonyms": [
+          "pollute",
+          "infect",
+          "taint",
+          "corrupt"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "science",
+      "medical",
+      "nature"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "additive",
+    "pronunciation": "/ˈædɪtɪv/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chất phụ gia (chất thêm vào để cải thiện tính chất — thức ăn, xăng, sơn...)",
+        "examples": [
+          "The food product contains no artificial additives or preservatives.",
+          "Fuel additives can improve engine performance and reduce emissions.",
+          "The manufacturer uses a special additive to extend the shelf life of the product."
+        ],
+        "synonyms": [
+          "supplement",
+          "ingredient",
+          "chemical",
+          "preservative"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "food",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dietary supplement",
+    "pronunciation": "/ˈdaɪətri ˈsʌplɪmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Thực phẩm chức năng, thực phẩm bổ sung dinh dưỡng",
+        "examples": [
+          "Vitamin D is one of the most commonly taken dietary supplements.",
+          "Always consult a doctor before starting any dietary supplement.",
+          "Many athletes take dietary supplements to support their training."
+        ],
+        "synonyms": [
+          "nutritional supplement",
+          "vitamin supplement",
+          "health supplement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "science",
+      "medical",
+      "food"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "plateau",
+    "pronunciation": "/ˈplætəʊ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cao nguyên (địa lý); giai đoạn ngừng tăng trưởng/tiến bộ",
+        "examples": [
+          "The Tibetan Plateau is the highest plateau in the world.",
+          "Sales growth has hit a plateau after three years of rapid expansion.",
+          "After weeks of improvement, her recovery has reached a plateau."
+        ],
+        "synonyms": [
+          "high plain",
+          "flatland",
+          "leveling off",
+          "stagnation"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Đạt trạng thái ổn định, ngừng tăng hoặc giảm",
+        "examples": [
+          "Weight loss often plateaus after the first few weeks of dieting.",
+          "The number of new cases has plateaued at around 500 per day.",
+          "His career plateaued in his forties, and he never quite broke through."
+        ],
+        "synonyms": [
+          "level off",
+          "stabilize",
+          "stagnate",
+          "flatten"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "science",
+      "nature",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

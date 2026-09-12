@@ -1,0 +1,2854 @@
+[
+  {
+    "word": "eager",
+    "pronunciation": "/ˈiːɡər/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Háo hức, nóng lòng",
+        "examples": [
+          "The government is eager to attract foreign capital.",
+          "The boy is eager to ride his new bicycle.",
+          "I was eager to get back to work as soon as possible."
+        ],
+        "synonyms": [
+          "keen",
+          "enthusiastic",
+          "anxious",
+          "impatient"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "resent",
+    "pronunciation": "/rɪˈzent/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Oán giận, bực tức",
+        "examples": [
+          "They resent what they see as bossiness.",
+          "I resent all these encroachments on my valuable time.",
+          "I strongly resent such unwarranted aspersions."
+        ],
+        "synonyms": [
+          "begrudge",
+          "be bitter about",
+          "be resentful of"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "apathy",
+    "pronunciation": "/ˈæpəθi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự thờ ơ, vô cảm",
+        "examples": [
+          "There is widespread apathy among the electorate.",
+          "Apathy is one of the maladies of modern society.",
+          "He was sunk in apathy after his failure."
+        ],
+        "synonyms": [
+          "indifference",
+          "listlessness",
+          "unconcern",
+          "lethargy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "affliction",
+    "pronunciation": "/əˈflɪkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nỗi đau khổ, bệnh tật",
+        "examples": [
+          "Blindness can be a terrible affliction.",
+          "He bore his affliction with great dignity.",
+          "Guess who I ran into on the street at the height of my affliction?"
+        ],
+        "synonyms": [
+          "suffering",
+          "distress",
+          "misfortune",
+          "hardship"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "agitation",
+    "pronunciation": "/ˌædʒɪˈteɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự lo lắng bồn chồn, kích động",
+        "examples": [
+          "He could not hide his agitation.",
+          "He made no attempt to disguise his agitation.",
+          "He arrived home in a state of agitation."
+        ],
+        "synonyms": [
+          "anxiety",
+          "nervousness",
+          "distress",
+          "unrest"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bitterly",
+    "pronunciation": "/ˈbɪtərli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách cay đắng",
+        "examples": [
+          "They complained bitterly.",
+          "She bitterly repented what she had done.",
+          "She remained bitterly opposed to the idea of moving abroad."
+        ],
+        "synonyms": [
+          "intensely",
+          "deeply",
+          "acutely",
+          "resentfully"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adverb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "repent",
+    "pronunciation": "/rɪˈpent/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Hối hận, ăn năn",
+        "examples": [
+          "Marry in haste, and repent at leisure.",
+          "Depend on others and you always repent.",
+          "Never too late to repent."
+        ],
+        "synonyms": [
+          "regret",
+          "feel remorse",
+          "be penitent",
+          "atone"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exuberance",
+    "pronunciation": "/ɪɡˈzuːbərəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự phấn khích, tràn đầy sinh lực",
+        "examples": [
+          "She was laughing from the sheer exuberance of the performance.",
+          "The speaker's exuberance enlivened a boring conference.",
+          "Nothing will curb her natural exuberance."
+        ],
+        "synonyms": [
+          "enthusiasm",
+          "energy",
+          "vivacity",
+          "ebullience"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "passionate",
+    "pronunciation": "/ˈpæʃənət/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đam mê, nồng nhiệt",
+        "examples": [
+          "If you are passionate about something, pursue it.",
+          "He had a brief but passionate love affair with an older woman.",
+          "They were locked in a passionate embrace."
+        ],
+        "synonyms": [
+          "fervent",
+          "ardent",
+          "intense",
+          "impassioned"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "embarrass",
+    "pronunciation": "/ɪmˈbærəs/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm xấu hổ, ngượng ngùng",
+        "examples": [
+          "He didn't want to embarrass her by asking questions.",
+          "I did not embarrass her with my effusions.",
+          "I didn't want to embarrass him by kissing him in front of his friends."
+        ],
+        "synonyms": [
+          "shame",
+          "humiliate",
+          "mortify",
+          "disconcert"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crave",
+    "pronunciation": "/kreɪv/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thèm muốn, khao khát",
+        "examples": [
+          "Many young children crave attention.",
+          "The food premenstrual women crave most is chocolate.",
+          "I did not crave a more sociable life."
+        ],
+        "synonyms": [
+          "desire",
+          "yearn for",
+          "long for",
+          "hunger for"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fatigue",
+    "pronunciation": "/fəˈtiːɡ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự mệt mỏi, kiệt sức",
+        "examples": [
+          "We were all suffering from fatigue at the end of our journey.",
+          "I was dropping with fatigue and could not keep my eyes open.",
+          "His eyes were rimmed with fatigue."
+        ],
+        "synonyms": [
+          "exhaustion",
+          "tiredness",
+          "weariness",
+          "lethargy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "impotent",
+    "pronunciation": "/ˈɪmpətənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bất lực",
+        "examples": [
+          "She blazed with impotent rage.",
+          "Emergency services seem impotent in the face of such a disaster.",
+          "Clearly, not all legislatures are impotent or dying institutions."
+        ],
+        "synonyms": [
+          "powerless",
+          "helpless",
+          "weak",
+          "ineffective"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "suspense",
+    "pronunciation": "/səˈspens/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự hồi hộp",
+        "examples": [
+          "The detective story kept me in suspense until the end.",
+          "I couldn't bear the suspense a moment longer.",
+          "She waited in an agony of suspense."
+        ],
+        "synonyms": [
+          "tension",
+          "anxiety",
+          "anticipation",
+          "uncertainty"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "agony",
+    "pronunciation": "/ˈæɡəni/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự đau đớn tột cùng",
+        "examples": [
+          "He lay in agony until the doctor arrived.",
+          "His body contorted in agony.",
+          "There's no point in prolonging the agony any longer."
+        ],
+        "synonyms": [
+          "torment",
+          "anguish",
+          "suffering",
+          "pain"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "suicidal",
+    "pronunciation": "/ˌsuːɪˈsaɪdl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Có ý tự tử, tự huỷ hoại",
+        "examples": [
+          "She was depressed and almost suicidal.",
+          "Her economic policies would prove suicidal for our economy.",
+          "Some patients become depressed, even suicidal."
+        ],
+        "synonyms": [
+          "self-destructive",
+          "despairing",
+          "hopeless"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "solitary",
+    "pronunciation": "/ˈsɑːlɪteri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cô độc, đơn lẻ",
+        "examples": [
+          "There was a solitary sheep in the field.",
+          "He spent two weeks in solitary.",
+          "She led a solitary existence but was seldom lonely."
+        ],
+        "synonyms": [
+          "lonely",
+          "isolated",
+          "alone",
+          "secluded"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "suffocation",
+    "pronunciation": "/ˌsʌfəˈkeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ngạt thở",
+        "examples": [
+          "Many of the victims died of suffocation.",
+          "Even if they survive, those patients undergoing suffocation are suffering unacceptable abuse.",
+          "Possible suffocation hazards due to lack of adequate ventilation."
+        ],
+        "synonyms": [
+          "asphyxiation",
+          "choking",
+          "stifling"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "furious",
+    "pronunciation": "/ˈfjʊriəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Giận dữ, điên cuồng",
+        "examples": [
+          "She was absolutely furious at having been deceived.",
+          "Residents in the area are furious at the decision.",
+          "It makes her furious to see a good breed of sheep being treated cruelly."
+        ],
+        "synonyms": [
+          "enraged",
+          "incensed",
+          "livid",
+          "irate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "frenzy",
+    "pronunciation": "/ˈfrenzi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơn điên cuồng, cuồng loạn",
+        "examples": [
+          "In a frenzy of rage she hit him.",
+          "In a frenzy of hate he killed his enemy and revenged his father.",
+          "There had been a frenzy of activity in my absence."
+        ],
+        "synonyms": [
+          "hysteria",
+          "fever",
+          "fervour",
+          "frenzy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fury",
+    "pronunciation": "/ˈfjʊri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự giận dữ tột cùng",
+        "examples": [
+          "He gritted his teeth in silent fury.",
+          "He could hardly contain his fury.",
+          "The storm struck with elemental fury."
+        ],
+        "synonyms": [
+          "rage",
+          "anger",
+          "wrath",
+          "outrage"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "frown",
+    "pronunciation": "/fraʊn/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Cau mày, vẻ mặt cau có",
+        "examples": [
+          "She saw his frown and hastened to explain.",
+          "A frown quickly wiped away her smile.",
+          "He frowned when he saw the mess."
+        ],
+        "synonyms": [
+          "furrowed brow",
+          "scowl",
+          "grimace"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Vẻ nhăn mặt, cau mày",
+        "examples": [
+          "She greeted him with a frown.",
+          "A frown creased his brow as he read the report.",
+          "His frown deepened as the situation grew worse."
+        ],
+        "synonyms": [
+          "scowl",
+          "glower",
+          "grimace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "flinch",
+    "pronunciation": "/flɪntʃ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Giật mình, chùn bước",
+        "examples": [
+          "We must not flinch from difficult decisions.",
+          "She did not flinch when he suggested a bathe.",
+          "Stephen did not flinch at the noise."
+        ],
+        "synonyms": [
+          "recoil",
+          "wince",
+          "shrink",
+          "blench"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "forlornly",
+    "pronunciation": "/fərˈlɔːrnli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách buồn bã, thất vọng",
+        "examples": [
+          "Forlornly we made our way to the local restaurant.",
+          "His father forlornly hoped someone might have seen them.",
+          "As I forlornly stood it upright on the table, Tam settled down opposite me."
+        ],
+        "synonyms": [
+          "despondently",
+          "sadly",
+          "hopelessly",
+          "miserably"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adverb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cheerfulness",
+    "pronunciation": "/ˈtʃɪrflnəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự vui vẻ",
+        "examples": [
+          "Their cheerfulness seemed rather strained and artificial.",
+          "Cheerfulness doesn't always imply happiness.",
+          "Cheerfulness and goodwill make labour light."
+        ],
+        "synonyms": [
+          "good humour",
+          "happiness",
+          "gaiety",
+          "joy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fervent",
+    "pronunciation": "/ˈfɜːrvənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Nhiệt thành, tha thiết",
+        "examples": [
+          "He became the most fervent sort of convert.",
+          "They remain among the most fervent participants in politics.",
+          "Most of the people here are fervent supporters of self-determination."
+        ],
+        "synonyms": [
+          "passionate",
+          "earnest",
+          "ardent",
+          "devout"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "delight",
+    "pronunciation": "/dɪˈlaɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Niềm vui sướng, làm vui lòng",
+        "examples": [
+          "Some people delight in the misfortunes of others.",
+          "Your new book is a real delight!",
+          "We delight in the beauties of nature."
+        ],
+        "synonyms": [
+          "pleasure",
+          "joy",
+          "happiness",
+          "bliss"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm vui mừng; thích thú (delight in)",
+        "examples": [
+          "The clown delighted the children with his tricks.",
+          "She delights in solving difficult puzzles.",
+          "The news delighted everyone in the office."
+        ],
+        "synonyms": [
+          "please",
+          "enchant",
+          "charm",
+          "captivate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "desperate",
+    "pronunciation": "/ˈdespərət/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Tuyệt vọng, liều mạng",
+        "examples": [
+          "I had no money left and was desperate.",
+          "The company is in desperate trouble financially.",
+          "She had a desperate longing to go back."
+        ],
+        "synonyms": [
+          "hopeless",
+          "frantic",
+          "distressed",
+          "distraught"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pleasant",
+    "pronunciation": "/ˈpleznt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Dễ chịu, thoải mái",
+        "examples": [
+          "Hoping you will have a pleasant trip!",
+          "All my good wishes for a pleasant journey!",
+          "It was pleasant to be alone again."
+        ],
+        "synonyms": [
+          "agreeable",
+          "enjoyable",
+          "pleasing",
+          "delightful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "despair",
+    "pronunciation": "/dɪˈsper/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự tuyệt vọng",
+        "examples": [
+          "They're in despair over the money they've lost.",
+          "He is plunging into an abyss of despair.",
+          "I despair at the policies of this government."
+        ],
+        "synonyms": [
+          "hopelessness",
+          "despondency",
+          "gloom",
+          "anguish"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tuyệt vọng, mất hết hy vọng",
+        "examples": [
+          "Don't despair — things will get better.",
+          "He despaired of ever finding a solution.",
+          "She despaired when she realised how little time was left."
+        ],
+        "synonyms": [
+          "lose hope",
+          "give up",
+          "be despondent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dully",
+    "pronunciation": "/ˈdʌli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách uể oải, mờ nhạt",
+        "examples": [
+          "\"I suppose so,\" she said dully.",
+          "The sun reflected dully off the stone walls.",
+          "His eyes looked dully ahead."
+        ],
+        "synonyms": [
+          "sluggishly",
+          "listlessly",
+          "lifelessly",
+          "dimly"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adverb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "discomfiture",
+    "pronunciation": "/dɪsˈkʌmfɪtʃər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự lúng túng, bối rối",
+        "examples": [
+          "She turned away to hide her discomfiture.",
+          "She couldn't disguise her glee at their discomfiture.",
+          "Taiwan arose reflection out of the diplomatic discomfiture in the seventies."
+        ],
+        "synonyms": [
+          "embarrassment",
+          "confusion",
+          "awkwardness",
+          "unease"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "drowsy",
+    "pronunciation": "/ˈdraʊzi/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Buồn ngủ",
+        "examples": [
+          "He felt pleasantly drowsy and had to fight off the urge to sleep.",
+          "Exhaust fumes made him drowsy and brought on a headache.",
+          "They were hospitalized after they became drowsy and dizzy."
+        ],
+        "synonyms": [
+          "sleepy",
+          "lethargic",
+          "groggy",
+          "somnolent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "disdainful",
+    "pronunciation": "/dɪsˈdeɪnfl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Khinh miệt, coi thường",
+        "examples": [
+          "He's disdainful of anyone from America.",
+          "She had an affected air and a disdainful look.",
+          "He is highly disdainful of anything to do with the literary establishment."
+        ],
+        "synonyms": [
+          "contemptuous",
+          "scornful",
+          "derisive",
+          "condescending"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "discontent",
+    "pronunciation": "/ˌdɪskənˈtent/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bất mãn",
+        "examples": [
+          "There were murmurs of discontent from the work-force.",
+          "Discontent with the current government is strong.",
+          "This riot is only one manifestation of people's discontent."
+        ],
+        "synonyms": [
+          "dissatisfaction",
+          "unhappiness",
+          "unrest",
+          "disgruntlement"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dismissive",
+    "pronunciation": "/dɪsˈmɪsɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Coi thường, khinh thường",
+        "examples": [
+          "She was always dismissive of other women in the office.",
+          "She was very dismissive of his achievements.",
+          "Her voice will drop to a dismissive whisper."
+        ],
+        "synonyms": [
+          "contemptuous",
+          "disparaging",
+          "scornful",
+          "disdainful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fret",
+    "pronunciation": "/fret/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Lo lắng, bồn chồn",
+        "examples": [
+          "Her baby starts to fret as soon as she goes out of the room.",
+          "But congressional staffers fret that the project will eventually cost billions more.",
+          "Opponents fret that the system might not provide enough help."
+        ],
+        "synonyms": [
+          "worry",
+          "agonise",
+          "fuss",
+          "anguish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "detest",
+    "pronunciation": "/dɪˈtest/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ghét cay ghét đắng",
+        "examples": [
+          "I detest people who tell lies.",
+          "And it is a loathsome term, I detest it.",
+          "Elites always detest gifted and nimble outsiders."
+        ],
+        "synonyms": [
+          "loathe",
+          "abhor",
+          "despise",
+          "hate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dismay",
+    "pronunciation": "/dɪsˈmeɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự hoảng sợ, sửng sốt",
+        "examples": [
+          "Local councillors have reacted with dismay and indignation.",
+          "She could not hide her dismay at the result.",
+          "He learned to his dismay that he had lost his job."
+        ],
+        "synonyms": [
+          "alarm",
+          "distress",
+          "consternation",
+          "horror"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm kinh hoàng, gây bàng hoàng",
+        "examples": [
+          "The scale of the disaster dismayed rescue workers.",
+          "She was dismayed to find the door locked.",
+          "His behaviour dismayed everyone who witnessed it."
+        ],
+        "synonyms": [
+          "horrify",
+          "appal",
+          "unsettle",
+          "unnerve"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "indignation",
+    "pronunciation": "/ˌɪndɪɡˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự phẫn nộ",
+        "examples": [
+          "He was burning with indignation.",
+          "She was speechless with indignation.",
+          "He was full of righteous indignation about the attack."
+        ],
+        "synonyms": [
+          "outrage",
+          "anger",
+          "fury",
+          "resentment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "blissfully",
+    "pronunciation": "/ˈblɪsfəli/",
+    "senses": [
+      {
+        "pos": "adv",
+        "meaning": "Một cách hạnh phúc",
+        "examples": [
+          "She seemed blissfully unaware of the peril she was in.",
+          "We went to bed that night blissfully ignorant of the storm to come.",
+          "They remained blissfully unaware of his true intentions."
+        ],
+        "synonyms": [
+          "happily",
+          "joyfully",
+          "ecstatically",
+          "contentedly"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adverb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "distaste",
+    "pronunciation": "/dɪsˈteɪst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự chán ghét",
+        "examples": [
+          "She regarded the child with evident distaste.",
+          "She looked at his shabby clothes with distaste.",
+          "She wrinkled her nose in mock distaste."
+        ],
+        "synonyms": [
+          "dislike",
+          "aversion",
+          "repugnance",
+          "disgust"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "uptight",
+    "pronunciation": "/ˌʌpˈtaɪt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Căng thẳng, lo lắng",
+        "examples": [
+          "Relax! You're getting too uptight about it.",
+          "Try to laugh at it instead of getting uptight.",
+          "Penny never got uptight about exams."
+        ],
+        "synonyms": [
+          "tense",
+          "anxious",
+          "stressed",
+          "on edge"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "frigid",
+    "pronunciation": "/ˈfrɪdʒɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Lạnh lẽo, lạnh nhạt",
+        "examples": [
+          "I was depressed, withdrawn and sexually frigid.",
+          "The temperature dropped as soon as the frigid lands appeared.",
+          "A frigid wind surged through the arches, producing a ghoulish whine."
+        ],
+        "synonyms": [
+          "cold",
+          "icy",
+          "frosty",
+          "aloof"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sullen",
+    "pronunciation": "/ˈsʌlən/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cau có, ủ rũ",
+        "examples": [
+          "He looked up at the sullen sky.",
+          "He lapsed into a sullen silence.",
+          "The sullen boy grunted his apology."
+        ],
+        "synonyms": [
+          "sulky",
+          "moody",
+          "brooding",
+          "resentful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "seethe",
+    "pronunciation": "/siːð/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Sôi sục (giận dữ)",
+        "examples": [
+          "He marched off, seething with frustration.",
+          "The class positively seethed with indignation when Julia won the award.",
+          "They stand quietly, but secretly they seethe with anger."
+        ],
+        "synonyms": [
+          "fume",
+          "boil",
+          "smoulder",
+          "bristle"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "solitude",
+    "pronunciation": "/ˈsɑːlɪtuːd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự cô đơn, tĩnh lặng",
+        "examples": [
+          "The song is a paean to solitude and independence.",
+          "The night regressed into utter silence and solitude.",
+          "He enjoyed his moments of solitude before the pressures of the day began."
+        ],
+        "synonyms": [
+          "isolation",
+          "seclusion",
+          "privacy",
+          "loneliness"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "revel",
+    "pronunciation": "/ˈrevl/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Vui chơi, say mê",
+        "examples": [
+          "Young men revel in doing dangerous tasks.",
+          "Ning continue to revel in air to sing.",
+          "The children revel in country life."
+        ],
+        "synonyms": [
+          "rejoice",
+          "delight",
+          "savour",
+          "relish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clear-headed",
+    "pronunciation": "/ˌklɪrˈhedɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Đầu óc tỉnh táo",
+        "examples": [
+          "From these interviews, some viewers will infer clear-headed premeditation.",
+          "She remained clear-headed despite the chaos around her.",
+          "A clear-headed analysis of the situation was needed."
+        ],
+        "synonyms": [
+          "lucid",
+          "sharp",
+          "composed",
+          "rational"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sheepish",
+    "pronunciation": "/ˈʃiːpɪʃ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Ngượng ngùng, xấu hổ",
+        "examples": [
+          "Bobby looked at her with a sheepish grin.",
+          "Then his smile became a sheepish grin and his shoulders hunched in a giggle.",
+          "This, she thought with a sheepish giggle to herself, was ridiculous."
+        ],
+        "synonyms": [
+          "embarrassed",
+          "ashamed",
+          "abashed",
+          "chagrined"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scowl",
+    "pronunciation": "/skaʊl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Vẻ mặt cau có, cau mày",
+        "examples": [
+          "He wore a permanent scowl on his face.",
+          "She answered my smile with a scowl.",
+          "She was serving soup with a ladle and scowl."
+        ],
+        "synonyms": [
+          "frown",
+          "grimace",
+          "glower"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Nhìn trừng trừng với vẻ tức giận, nhăn mặt",
+        "examples": [
+          "He scowled at the driver who had cut him off.",
+          "She scowled when she saw the state of the kitchen.",
+          "He sat in the corner scowling and refusing to speak."
+        ],
+        "synonyms": [
+          "glower",
+          "glare",
+          "frown",
+          "grimace"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "intimate",
+    "pronunciation": "/ˈɪntɪmət/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thân mật; riêng tư, am hiểu sâu",
+        "examples": [
+          "He has an intimate knowledge of American literature.",
+          "The restaurant has a very intimate atmosphere.",
+          "He is my intimate friend."
+        ],
+        "synonyms": [
+          "close",
+          "personal",
+          "confidential",
+          "private"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "adore",
+    "pronunciation": "/əˈdɔːr/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ngưỡng mộ, yêu quý",
+        "examples": [
+          "We adore them for their generosity.",
+          "I would adore to settle back in my homeland.",
+          "I simply adore his music!"
+        ],
+        "synonyms": [
+          "love",
+          "worship",
+          "cherish",
+          "idolise"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "irresistible",
+    "pronunciation": "/ˌɪrɪˈzɪstəbl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Không thể cưỡng lại",
+        "examples": [
+          "I felt an irresistible urge to laugh.",
+          "He felt an irresistible impulse to rush into the room.",
+          "His arguments were irresistible."
+        ],
+        "synonyms": [
+          "compelling",
+          "overwhelming",
+          "captivating",
+          "enthralling"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "impetuous",
+    "pronunciation": "/ɪmˈpetʃuəs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bốc đồng, nóng vội",
+        "examples": [
+          "He says she's impetuous and emotional.",
+          "He is too impetuous and fails of his goal.",
+          "The Prime Minister may now be regretting her impetuous promise."
+        ],
+        "synonyms": [
+          "rash",
+          "reckless",
+          "impulsive",
+          "hasty"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "indifference",
+    "pronunciation": "/ɪnˈdɪfrəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự thờ ơ, dửng dưng",
+        "examples": [
+          "She showed total indifference to his fate.",
+          "He made an affectation of indifference.",
+          "She had built up a protective shell of indifference around herself."
+        ],
+        "synonyms": [
+          "apathy",
+          "unconcern",
+          "detachment",
+          "neutrality"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "temper",
+    "pronunciation": "/ˈtempər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tính khí, cơn nóng giận",
+        "examples": [
+          "She broke the plates in a fit of temper.",
+          "You should govern your temper.",
+          "You must learn to control your temper."
+        ],
+        "synonyms": [
+          "anger",
+          "irritability",
+          "rage",
+          "mood"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "thrill",
+    "pronunciation": "/θrɪl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự phấn khích, hồi hộp",
+        "examples": [
+          "She gets an obvious thrill out of performing.",
+          "It gave me a thrill to know I had passed the examination.",
+          "Winning first place must have been quite a thrill."
+        ],
+        "synonyms": [
+          "excitement",
+          "exhilaration",
+          "buzz",
+          "rush"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Làm phấn khích, hồi hộp",
+        "examples": [
+          "The final goal thrilled the crowd.",
+          "It thrilled him to be back on stage after so many years.",
+          "The rollercoaster thrilled and terrified them in equal measure."
+        ],
+        "synonyms": [
+          "excite",
+          "electrify",
+          "exhilarate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tenderness",
+    "pronunciation": "/ˈtendərnəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự dịu dàng, trìu mến",
+        "examples": [
+          "There was tenderness in his face as he looked at her.",
+          "The gesture awoke an unexpected flood of tenderness towards her.",
+          "As she gazed down at the baby, her face was transfigured with tenderness."
+        ],
+        "synonyms": [
+          "gentleness",
+          "warmth",
+          "care",
+          "affection"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "trepidation",
+    "pronunciation": "/ˌtrepɪˈdeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự lo sợ, e ngại",
+        "examples": [
+          "I threw in my entire savings and, with trepidation, agreed to manage the building.",
+          "The threat of an epidemic caused great alarm and trepidation.",
+          "She opened the letter with some trepidation."
+        ],
+        "synonyms": [
+          "anxiety",
+          "apprehension",
+          "fear",
+          "dread"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "pathetic",
+    "pronunciation": "/pəˈθetɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thảm hại, đáng thương",
+        "examples": [
+          "He derided my singing as pathetic.",
+          "She now looked small, shrunken and pathetic.",
+          "It was painful to listen to his pathetic excuses."
+        ],
+        "synonyms": [
+          "pitiful",
+          "wretched",
+          "miserable",
+          "sorry"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "poignant",
+    "pronunciation": "/ˈpɔɪnjənt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Cảm động, xót xa",
+        "examples": [
+          "I found his speech deeply poignant.",
+          "It is especially poignant that he died the day before his wedding.",
+          "Even so, the impending auction has stirred poignant memories."
+        ],
+        "synonyms": [
+          "moving",
+          "touching",
+          "heartrending",
+          "affecting"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "placid",
+    "pronunciation": "/ˈplæsɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Điềm tĩnh, bình lặng",
+        "examples": [
+          "She sat still, placid and waiting.",
+          "She was a placid child who rarely cried.",
+          "The whole village presented a face placid."
+        ],
+        "synonyms": [
+          "calm",
+          "serene",
+          "tranquil",
+          "mild"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "remorse",
+    "pronunciation": "/rɪˈmɔːrs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự hối hận sâu sắc",
+        "examples": [
+          "He showed no remorse for his crimes.",
+          "She was filled with remorse after lying to her best friend.",
+          "True remorse involves not only regret but a desire to make things right."
+        ],
+        "synonyms": [
+          "regret",
+          "guilt",
+          "penitence",
+          "contrition"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "resentment",
+    "pronunciation": "/rɪˈzentmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự oán giận, bực bội",
+        "examples": [
+          "She harboured deep resentment towards her former employer.",
+          "His resentment grew with every injustice he endured.",
+          "Open communication can help resolve resentment before it festers."
+        ],
+        "synonyms": [
+          "bitterness",
+          "rancour",
+          "ill will",
+          "grievance"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "reverence",
+    "pronunciation": "/ˈrevərəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự kính trọng sâu sắc",
+        "examples": [
+          "The students listened with reverence as the elder spoke.",
+          "She spoke of her mentor with great reverence.",
+          "The temple was a place of reverence and quiet contemplation."
+        ],
+        "synonyms": [
+          "respect",
+          "veneration",
+          "awe",
+          "esteem"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rueful",
+    "pronunciation": "/ˈruːfl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hối hận, buồn bã",
+        "examples": [
+          "He gave a rueful smile when he thought about his failed attempt.",
+          "She cast a rueful glance at the broken vase.",
+          "His rueful tone suggested he deeply regretted his words."
+        ],
+        "synonyms": [
+          "regretful",
+          "sad",
+          "sorrowful",
+          "apologetic"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nostalgic",
+    "pronunciation": "/nɑːˈstældʒɪk/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hoài niệm",
+        "examples": [
+          "Hearing that old song made him feel deeply nostalgic.",
+          "She grew nostalgic thinking about her childhood summers.",
+          "The exhibition was a nostalgic journey through the city's past."
+        ],
+        "synonyms": [
+          "wistful",
+          "sentimental",
+          "homesick",
+          "yearning"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "melancholy",
+    "pronunciation": "/ˈmelənkɑːli/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nỗi buồn man mác, u sầu",
+        "examples": [
+          "A deep melancholy settled over him after she left.",
+          "The autumn rain filled her with a vague melancholy.",
+          "His music has a beautiful but melancholy quality to it."
+        ],
+        "synonyms": [
+          "sadness",
+          "gloom",
+          "sorrow",
+          "despondency"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "U sầu, buồn man mác",
+        "examples": [
+          "He was in a melancholy mood all evening.",
+          "The melancholy strains of the cello filled the hall.",
+          "Autumn always gave her a melancholy feeling."
+        ],
+        "synonyms": [
+          "sad",
+          "gloomy",
+          "sorrowful",
+          "wistful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nonplussed",
+    "pronunciation": "/ˌnɑːnˈplʌst/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Bối rối, không biết phải làm gì",
+        "examples": [
+          "She was completely nonplussed by his sudden resignation.",
+          "He looked nonplussed when asked to explain his reasoning.",
+          "The unexpected question left the speaker momentarily nonplussed."
+        ],
+        "synonyms": [
+          "puzzled",
+          "baffled",
+          "bewildered",
+          "perplexed"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mournful",
+    "pronunciation": "/ˈmɔːrnfl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Buồn bã, thê lương",
+        "examples": [
+          "The mournful wail of the violin filled the concert hall.",
+          "She wore a mournful expression at the memorial service.",
+          "His mournful eyes told a story of great loss."
+        ],
+        "synonyms": [
+          "sorrowful",
+          "sad",
+          "grieving",
+          "plaintive"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "morbid",
+    "pronunciation": "/ˈmɔːrbɪd/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Ám ảnh bệnh tật/chết chóc, bệnh hoạn",
+        "examples": [
+          "He had a morbid fascination with crime documentaries.",
+          "Try not to be so morbid — life has its bright spots too.",
+          "The doctor was concerned about her morbid thoughts."
+        ],
+        "synonyms": [
+          "gloomy",
+          "macabre",
+          "unhealthy",
+          "ghoulish"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bewilderment",
+    "pronunciation": "/bɪˈwɪldərmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bối rối, ngơ ngác",
+        "examples": [
+          "She stared in bewilderment at the confusing instructions.",
+          "His sudden departure left his colleagues in bewilderment.",
+          "The child's face showed complete bewilderment."
+        ],
+        "synonyms": [
+          "confusion",
+          "perplexity",
+          "puzzlement",
+          "disorientation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "boredom",
+    "pronunciation": "/ˈbɔːrdəm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự chán nản",
+        "examples": [
+          "Boredom can be a powerful motivator to try new things.",
+          "He ate out of boredom rather than hunger.",
+          "The long wait at the airport led to sheer boredom."
+        ],
+        "synonyms": [
+          "tedium",
+          "monotony",
+          "dullness",
+          "ennui"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bitterness",
+    "pronunciation": "/ˈbɪtərnəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự cay đắng, oán giận",
+        "examples": [
+          "She spoke with bitterness about how she had been treated.",
+          "Years of disappointment left a bitterness in his heart.",
+          "It's important to let go of bitterness and move forward."
+        ],
+        "synonyms": [
+          "resentment",
+          "rancour",
+          "acrimony",
+          "animosity"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "blissful",
+    "pronunciation": "/ˈblɪsfl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Hạnh phúc tột cùng",
+        "examples": [
+          "They spent a blissful week on the island with no phones.",
+          "She fell into a blissful sleep after the long journey.",
+          "The couple looked blissful on their wedding day."
+        ],
+        "synonyms": [
+          "ecstatic",
+          "joyful",
+          "elated",
+          "overjoyed"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "earnest",
+    "pronunciation": "/ˈɜːrnɪst/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Chân thành, nghiêm túc",
+        "examples": [
+          "He made an earnest effort to improve his grades.",
+          "She could tell from his earnest expression that he meant it.",
+          "Work began in earnest once the funding was secured."
+        ],
+        "synonyms": [
+          "sincere",
+          "serious",
+          "genuine",
+          "heartfelt"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exhilarate",
+    "pronunciation": "/ɪɡˈzɪləreɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm phấn khích, hứng khởi",
+        "examples": [
+          "The mountain climb exhilarated him like nothing else.",
+          "She felt exhilarated by the speed of the motorcycle.",
+          "Fresh sea air always exhilarates me in the morning."
+        ],
+        "synonyms": [
+          "thrill",
+          "excite",
+          "electrify",
+          "invigorate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enrapture",
+    "pronunciation": "/ɪnˈræptʃər/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm say mê, mê đắm",
+        "examples": [
+          "The singer's voice enraptured the entire audience.",
+          "He was enraptured by the beauty of the northern lights.",
+          "The novel so enraptured her that she read it in one sitting."
+        ],
+        "synonyms": [
+          "enchant",
+          "captivate",
+          "entrance",
+          "mesmerise"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "exasperate",
+    "pronunciation": "/ɪɡˈzæspəreɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm bực bội, khó chịu cực độ",
+        "examples": [
+          "His constant interruptions exasperated the teacher.",
+          "She was exasperated by the slow progress of negotiations.",
+          "It exasperates me when people don't listen."
+        ],
+        "synonyms": [
+          "infuriate",
+          "irritate",
+          "frustrate",
+          "annoy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "embitter",
+    "pronunciation": "/ɪmˈbɪtər/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm cay đắng, oán hận",
+        "examples": [
+          "Years of betrayal had embittered him against all authority.",
+          "Losing the lawsuit embittered her for a long time.",
+          "Don't let failure embitter you — learn from it."
+        ],
+        "synonyms": [
+          "sour",
+          "disillusion",
+          "alienate",
+          "harden"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "anguish",
+    "pronunciation": "/ˈæŋɡwɪʃ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đau khổ tột cùng (tinh thần)",
+        "examples": [
+          "The parents' anguish was evident on their faces.",
+          "She cried out in anguish when she heard the news.",
+          "His letters expressed the deep anguish of separation."
+        ],
+        "synonyms": [
+          "agony",
+          "torment",
+          "distress",
+          "suffering"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "affront",
+    "pronunciation": "/əˈfrʌnt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự xúc phạm, làm xúc phạm",
+        "examples": [
+          "He considered the comment a personal affront to his dignity.",
+          "Her dismissive tone affronted everyone in the room.",
+          "The policy was seen as an affront to basic human rights."
+        ],
+        "synonyms": [
+          "insult",
+          "slight",
+          "snub",
+          "offence"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Xúc phạm, làm tổn thương tự ái",
+        "examples": [
+          "His dismissive remarks affronted her deeply.",
+          "The decision affronted all those who had worked so hard.",
+          "She felt affronted by the suggestion that she had lied."
+        ],
+        "synonyms": [
+          "insult",
+          "offend",
+          "dishonour",
+          "mortify"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "loathe",
+    "pronunciation": "/loʊð/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Ghét cay ghét đắng",
+        "examples": [
+          "She loathed dishonesty above all else.",
+          "He loathed the thought of going back to that place.",
+          "I absolutely loathe getting up early in winter."
+        ],
+        "synonyms": [
+          "detest",
+          "abhor",
+          "despise",
+          "abominate"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "lust",
+    "pronunciation": "/lʌst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Dục vọng, ham muốn mãnh liệt",
+        "examples": [
+          "His lust for power eventually destroyed him.",
+          "She lusted after fame but found it hollow once achieved.",
+          "The novel explores the tension between love and lust."
+        ],
+        "synonyms": [
+          "desire",
+          "craving",
+          "appetite",
+          "yearning"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Thèm muốn, ham muốn mãnh liệt (lust after/for)",
+        "examples": [
+          "He lusted after power his entire career.",
+          "She lusted for revenge after the betrayal.",
+          "They lusted after the luxury car parked outside."
+        ],
+        "synonyms": [
+          "desire",
+          "crave",
+          "yearn for",
+          "covet"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "jealous",
+    "pronunciation": "/ˈdʒeləs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Ghen tuông, đố kỵ",
+        "examples": [
+          "He grew jealous when she spent time with other friends.",
+          "She was jealous of her sister's success.",
+          "A jealous partner can suffocate a healthy relationship."
+        ],
+        "synonyms": [
+          "envious",
+          "covetous",
+          "possessive",
+          "resentful"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "loath",
+    "pronunciation": "/loʊθ/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Miễn cưỡng, không muốn",
+        "examples": [
+          "She was loath to admit she had been wrong.",
+          "He was loath to leave the comfort of his home.",
+          "They were loath to make any changes to the existing plan."
+        ],
+        "synonyms": [
+          "reluctant",
+          "unwilling",
+          "disinclined",
+          "averse"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "esteem",
+    "pronunciation": "/ɪˈstiːm/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự tôn trọng, tôn trọng",
+        "examples": [
+          "She held him in high esteem throughout her career.",
+          "His colleagues esteemed him for his integrity.",
+          "Self-esteem is the foundation of a healthy life."
+        ],
+        "synonyms": [
+          "respect",
+          "regard",
+          "admiration",
+          "veneration"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Tôn trọng, đánh giá cao",
+        "examples": [
+          "She is widely esteemed for her integrity.",
+          "He esteemed his mentor above all others.",
+          "The judge is esteemed by lawyers on both sides for his fairness."
+        ],
+        "synonyms": [
+          "respect",
+          "value",
+          "admire",
+          "revere"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "adoration",
+    "pronunciation": "/ˌædəˈreɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự tôn thờ, yêu quý",
+        "examples": [
+          "John doesn't hide his adoration for the girl.",
+          "Her heart brimmed over with love and adoration for Charles.",
+          "They knelt in adoration of their gods."
+        ],
+        "synonyms": [
+          "worship",
+          "love",
+          "devotion",
+          "reverence"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bliss",
+    "pronunciation": "/blɪs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hạnh phúc",
+        "examples": [
+          "The first six months of marriage were sheer bliss.",
+          "Swimming on a hot day is sheer bliss.",
+          "It's sheer bliss to be able to spend the day in bed."
+        ],
+        "synonyms": [
+          "happiness",
+          "joy",
+          "ecstasy",
+          "rapture"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "mourn",
+    "pronunciation": "/mɔːrn/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Thương tiếc",
+        "examples": [
+          "Hundreds of people gathered to mourn the slain president.",
+          "We all mourn the destruction of a well-loved building.",
+          "Many young ladies will mourn Steven's departure."
+        ],
+        "synonyms": [
+          "grieve",
+          "lament",
+          "sorrow",
+          "weep for"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "embarrassment",
+    "pronunciation": "/ɪmˈbærəsmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự ngượng ngùng, bối rối, xấu hổ, không tự nhiên",
+        "examples": [
+          "Her face was flushed with embarrassment.",
+          "He could not hide his embarrassment.",
+          "He had gone absolutely scarlet with embarrassment."
+        ],
+        "synonyms": [
+          "shame",
+          "humiliation",
+          "awkwardness",
+          "mortification"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "discomposure",
+    "pronunciation": "/ˌdɪskəmˈpəʊʒər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự bối rối, lo lắng, nao núng",
+        "examples": [
+          "Selden received this thrust without discomposure.",
+          "The candidate struggled to hide her discomposure when asked about the gap in her resume.",
+          "Despite his efforts to look calm, a slight trembling of his hands betrayed his discomposure."
+        ],
+        "synonyms": [
+          "agitation",
+          "unease",
+          "anxiety",
+          "perturbation"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "unease",
+    "pronunciation": "/ʌnˈiːz/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cảm giác bất an",
+        "examples": [
+          "A feeling of unease nagged at her.",
+          "She felt a vague unease.",
+          "I smiled to hide my unease."
+        ],
+        "synonyms": [
+          "anxiety",
+          "worry",
+          "discomfort",
+          "apprehension"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "abashed",
+    "pronunciation": "/əˈbæʃt/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Xấu hổ",
+        "examples": [
+          "He said nothing but looked abashed.",
+          "Your kindness quite abashed me.",
+          "He mumbled unintelligibly and looked abashed."
+        ],
+        "synonyms": [
+          "ashamed",
+          "embarrassed",
+          "mortified",
+          "chagrined"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "adjective"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "enrage",
+    "pronunciation": "/ɪnˈreɪdʒ/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Làm bực tức, giận dữ",
+        "examples": [
+          "She was enraged by his presumption.",
+          "She was enraged at his stupidity.",
+          "Trying to reason with him only enrages him even more."
+        ],
+        "synonyms": [
+          "infuriate",
+          "incense",
+          "anger",
+          "provoke"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract",
+      "verb"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ire",
+    "pronunciation": "/ˈaɪər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơn giận, sự tức giận",
+        "examples": [
+          "His comments drew the ire of the public.",
+          "She felt her ire rising as he continued to make excuses.",
+          "The decision provoked the ire of environmental groups."
+        ],
+        "synonyms": [
+          "anger",
+          "rage",
+          "fury",
+          "wrath"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "keenness",
+    "pronunciation": "/ˈkiːnnəs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự háo hức, nhiệt tình; sự nhạy bén",
+        "examples": [
+          "Her keenness to learn impressed the teachers.",
+          "He showed great keenness for the new project.",
+          "The keenness of his intellect was evident from a young age."
+        ],
+        "synonyms": [
+          "eagerness",
+          "enthusiasm",
+          "zeal",
+          "sharpness"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

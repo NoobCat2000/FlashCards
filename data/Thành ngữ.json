@@ -1,0 +1,875 @@
+[
+  {
+    "word": "along the lines of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Đại loại như, kiểu như (mang tính trang trọng hơn 'like')",
+        "examples": [
+          "We need a solution along the lines of what we discussed last week.",
+          "She suggested something along the lines of a profit-sharing scheme.",
+          "The new policy will be along the lines of the European model."
+        ],
+        "synonyms": [
+          "similar to",
+          "something like",
+          "in the manner of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "in the wake of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Ngay sau khi; theo sau (nhấn mạnh hệ quả để lại)",
+        "examples": [
+          "The government tightened security in the wake of the attacks.",
+          "Several banks collapsed in the wake of the financial crisis.",
+          "New policies were introduced in the wake of the scandal."
+        ],
+        "synonyms": [
+          "following",
+          "in the aftermath of",
+          "as a result of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Gốc: 'wake' là vệt nước sau tàu. Luôn chỉ hệ quả của một sự kiện lớn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "high-stakes",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Có rủi ro cao, liên quan đến nhiều thứ quan trọng (tiền bạc, uy tín, kết quả)",
+        "examples": [
+          "The merger negotiation was a high-stakes game for both companies.",
+          "He performs well under high-stakes pressure.",
+          "This is a high-stakes decision that could define his political career."
+        ],
+        "synonyms": [
+          "high-risk",
+          "critical",
+          "high-pressure"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "phrase",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "at the expense of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Bằng cái giá của, tốn phí/hi sinh điều gì đó",
+        "examples": [
+          "He achieved success at the expense of his health.",
+          "The project moved quickly, but at the expense of quality.",
+          "She pursued her career at the expense of her personal relationships."
+        ],
+        "synonyms": [
+          "at the cost of",
+          "sacrificing",
+          "to the detriment of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "on the verge of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Trên bờ vực của; sắp xảy ra, gần đến điểm tới hạn",
+        "examples": [
+          "The company was on the verge of bankruptcy when the deal was struck.",
+          "She was on the verge of tears throughout the ceremony.",
+          "Scientists say the species is on the verge of extinction."
+        ],
+        "synonyms": [
+          "on the brink of",
+          "about to",
+          "close to",
+          "on the edge of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "in retrospect",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Nhìn lại, khi xem xét lại quá khứ",
+        "examples": [
+          "In retrospect, it was a terrible decision to take that risk.",
+          "In retrospect, I should have listened to her advice earlier.",
+          "The investment seemed risky at the time, but in retrospect it was wise."
+        ],
+        "synonyms": [
+          "looking back",
+          "with hindsight",
+          "on reflection"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Thường đứng đầu câu. Tương tự 'with hindsight' — nhìn lại mọi thứ có vẻ rõ ràng hơn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "take a toll on",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Gây tổn hại dần dần đến (sức khỏe, tâm lý, nguồn lực)",
+        "examples": [
+          "Years of hard work had taken a toll on his health.",
+          "The long commute is taking a toll on her mental well-being.",
+          "The pandemic has taken a heavy toll on the tourism industry."
+        ],
+        "synonyms": [
+          "wear down",
+          "damage",
+          "weaken",
+          "strain"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "in lieu of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Thay thế cho, thay vì (formal)",
+        "examples": [
+          "Employees were given extra holiday in lieu of overtime pay.",
+          "The client sent a gift voucher in lieu of a cash refund.",
+          "She accepted shares in lieu of her bonus."
+        ],
+        "synonyms": [
+          "instead of",
+          "in place of",
+          "as a substitute for"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Gốc tiếng Pháp. Formal — dùng phổ biến trong văn bản hành chính và pháp lý.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "come to terms with",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Chấp nhận (một thực tế khó khăn hoặc đau đớn); hòa giải với thực tế",
+        "examples": [
+          "She is slowly coming to terms with the loss of her father.",
+          "It took him years to come to terms with his disability.",
+          "He has finally come to terms with the fact that he didn't get the job."
+        ],
+        "synonyms": [
+          "accept",
+          "reconcile oneself to",
+          "make peace with"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cast doubt on",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Đặt nghi vấn về, làm mờ đi sự tin tưởng vào điều gì",
+        "examples": [
+          "The new evidence cast doubt on the suspect's alibi.",
+          "His statement cast serious doubt on the reliability of the report.",
+          "The failed experiment cast doubt on the entire research methodology."
+        ],
+        "synonyms": [
+          "call into question",
+          "undermine",
+          "challenge",
+          "question"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "go hand in hand",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Đi đôi với nhau, cùng tồn tại và liên quan chặt chẽ",
+        "examples": [
+          "Economic growth and job creation tend to go hand in hand.",
+          "Education and opportunity should always go hand in hand.",
+          "Success and hard work go hand in hand — there are no shortcuts."
+        ],
+        "synonyms": [
+          "be linked",
+          "be connected",
+          "be associated",
+          "accompany each other"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bear the brunt of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Chịu đựng phần nặng nề nhất, hứng chịu hậu quả mạnh nhất",
+        "examples": [
+          "The coastal towns bore the brunt of the hurricane.",
+          "Young workers bore the brunt of the layoffs.",
+          "It was the middle class that bore the brunt of the tax increases."
+        ],
+        "synonyms": [
+          "suffer the most from",
+          "take the hardest hit",
+          "absorb the worst of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "a double-edged sword",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Con dao hai lưỡi — thứ gì đó có cả lợi lẫn hại",
+        "examples": [
+          "Social media is a double-edged sword — it connects people but also spreads misinformation.",
+          "Fame is a double-edged sword: it opens doors but destroys privacy.",
+          "The drug is effective but is a double-edged sword due to its side effects."
+        ],
+        "synonyms": [
+          "two-edged sword",
+          "mixed blessing",
+          "double-edged"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tip of the iceberg",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Phần nổi của tảng băng chìm — chỉ là bề mặt của vấn đề lớn hơn nhiều",
+        "examples": [
+          "The complaints we received are just the tip of the iceberg.",
+          "What we know about corruption there is only the tip of the iceberg.",
+          "The financial losses reported are likely just the tip of the iceberg."
+        ],
+        "synonyms": [
+          "just a small part",
+          "the visible part of a larger problem"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "the lesser of two evils",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Chọn cái ít tệ hơn trong hai lựa chọn đều không tốt",
+        "examples": [
+          "Voting for that candidate felt like choosing the lesser of two evils.",
+          "Taking the longer route was the lesser of two evils given the roadworks.",
+          "Neither option was ideal, but the pay cut was the lesser of two evils."
+        ],
+        "synonyms": [
+          "the better of two bad options",
+          "a trade-off"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "turn a blind eye to",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Giả vờ không thấy, làm ngơ (dù biết rõ điều gì đó sai)",
+        "examples": [
+          "The manager turned a blind eye to the employee's dishonesty.",
+          "Authorities have long turned a blind eye to corruption in that sector.",
+          "We can't keep turning a blind eye to climate change."
+        ],
+        "synonyms": [
+          "ignore",
+          "overlook",
+          "look the other way",
+          "pretend not to notice"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Gốc: truyện về Nelson giả vờ không thấy lệnh rút lui.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "on thin ice",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Ở tình thế nguy hiểm hoặc tế nhị, có nguy cơ gây rắc rối lớn",
+        "examples": [
+          "He's on thin ice with his boss after missing three deadlines.",
+          "The politician was walking on thin ice with her controversial remarks.",
+          "Be careful — you're on thin ice making promises you can't keep."
+        ],
+        "synonyms": [
+          "in a precarious position",
+          "at risk",
+          "treading carefully"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cut corners",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Làm ẩu, bỏ qua các bước cần thiết để tiết kiệm thời gian hoặc tiền bạc",
+        "examples": [
+          "The contractor cut corners on safety measures to finish faster.",
+          "You can't cut corners when it comes to food safety.",
+          "The cheap renovations showed they had clearly cut corners throughout."
+        ],
+        "synonyms": [
+          "take shortcuts",
+          "be sloppy",
+          "do a half-job"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Thường hàm ý tiêu cực — hi sinh chất lượng hoặc an toàn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "under the radar",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Không bị chú ý, không bị phát hiện; hoạt động kín đáo",
+        "examples": [
+          "The startup operated under the radar for two years before launching.",
+          "His rise to power went largely under the radar of the media.",
+          "She prefers to stay under the radar and avoid publicity."
+        ],
+        "synonyms": [
+          "unnoticed",
+          "out of the spotlight",
+          "below the radar",
+          "quietly"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Ẩn dụ từ radar quân sự — bay thấp để tránh bị phát hiện.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "set the tone",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Tạo bầu không khí ban đầu hoặc định hướng chung cho điều gì đó",
+        "examples": [
+          "The CEO's opening speech set the tone for the entire conference.",
+          "Her punctuality and professionalism set the tone for the whole team.",
+          "The gloomy weather set the tone for the day's events."
+        ],
+        "synonyms": [
+          "establish the mood",
+          "define the atmosphere",
+          "determine the direction"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "keep at bay",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Kìm hãm, giữ (thứ gì đó nguy hiểm) không cho tiến lại",
+        "examples": [
+          "Antibiotics can help keep infections at bay.",
+          "The army struggled to keep the enemy forces at bay.",
+          "She uses humor to keep her anxiety at bay."
+        ],
+        "synonyms": [
+          "hold back",
+          "fend off",
+          "keep away",
+          "repel"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "in cold blood",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Một cách lạnh lùng, tàn nhẫn và có chủ ý (thường với hành vi bạo lực)",
+        "examples": [
+          "The victims were shot in cold blood in their own home.",
+          "He was convicted of murdering his business partner in cold blood.",
+          "The soldiers executed the prisoners in cold blood."
+        ],
+        "synonyms": [
+          "deliberately",
+          "without mercy",
+          "callously",
+          "premeditated"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Thường đi với 'murder/kill in cold blood'. 'In hot blood' (nghĩa đối) = trong cơn tức giận bột phát.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "par for the course",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Điều bình thường, chuyện thường gặp, không có gì đáng ngạc nhiên",
+        "examples": [
+          "Delays on this project are par for the course.",
+          "Getting stuck in traffic is par for the course in this city.",
+          "Being criticised by the press is par for the course if you're a politician."
+        ],
+        "synonyms": [
+          "typical",
+          "to be expected",
+          "nothing unusual",
+          "standard"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Gốc từ golf: 'par' là số gậy tiêu chuẩn cho một lỗ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "stem from",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Bắt nguồn từ, xuất phát từ (nguyên nhân gốc rễ)",
+        "examples": [
+          "His anger stemmed from years of feeling ignored.",
+          "Many health problems stem from poor diet and lack of exercise.",
+          "The conflict stemmed from a misunderstanding between the two departments."
+        ],
+        "synonyms": [
+          "originate from",
+          "arise from",
+          "come from",
+          "result from"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "crank up",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Tăng mạnh, khuếch đại (âm lượng, tốc độ, mức độ); khởi động (máy móc)",
+        "examples": [
+          "They cranked up the volume as the concert began.",
+          "The factory cranked up production to meet the holiday demand.",
+          "The government cranked up pressure on the company to comply."
+        ],
+        "synonyms": [
+          "increase",
+          "boost",
+          "turn up",
+          "amplify"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "the advent of",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Sự ra đời, sự xuất hiện của (điều gì đó mới, quan trọng)",
+        "examples": [
+          "The advent of the internet changed communication forever.",
+          "Life before the advent of smartphones feels hard to imagine now.",
+          "The advent of electric vehicles is reshaping the automotive industry."
+        ],
+        "synonyms": [
+          "the arrival of",
+          "the emergence of",
+          "the introduction of"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Formal. Thường dùng cho những cột mốc lịch sử quan trọng.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "go haywire",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Trở nên hỗn loạn, mất kiểm soát; (máy móc) hoạt động sai",
+        "examples": [
+          "Everything went haywire when the main server crashed.",
+          "My plans went completely haywire when the flight was cancelled.",
+          "The printer went haywire and started printing blank pages."
+        ],
+        "synonyms": [
+          "go wrong",
+          "malfunction",
+          "go awry",
+          "spiral out of control"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "ratchet up",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Tăng dần từng bước nhỏ (không giảm trở lại được); leo thang",
+        "examples": [
+          "Tensions between the two countries have been ratcheting up for months.",
+          "The company has ratcheted up its marketing spending each quarter.",
+          "Protesters ratcheted up pressure on the government to act."
+        ],
+        "synonyms": [
+          "escalate",
+          "increase steadily",
+          "intensify",
+          "step up"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Ẩn dụ từ cơ cấu ratchet — chỉ tiến, không lùi.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "sort out",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Giải quyết, sắp xếp ổn thỏa; hiểu rõ/làm rõ",
+        "examples": [
+          "I need to sort out the billing issue before the end of the month.",
+          "Let me sort this out and get back to you by tomorrow.",
+          "They finally sorted out their differences and signed the contract."
+        ],
+        "synonyms": [
+          "resolve",
+          "fix",
+          "deal with",
+          "settle"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "Rất phổ biến trong tiếng Anh thông thường (informal-medium). 'Sort someone out' = trị cho xong.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "rule out",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Loại trừ, bác bỏ khả năng của điều gì đó",
+        "examples": [
+          "Doctors ruled out a serious injury after the scan.",
+          "The police have not ruled out the possibility of arson.",
+          "We can't rule out further price increases later in the year."
+        ],
+        "synonyms": [
+          "exclude",
+          "eliminate",
+          "dismiss",
+          "preclude"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "strike down",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Bãi bỏ (luật/quyết định pháp lý); hạ gục, đánh ngã",
+        "examples": [
+          "The Supreme Court struck down the controversial immigration law.",
+          "The regulation was struck down as unconstitutional.",
+          "He was struck down by a mysterious illness at the peak of his career."
+        ],
+        "synonyms": [
+          "overturn",
+          "invalidate",
+          "nullify",
+          "repeal"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase"
+    ],
+    "note": "'Strike down a law' = tòa án bãi bỏ một đạo luật. Cũng dùng nghĩa đen: bệnh/tai nạn hạ gục ai.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "objection",
+    "pronunciation": "/əbˈdʒekʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự phản đối, lý do phản đối điều gì đó",
+        "examples": [
+          "She raised several objections to the proposed changes.",
+          "Does anyone have any objections before we proceed?",
+          "His main objection was that the plan was too expensive."
+        ],
+        "synonyms": [
+          "opposition",
+          "protest",
+          "complaint",
+          "dissent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "phrase",
+      "abstract"
+    ],
+    "note": "'Objection!' cũng là lời phản đối trong phiên tòa (luật pháp). 'Object to something' = phản đối điều gì.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "love affair",
+    "pronunciation": "",
+    "senses": [
+      {
+        "pos": "phrase",
+        "meaning": "Mối tình lãng mạn (đặc biệt là bí mật hoặc ngắn ngủi); sự say mê mãnh liệt với điều gì",
+        "examples": [
+          "He had a brief love affair with a colleague that ended badly.",
+          "France has a long love affair with cycling.",
+          "Her love affair with literature began when she was just eight years old."
+        ],
+        "synonyms": [
+          "romance",
+          "passion",
+          "liaison",
+          "obsession"
+        ]
+      }
+    ],
+    "tags": [
+      "phrase",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) quan hệ tình cảm; (2) nghĩa bóng: sự đam mê.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "scatterbrain",
+    "pronunciation": "/ˈskætəbreɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người hay quên, thiếu tập trung, đầu óc lộn xộn",
+        "examples": [
+          "He's such a scatterbrain — he forgot his keys three times this week.",
+          "Don't trust her with details; she's always been a bit of a scatterbrain.",
+          "I know I'm a scatterbrain, which is why I write everything down."
+        ],
+        "synonyms": [
+          "airhead",
+          "daydreamer",
+          "forgetful person"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "phrase",
+      "person"
+    ],
+    "note": "Informal/lighthearted. Không mang nghĩa xúc phạm nặng — thường dùng thân thiện.",
+    "needsEnrichment": false
+  }
+]

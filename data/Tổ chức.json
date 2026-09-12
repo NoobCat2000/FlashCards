@@ -1,0 +1,1013 @@
+[
+  {
+    "word": "ambassador",
+    "pronunciation": "/æmˈbæsədər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đại sứ (ngoại giao); đại diện cấp cao của một tổ chức hay thương hiệu",
+        "examples": [
+          "She was appointed ambassador to France last year.",
+          "The ambassador met with the foreign minister to discuss trade relations.",
+          "He became a brand ambassador for a major sports company."
+        ],
+        "synonyms": [
+          "envoy",
+          "representative",
+          "diplomat"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "constituency",
+    "pronunciation": "/kənˈstɪtjuənsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Khu vực bầu cử; nhóm cử tri/ủng hộ viên của một chính trị gia",
+        "examples": [
+          "The MP visited her constituency every weekend.",
+          "He lost support in his core constituency after the tax hike.",
+          "The party needs to expand its constituency beyond urban voters."
+        ],
+        "synonyms": [
+          "district",
+          "electorate",
+          "voter base"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "bureaucrat",
+    "pronunciation": "/ˈbjʊərəkræt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quan chức hành chính (thường hàm ý tiêu cực: cứng nhắc, thủ tục)",
+        "examples": [
+          "The project was delayed by bureaucrats who wouldn't approve the budget.",
+          "Reformers faced resistance from entrenched bureaucrats unwilling to change.",
+          "He described himself as a bureaucrat who loves cutting red tape."
+        ],
+        "synonyms": [
+          "official",
+          "civil servant",
+          "administrator"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics",
+      "person"
+    ],
+    "note": "Thường mang hàm ý tiêu cực — người theo quan liêu, cứng nhắc về thủ tục.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "clerical",
+    "pronunciation": "/ˈklerɪkl/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về công việc văn phòng/hành chính; thuộc về giáo sĩ",
+        "examples": [
+          "She works in a clerical role at the local council.",
+          "A clerical error caused the payment to be sent to the wrong account.",
+          "He took a vow of poverty as part of his clerical duties."
+        ],
+        "synonyms": [
+          "administrative",
+          "office",
+          "secretarial"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "organization",
+      "religion",
+      "work"
+    ],
+    "note": "Hai nghĩa: (1) hành chính văn phòng; (2) liên quan đến giáo sĩ/nhà thờ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "conglomerate",
+    "pronunciation": "/kənˈɡlɒmərət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Tập đoàn đa ngành; đám hỗn hợp nhiều thứ khác nhau",
+        "examples": [
+          "The media conglomerate owns dozens of newspapers, TV channels, and websites.",
+          "The deal created a conglomerate spanning everything from banking to retail.",
+          "The city is a conglomerate of different cultures and ethnicities."
+        ],
+        "synonyms": [
+          "corporation",
+          "group",
+          "multinational",
+          "conglomeration"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "delegation",
+    "pronunciation": "/ˌdelɪˈɡeɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phái đoàn (nhóm người đại diện); sự ủy quyền, giao phó nhiệm vụ",
+        "examples": [
+          "A delegation from China attended the climate summit.",
+          "She led the trade delegation on a week-long visit to Seoul.",
+          "Effective delegation of tasks is a key management skill."
+        ],
+        "synonyms": [
+          "group",
+          "mission",
+          "deputation",
+          "assignment"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "etiquette",
+    "pronunciation": "/ˈetɪket/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phép xã giao, nghi thức (bộ quy tắc ứng xử trong xã hội hoặc nghề nghiệp)",
+        "examples": [
+          "Business etiquette differs significantly between cultures.",
+          "She was taught strict table etiquette as a child.",
+          "There is a well-established etiquette for attending the opera."
+        ],
+        "synonyms": [
+          "manners",
+          "protocol",
+          "decorum",
+          "courtesy"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "abstract"
+    ],
+    "note": "'Netiquette' = nghi thức trực tuyến (internet etiquette).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "establishment",
+    "pronunciation": "/ɪˈstæblɪʃmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cơ sở, tổ chức; giới quyền lực (những người nắm quyền lực cố thủ trong xã hội)",
+        "examples": [
+          "The hotel is a prestigious establishment with a long history.",
+          "She worked to establish her own business establishment.",
+          "The reforms challenged the entire political establishment."
+        ],
+        "synonyms": [
+          "institution",
+          "organization",
+          "hierarchy",
+          "the powers that be"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics",
+      "abstract"
+    ],
+    "note": "'The Establishment' (viết hoa) = tầng lớp cầm quyền cố thủ — thường dùng chỉ trích.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "incumbent",
+    "pronunciation": "/ɪnˈkʌmbənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người đương nhiệm (đang giữ chức vụ)",
+        "examples": [
+          "The incumbent lost the election by a narrow margin.",
+          "As the incumbent mayor, she had the advantage of name recognition.",
+          "The incumbent was challenged by three strong candidates."
+        ],
+        "synonyms": [
+          "current holder",
+          "office-holder",
+          "sitting member"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Đang đương nhiệm; (formal) bắt buộc, là trách nhiệm",
+        "examples": [
+          "The incumbent president will face a tough re-election battle.",
+          "It is incumbent on all citizens to follow the law.",
+          "It is incumbent upon the board to act on this matter immediately."
+        ],
+        "synonyms": [
+          "current",
+          "sitting",
+          "obligatory",
+          "mandatory"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "organization",
+      "politics"
+    ],
+    "note": "'It is incumbent on/upon someone to do something' = ai đó có trách nhiệm phải làm điều đó.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "faction",
+    "pronunciation": "/ˈfækʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Phe phái, bè đảng (nhóm thiểu số bất đồng trong tổ chức lớn hơn)",
+        "examples": [
+          "The ruling party was divided into two competing factions.",
+          "A breakaway faction formed a new political movement.",
+          "The dispute between factions threatened to tear the organization apart."
+        ],
+        "synonyms": [
+          "group",
+          "clique",
+          "bloc",
+          "splinter group"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics"
+    ],
+    "note": "Thường hàm ý xung đột và bất đồng nội bộ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "fiduciary",
+    "pronunciation": "/fɪˈdjuːʃiəri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về/liên quan đến ủy thác, tín thác (trách nhiệm pháp lý quản lý tài sản của người khác)",
+        "examples": [
+          "Directors have a fiduciary duty to act in the best interests of shareholders.",
+          "The trustee's fiduciary responsibilities are clearly defined in the agreement.",
+          "Breaching a fiduciary duty can result in serious legal consequences."
+        ],
+        "synonyms": [
+          "trust-based",
+          "fiduciary responsibility"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "organization",
+      "law",
+      "business"
+    ],
+    "note": "'Fiduciary duty' = nghĩa vụ ủy thác — trách nhiệm pháp lý quản lý tài sản của người khác vì lợi ích của họ.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "infighting",
+    "pronunciation": "/ˈɪnfaɪtɪŋ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đấu đá nội bộ, tranh giành quyền lực bên trong tổ chức",
+        "examples": [
+          "Infighting among the board members delayed the company's expansion.",
+          "Political infighting has paralysed the ruling party for months.",
+          "The team's infighting undermined its performance in the tournament."
+        ],
+        "synonyms": [
+          "internal conflict",
+          "power struggle",
+          "in-house disputes"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "nominee",
+    "pronunciation": "/ˌnɒmɪˈniː/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Người được đề cử (cho chức vụ, giải thưởng)",
+        "examples": [
+          "The Supreme Court nominee faced tough questions during her confirmation hearing.",
+          "All five Oscar nominees attended the ceremony.",
+          "She was the party's nominee for governor."
+        ],
+        "synonyms": [
+          "candidate",
+          "appointee",
+          "contender"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics"
+    ],
+    "note": "'Nominee' là người được đề cử; 'appointee' là người được bổ nhiệm (đã chính thức).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "procurement",
+    "pronunciation": "/prəˈkjʊərmənt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự mua sắm, thu mua (thường cho tổ chức/chính phủ, theo quy trình chính thức)",
+        "examples": [
+          "The government launched a public procurement process for the new hospital.",
+          "She works in the procurement department, managing supplier contracts.",
+          "Transparent procurement procedures help prevent corruption."
+        ],
+        "synonyms": [
+          "purchasing",
+          "acquisition",
+          "buying",
+          "sourcing"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "business",
+      "law"
+    ],
+    "note": "Formal/organizational. Khác với 'buying' thông thường — procurement ngụ ý quy trình bài bản, chính thức.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "resignation",
+    "pronunciation": "/ˌrezɪɡˈneɪʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sự từ chức, đơn xin thôi việc; sự cam chịu (chấp nhận điều không thể tránh)",
+        "examples": [
+          "The minister submitted his resignation after the scandal.",
+          "Her resignation came as a shock to the entire organization.",
+          "He accepted his fate with quiet resignation."
+        ],
+        "synonyms": [
+          "departure",
+          "stepping down",
+          "acceptance",
+          "submission"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "work",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) từ chức; (2) sự cam chịu thụ động khi không thể thay đổi tình thế.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "regulatory",
+    "pronunciation": "/ˈreɡjʊlətəri/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Thuộc về quy định, điều tiết (của cơ quan nhà nước hoặc cơ quan có thẩm quyền)",
+        "examples": [
+          "The company must comply with all regulatory requirements.",
+          "A new regulatory framework was introduced for the financial sector.",
+          "Regulatory bodies oversee the pharmaceutical industry."
+        ],
+        "synonyms": [
+          "supervisory",
+          "governing",
+          "compliance",
+          "official"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "organization",
+      "law",
+      "business"
+    ],
+    "note": "'Regulatory body/authority/agency' = cơ quan quản lý.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "recruit",
+    "pronunciation": "/rɪˈkruːt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Tuyển dụng, chiêu mộ (nhân viên, thành viên)",
+        "examples": [
+          "The company is recruiting new graduates for its training programme.",
+          "The army struggles to recruit young people in peacetime.",
+          "She was recruited by a headhunter to join the rival firm."
+        ],
+        "synonyms": [
+          "hire",
+          "enlist",
+          "enroll",
+          "headhunt"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Tân binh, người mới được tuyển vào",
+        "examples": [
+          "The army put all new recruits through a six-week training course.",
+          "She is one of our best recruits this year.",
+          "The recruits were nervous on their first day at the firm."
+        ],
+        "synonyms": [
+          "newcomer",
+          "new hire",
+          "trainee",
+          "conscript"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "noun",
+      "organization",
+      "work",
+      "military"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "subsidiary",
+    "pronunciation": "/səbˈsɪdiəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Công ty con (thuộc sở hữu/kiểm soát của công ty mẹ)",
+        "examples": [
+          "The car manufacturer set up a subsidiary in Vietnam.",
+          "The subsidiary operates independently but reports to the parent company.",
+          "Several of the group's subsidiaries are listed on the stock exchange."
+        ],
+        "synonyms": [
+          "affiliate",
+          "branch",
+          "division"
+        ]
+      },
+      {
+        "pos": "adj",
+        "meaning": "Phụ thuộc, thứ yếu, bổ trợ",
+        "examples": [
+          "The main hall was already booked, so they used a subsidiary room.",
+          "These are subsidiary points — the main argument is more important.",
+          "She had a subsidiary role in the project."
+        ],
+        "synonyms": [
+          "secondary",
+          "subordinate",
+          "supplementary"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "adjective",
+      "organization",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "tenure",
+    "pronunciation": "/ˈtenjər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhiệm kỳ (thời gian giữ chức vụ); quyền sở hữu/hợp đồng lâu dài (thường trong học thuật)",
+        "examples": [
+          "During her tenure as CEO, revenue doubled.",
+          "He achieved academic tenure after years of research and teaching.",
+          "The land was held under a system of feudal tenure."
+        ],
+        "synonyms": [
+          "term",
+          "period in office",
+          "position",
+          "incumbency"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "work",
+      "abstract"
+    ],
+    "note": "'Tenure' trong học thuật (university tenure) = hợp đồng vô thời hạn, đảm bảo công việc sau khi đáp ứng tiêu chuẩn.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "toothless",
+    "pronunciation": "/ˈtuːθləs/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Không có răng; (tổ chức/luật) vô hiệu, không có khả năng thực thi",
+        "examples": [
+          "The new watchdog is toothless — it can investigate but not fine anyone.",
+          "Critics say the commission is toothless and lacks real power.",
+          "The agreement proved toothless without any enforcement mechanism."
+        ],
+        "synonyms": [
+          "ineffective",
+          "powerless",
+          "weak",
+          "without teeth"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "organization",
+      "law",
+      "abstract"
+    ],
+    "note": "Nghĩa bóng rất phổ biến trong báo chí/chính trị: tổ chức/luật lệ 'toothless' = không có quyền lực thực sự.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "discretion",
+    "pronunciation": "/dɪˈskreʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Quyền tự quyết định; sự kín đáo, thận trọng trong việc tiết lộ thông tin",
+        "examples": [
+          "The officer has discretion to decide whether to issue a fine.",
+          "The matter should be handled with the utmost discretion.",
+          "You may use your own discretion in how to approach the client."
+        ],
+        "synonyms": [
+          "judgment",
+          "choice",
+          "tact",
+          "prudence"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "law",
+      "abstract"
+    ],
+    "note": "'At your discretion' = theo sự quyết định của bạn. 'Discretion is the better part of valour' = thận trọng là một dạng dũng cảm.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "delegate",
+    "pronunciation": "/ˈdelɪɡət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đại biểu, đại diện (được cử đến hội nghị/tổ chức)",
+        "examples": [
+          "Delegates from sixty countries attended the climate conference.",
+          "She was elected as a delegate to the national convention.",
+          "Each delegate was given a voting card at registration."
+        ],
+        "synonyms": [
+          "representative",
+          "envoy",
+          "proxy"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Ủy quyền, giao phó (nhiệm vụ cho người khác)",
+        "examples": [
+          "A good manager knows how to delegate effectively.",
+          "She delegated the report writing to her assistant.",
+          "The president delegated the negotiations to the foreign minister."
+        ],
+        "synonyms": [
+          "assign",
+          "entrust",
+          "hand over",
+          "pass on"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "organization",
+      "politics",
+      "work"
+    ],
+    "note": "'Delegate to' = ủy quyền cho. Phát âm: n /ˈdelɪɡət/, v /ˈdelɪɡeɪt/ — chú ý sự khác biệt.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "deed",
+    "pronunciation": "/diːd/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Hành động, hành vi (thường mang tính anh hùng hoặc đáng khen); văn tự pháp lý (chứng thư)",
+        "examples": [
+          "The firefighter was praised for his heroic deed.",
+          "Deeds speak louder than words — show me, don't tell me.",
+          "The deed of sale was signed in front of a notary."
+        ],
+        "synonyms": [
+          "act",
+          "action",
+          "achievement",
+          "document"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "law",
+      "abstract"
+    ],
+    "note": "Hai nghĩa: (1) hành động (thường tốt đẹp); (2) chứng thư pháp lý (title deed, deed of sale).",
+    "needsEnrichment": false
+  },
+  {
+    "word": "dignitary",
+    "pronunciation": "/ˈdɪɡnɪtəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhân vật quan trọng, yếu nhân, người có chức vị cao",
+        "examples": [
+          "Foreign dignitaries were invited to the state banquet.",
+          "Security was tight as dignitaries arrived for the summit.",
+          "Local dignitaries attended the opening ceremony of the new hospital."
+        ],
+        "synonyms": [
+          "VIP",
+          "notable",
+          "official",
+          "public figure"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "orchestrate",
+    "pronunciation": "/ˈɔːkɪstreɪt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Dàn dựng, sắp xếp một cách tinh vi; phối khí (âm nhạc)",
+        "examples": [
+          "The PR team orchestrated a carefully timed media campaign.",
+          "He orchestrated the entire takeover from behind the scenes.",
+          "The symphony was brilliantly orchestrated by the composer."
+        ],
+        "synonyms": [
+          "coordinate",
+          "arrange",
+          "mastermind",
+          "engineer"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "organization",
+      "abstract"
+    ],
+    "note": "Ẩn dụ từ âm nhạc — điều phối nhiều yếu tố khác nhau thành một tổng thể hài hòa.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "counterpart",
+    "pronunciation": "/ˈkaʊntəpɑːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đối tác tương đương (người/tổ chức có vai trò tương tự ở phía kia)",
+        "examples": [
+          "She met her British counterpart to discuss the trade deal.",
+          "The Vietnamese minister held talks with his American counterpart.",
+          "The company's counterpart in China has a similar business model."
+        ],
+        "synonyms": [
+          "equivalent",
+          "opposite number",
+          "peer",
+          "correspondent"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "insurance",
+    "pronunciation": "/ɪnˈʃʊərəns/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Bảo hiểm; bảo vệ/đảm bảo trước rủi ro",
+        "examples": [
+          "All drivers are legally required to have car insurance.",
+          "The insurance paid out after the warehouse fire.",
+          "He always keeps a backup as insurance against data loss."
+        ],
+        "synonyms": [
+          "coverage",
+          "protection",
+          "assurance",
+          "safeguard"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "business"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "institute",
+    "pronunciation": "/ˈɪnstɪtjuːt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Viện, học viện, trung tâm nghiên cứu/đào tạo",
+        "examples": [
+          "She works at the National Institute of Health.",
+          "The institute publishes research on climate science.",
+          "He enrolled in a language institute to improve his English."
+        ],
+        "synonyms": [
+          "organization",
+          "academy",
+          "foundation",
+          "center"
+        ]
+      },
+      {
+        "pos": "v",
+        "meaning": "Thiết lập, lập ra, khởi động chính thức (quy trình, thủ tục)",
+        "examples": [
+          "The company instituted a new dress code policy.",
+          "The government instituted legal proceedings against the company.",
+          "They instituted a formal review process to prevent future errors."
+        ],
+        "synonyms": [
+          "establish",
+          "introduce",
+          "initiate",
+          "set up"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "verb",
+      "organization",
+      "education",
+      "abstract"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "induct",
+    "pronunciation": "/ɪnˈdʌkt/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chính thức nhận/kết nạp vào (tổ chức, vị trí, danh sách vinh danh)",
+        "examples": [
+          "She was inducted into the Rock and Roll Hall of Fame.",
+          "New members were formally inducted at the annual ceremony.",
+          "He was inducted into the army at the age of eighteen."
+        ],
+        "synonyms": [
+          "initiate",
+          "admit",
+          "install",
+          "enlist"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "organization",
+      "military"
+    ],
+    "note": "'Be inducted into' = được kết nạp vào. Thường dùng cho lễ nhậm chức hoặc kết nạp danh dự.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "incumbency",
+    "pronunciation": "/ɪnˈkʌmbənsi/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Nhiệm kỳ đương chức; khoảng thời gian đang nắm giữ chức vụ",
+        "examples": [
+          "During his incumbency, the party's approval ratings rose steadily.",
+          "Her incumbency as director spanned more than a decade.",
+          "The advantages of incumbency are well-documented in electoral studies."
+        ],
+        "synonyms": [
+          "term of office",
+          "tenure",
+          "period in office"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "politics",
+      "abstract"
+    ],
+    "note": "'Incumbency advantage' = lợi thế của người đương nhiệm trong bầu cử.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "preside",
+    "pronunciation": "/prɪˈzaɪd/",
+    "senses": [
+      {
+        "pos": "v",
+        "meaning": "Chủ trì, chủ tọa (hội nghị, tổ chức, phiên tòa); đứng đầu",
+        "examples": [
+          "The chief justice presided over the landmark case.",
+          "She presided over the board meeting with great authority.",
+          "He presided over a period of rapid economic growth."
+        ],
+        "synonyms": [
+          "chair",
+          "lead",
+          "head",
+          "oversee"
+        ]
+      }
+    ],
+    "tags": [
+      "verb",
+      "organization",
+      "politics",
+      "law"
+    ],
+    "note": "'Preside over' = chủ trì/đứng đầu giai đoạn hay sự kiện nào đó.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "prescriptive",
+    "pronunciation": "/prɪˈskrɪptɪv/",
+    "senses": [
+      {
+        "pos": "adj",
+        "meaning": "Mang tính quy định, áp đặt quy tắc/tiêu chuẩn (đối lập với 'descriptive')",
+        "examples": [
+          "The grammar guide is very prescriptive about correct usage.",
+          "Critics say the policy is too prescriptive and stifles creativity.",
+          "A prescriptive approach to language tells you what you 'should' say."
+        ],
+        "synonyms": [
+          "directive",
+          "regulatory",
+          "normative",
+          "authoritative"
+        ]
+      }
+    ],
+    "tags": [
+      "adjective",
+      "organization",
+      "language",
+      "abstract"
+    ],
+    "note": "Ngôn ngữ học: 'prescriptive' = quy định chuẩn mực; 'descriptive' = mô tả thực tế ngôn ngữ như nó tồn tại.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "caste",
+    "pronunciation": "/kɑːst/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đẳng cấp xã hội (hệ thống phân tầng xã hội cứng nhắc, nhất là trong đạo Hindu); nhóm xã hội có đặc quyền riêng",
+        "examples": [
+          "The caste system has shaped Indian society for thousands of years.",
+          "He was born into a lower caste and faced discrimination throughout his life.",
+          "The company has developed an unofficial caste of senior managers who resist change."
+        ],
+        "synonyms": [
+          "class",
+          "social rank",
+          "stratum",
+          "tier"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "organization",
+      "religion",
+      "person"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  }
+]

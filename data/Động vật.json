@@ -1,0 +1,271 @@
+[
+  {
+    "word": "termite",
+    "pronunciation": "/ˈtɜːmaɪt/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Mối, mọt (côn trùng ăn gỗ, thường làm hại công trình)",
+        "examples": [
+          "Termites can cause serious structural damage to wooden buildings.",
+          "We found a termite colony nesting in the basement.",
+          "The entire wooden floor had been quietly destroyed by termites."
+        ],
+        "synonyms": [
+          "white ant",
+          "wood ant"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "vermin",
+    "pronunciation": "/ˈvɜːmɪn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Sâu bọ, thú gây hại (chuột, cáo, rệp...); người đê hèn (nghĩa bóng, miệt thị)",
+        "examples": [
+          "Farmers use traps and poison to control vermin that damage their crops.",
+          "The old warehouse was infested with vermin.",
+          "He called the corrupt officials 'vermin' in a heated speech."
+        ],
+        "synonyms": [
+          "pests",
+          "rodents"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "Danh từ tập hợp — không dùng 'a vermin'. Nghĩa bóng mang tính miệt thị mạnh.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "geese",
+    "pronunciation": "/ɡiːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngỗng (số nhiều bất quy tắc của 'goose')",
+        "examples": [
+          "A flock of geese flew overhead in a perfect V formation.",
+          "The geese honked loudly as we walked past the pond.",
+          "Canada geese are a common sight in city parks during winter."
+        ],
+        "synonyms": [
+          "waterfowl",
+          "flock bird",
+          "ganders"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "Số nhiều bất quy tắc của 'goose' → 'geese' (giống 'foot→feet', 'tooth→teeth').",
+    "needsEnrichment": false
+  },
+  {
+    "word": "salmon",
+    "pronunciation": "/ˈsæmən/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cá hồi",
+        "examples": [
+          "Grilled salmon is rich in omega-3 fatty acids.",
+          "Bears catch salmon in rivers during the spawning season.",
+          "Wild Atlantic salmon populations have declined dramatically."
+        ],
+        "synonyms": [
+          "pink fish",
+          "Atlantic salmon",
+          "Pacific salmon"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "food",
+      "concrete"
+    ],
+    "note": "Chú ý: 'l' câm — phát âm là /ˈsæmən/, không phải /ˈsælmən/.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "eagle",
+    "pronunciation": "/ˈiːɡl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chim đại bàng",
+        "examples": [
+          "A bald eagle soared high above the mountain peaks.",
+          "The eagle swooped down and snatched the fish from the river.",
+          "The bald eagle is the national symbol of the United States."
+        ],
+        "synonyms": [
+          "raptor",
+          "bird of prey"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "eel",
+    "pronunciation": "/iːl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Con lươn (cá dài, trơn như rắn)",
+        "examples": [
+          "Electric eels can generate powerful electric shocks to stun prey.",
+          "Unagi is a popular Japanese dish made from freshwater eel.",
+          "The eel slipped through the fisherman's hands."
+        ],
+        "synonyms": [
+          "electric eel",
+          "snake fish",
+          "moray"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "food",
+      "concrete"
+    ],
+    "note": "'As slippery as an eel' — thành ngữ chỉ người khó nắm bắt, lươn lẹo.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "maggot",
+    "pronunciation": "/ˈmæɡət/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Giòi, ấu trùng ruồi",
+        "examples": [
+          "Maggots were found in the poorly stored meat.",
+          "Maggots are sometimes used in modern medicine to clean infected wounds.",
+          "The compost bin was teeming with maggots."
+        ],
+        "synonyms": [
+          "larva",
+          "grub",
+          "worm"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "cattle",
+    "pronunciation": "/ˈkætl/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gia súc (bò, trâu) — dùng chỉ cả đàn",
+        "examples": [
+          "The rancher raised cattle on thousands of acres of land.",
+          "Thousands of cattle were killed in the prolonged drought.",
+          "Cattle are a major source of meat and dairy products in this region."
+        ],
+        "synonyms": [
+          "livestock",
+          "cows",
+          "bovines"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "agriculture",
+      "concrete"
+    ],
+    "note": "Danh từ tập hợp (plural noun). Không nói 'a cattle' — phải nói 'a head of cattle' hoặc 'a cow/bull'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "antler",
+    "pronunciation": "/ˈæntlər/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Gạc, sừng hươu/nai (sừng phân nhánh, mọc lại hàng năm)",
+        "examples": [
+          "The stag shook his impressive antlers at the rival male.",
+          "Antlers are shed and regrown each year — unlike horns.",
+          "He mounted a pair of antlers on the wall of his study."
+        ],
+        "synonyms": [
+          "horn",
+          "rack"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "concrete"
+    ],
+    "note": "'Antler' khác với 'horn' (sừng bò, dê, tê giác): antler là sừng phân nhánh của hươu/nai, rụng và mọc lại mỗi năm; horn thì không rụng.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "herbivore",
+    "pronunciation": "/ˈhɜːbɪvɔːr/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Động vật ăn cỏ, ăn thực vật",
+        "examples": [
+          "Cows, sheep, and deer are all herbivores.",
+          "Herbivores have flat teeth well suited for grinding plant material.",
+          "The study compared the digestive systems of herbivores and carnivores."
+        ],
+        "synonyms": [
+          "plant-eater",
+          "grazer"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "animal",
+      "science",
+      "concrete"
+    ],
+    "note": "Đối lập: 'carnivore' (ăn thịt), 'omnivore' (ăn tạp).",
+    "needsEnrichment": false
+  }
+]

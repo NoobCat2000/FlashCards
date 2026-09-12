@@ -1,0 +1,180 @@
+[
+  {
+    "word": "intersection",
+    "pronunciation": "/ˌɪntəˈsekʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Ngã tư, giao lộ (chỗ hai hoặc nhiều đường giao nhau)",
+        "examples": [
+          "The accident happened at the intersection of Main Street and Oak Avenue.",
+          "Turn left at the next intersection.",
+          "A traffic light was installed at the busy intersection."
+        ],
+        "synonyms": [
+          "crossroads",
+          "junction",
+          "crossing"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "carriage",
+    "pronunciation": "/ˈkærɪdʒ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Toa xe (lửa)",
+        "examples": [
+          "We found our reserved seats in carriage six.",
+          "The train has eight carriages.",
+          "First-class carriages are at the front of the train."
+        ],
+        "synonyms": [
+          "car",
+          "coach",
+          "wagon"
+        ]
+      },
+      {
+        "pos": "n",
+        "meaning": "Xe ngựa kéo",
+        "examples": [
+          "Cinderella arrived at the ball in a golden carriage.",
+          "Horse-drawn carriages were common before automobiles.",
+          "The royal carriage was polished to a shine."
+        ],
+        "synonyms": [
+          "coach",
+          "buggy",
+          "cart"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "concrete"
+    ],
+    "note": "Hai nghĩa chính: (1) toa xe lửa; (2) xe ngựa kéo.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "junction",
+    "pronunciation": "/ˈdʒʌŋkʃn/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Chỗ giao nhau của đường bộ hoặc đường sắt; nút giao thông",
+        "examples": [
+          "Take the motorway exit at junction 14.",
+          "The two railway lines meet at this junction.",
+          "The town grew up at the junction of two rivers."
+        ],
+        "synonyms": [
+          "intersection",
+          "crossroads",
+          "interchange"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "overpass",
+    "pronunciation": "/ˈəʊvəpɑːs/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Cầu vượt (đường bộ đi trên đường hoặc đường sắt bên dưới)",
+        "examples": [
+          "The new overpass was built to reduce traffic congestion.",
+          "Pedestrians use the overpass to cross the busy highway.",
+          "Construction of the overpass will take six months."
+        ],
+        "synonyms": [
+          "flyover",
+          "bridge",
+          "viaduct"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "concrete"
+    ],
+    "note": "Tiếng Anh Mỹ dùng 'overpass'; tiếng Anh Anh thường dùng 'flyover'.",
+    "needsEnrichment": false
+  },
+  {
+    "word": "convoy",
+    "pronunciation": "/ˈkɒnvɔɪ/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đoàn xe/tàu hộ tống; đoàn phương tiện di chuyển cùng nhau",
+        "examples": [
+          "A military convoy moved through the city at dawn.",
+          "Aid workers traveled in a convoy for safety.",
+          "The president's convoy consisted of ten armored vehicles."
+        ],
+        "synonyms": [
+          "motorcade",
+          "escort",
+          "fleet",
+          "column"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "military",
+      "concrete"
+    ],
+    "note": "",
+    "needsEnrichment": false
+  },
+  {
+    "word": "artery",
+    "pronunciation": "/ˈɑːtəri/",
+    "senses": [
+      {
+        "pos": "n",
+        "meaning": "Đường giao thông huyết mạch, tuyến đường chính",
+        "examples": [
+          "The highway is the main artery connecting the two cities.",
+          "Traffic on the city's main arteries came to a standstill.",
+          "This road serves as a vital artery for regional trade."
+        ],
+        "synonyms": [
+          "thoroughfare",
+          "main road",
+          "highway"
+        ]
+      }
+    ],
+    "tags": [
+      "noun",
+      "transport",
+      "concrete"
+    ],
+    "note": "'Artery' còn nghĩa là 'động mạch' trong y học — xem file Y học & Sinh học.",
+    "needsEnrichment": false
+  }
+]
