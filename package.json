@@ -2,6 +2,9 @@
   "name": "flashcard-app",
   "version": "1.0.0",
   "type": "module",
+  "allowScripts": {
+    "esbuild": true
+  },
   "scripts": {
     "dev": "concurrently \"node server/index.js\" \"vite\"",
     "build": "node ./node_modules/vite/bin/vite.js build",
