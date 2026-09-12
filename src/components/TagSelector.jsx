@@ -1,7 +1,5 @@
-import { useEffect, useState } from 'react'
-import { loadCache } from '../lib/api.js'
+import { useState } from 'react'
 import { getStaticWords, getStaticTags } from '../lib/static-data.js'
-import Settings from './Settings.jsx'
 
 const TAG_STYLE = {
   noun:         'bg-blue-500/15 text-blue-300 border-blue-500/30 hover:bg-blue-500/30',
@@ -43,30 +41,11 @@ function shuffle(arr) {
   return a
 }
 
+const words = getStaticWords()
+const tags  = getStaticTags()
+
 export default function TagSelector({ onStart }) {
-  const [tags, setTags]           = useState([])
-  const [words, setWords]         = useState([])
-  const [loading, setLoading]     = useState(true)
-  const [selected, setSelected]   = useState(new Set())
-  const [showSettings, setShowSettings] = useState(false)
-  const [fromCache, setFromCache] = useState(false)
-
-  function loadData() {
-    // Prefer manually synced cache (newer than build), else use bundled static data
-    const cached = loadCache()
-    if (cached) {
-      setWords(cached.words)
-      setTags(cached.tags)
-      setFromCache(true)
-    } else {
-      setWords(getStaticWords())
-      setTags(getStaticTags())
-      setFromCache(false)
-    }
-    setLoading(false)
-  }
-
-  useEffect(() => { loadData() }, [])  // eslint-disable-line
+  const [selected, setSelected] = useState(new Set())
 
   const toggle = (name) => {
     setSelected(prev => {
@@ -80,37 +59,13 @@ export default function TagSelector({ onStart }) {
     ? words
     : words.filter(w => [...selected].some(t => w.tags.includes(t)))
 
-  const handleStart = () => {
-    if (!filtered.length) return
-    onStart(shuffle(filtered))
-  }
-
-  if (loading) return (
-    <div className="min-h-screen flex items-center justify-center">
-      <div className="text-white/30 text-sm tracking-widest uppercase">Đang tải...</div>
-    </div>
-  )
-
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Header */}
-      <header className="pt-12 pb-6 px-6 text-center relative">
+      <header className="pt-12 pb-6 px-6 text-center">
         <h1 className="text-3xl font-display font-semibold text-white tracking-tight">Flashcard</h1>
-        <p className="mt-2 text-white/40 text-sm">
-          {words.length} từ · {tags.length} nhãn
-          {fromCache && <span className="ml-2 text-emerald-400/50">· synced</span>}
-        </p>
-        <button
-          onClick={() => setShowSettings(true)}
-          className="absolute right-6 top-12 p-2 rounded-full text-white/30
-                     hover:text-white/60 hover:bg-white/8 transition-colors"
-          title="Cài đặt"
-        >
-          <GearIcon />
-        </button>
+        <p className="mt-2 text-white/40 text-sm">{words.length} từ · {tags.length} nhãn</p>
       </header>
 
-      {/* Tags grid */}
       <main className="flex-1 px-6 pb-36 max-w-2xl mx-auto w-full">
         <p className="text-xs text-white/30 uppercase tracking-widest mb-4 font-medium">
           {selected.size === 0 ? 'Chọn nhãn để lọc — mặc định học tất cả' : `${selected.size} nhãn đã chọn`}
@@ -119,7 +74,6 @@ export default function TagSelector({ onStart }) {
         <div className="flex flex-wrap gap-2">
           {tags.map(({ name, count }) => {
             const isSelected = selected.has(name)
-            const style = TAG_STYLE[name] || DEFAULT_STYLE
             return (
               <button
                 key={name}
@@ -127,7 +81,7 @@ export default function TagSelector({ onStart }) {
                 className={`
                   inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border text-sm font-medium
                   transition-all duration-150 cursor-pointer
-                  ${style}
+                  ${TAG_STYLE[name] || DEFAULT_STYLE}
                   ${isSelected ? 'ring-2 ring-white/20 scale-105' : ''}
                 `}
               >
@@ -139,39 +93,19 @@ export default function TagSelector({ onStart }) {
         </div>
       </main>
 
-      {/* Bottom bar */}
       <div className="fixed bottom-0 left-0 right-0 px-6 pb-8 pt-4 bg-gradient-to-t from-[#0d0d12] to-transparent">
         <div className="max-w-2xl mx-auto">
           <button
-            onClick={handleStart}
+            onClick={() => onStart(shuffle(filtered))}
             disabled={!filtered.length}
-            className="
-              w-full py-4 rounded-2xl font-semibold text-base tracking-wide
-              bg-white text-[#0d0d12] hover:bg-white/90 active:scale-[0.98]
-              disabled:opacity-30 disabled:cursor-not-allowed
-              transition-all duration-150
-            "
+            className="w-full py-4 rounded-2xl font-semibold text-base tracking-wide
+                       bg-white text-[#0d0d12] hover:bg-white/90 active:scale-[0.98]
+                       disabled:opacity-30 disabled:cursor-not-allowed transition-all duration-150"
           >
             Học {filtered.length} từ
           </button>
         </div>
       </div>
-
-      {showSettings && (
-        <Settings
-          onClose={() => { setShowSettings(false); loadData() }}
-        />
-      )}
     </div>
-  )
-}
-
-function GearIcon() {
-  return (
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="12" cy="12" r="3" />
-      <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
-    </svg>
   )
 }

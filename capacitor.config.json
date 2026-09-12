@@ -1,5 +1,9 @@
 {
   "appId": "com.flashcard.app",
   "appName": "Flashcard",
-  "webDir": "dist"
+  "webDir": "dist",
+  "server": {
+    "url": "https://flashcard-ten-teal.vercel.app",
+    "cleartext": false
+  }
 }

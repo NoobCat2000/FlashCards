@@ -128,6 +128,7 @@ function ContextMenu({ x, y, selectedText, fullText, onClose }) {
 
 export default function FlashCard({ card, flipped, onFlip }) {
   const [menu, setMenu] = useState(null)
+  const mouseDown = useRef(null)
 
   const fullText = card.senses.map(s =>
     [s.meaning, ...(s.examples || [])].join(' ')
@@ -138,6 +139,14 @@ export default function FlashCard({ card, flipped, onFlip }) {
     const sel = window.getSelection()?.toString().trim() || ''
     setMenu({ x: e.clientX, y: e.clientY, selectedText: sel })
   }, [])
+
+  function handleBackClick(e) {
+    if (!mouseDown.current) return
+    const dx = e.clientX - mouseDown.current.x
+    const dy = e.clientY - mouseDown.current.y
+    const dragged = Math.sqrt(dx * dx + dy * dy) > 4
+    if (!dragged && !window.getSelection()?.toString()) onFlip()
+  }
 
   return (
     <div className="perspective w-full h-full">
@@ -174,7 +183,8 @@ export default function FlashCard({ card, flipped, onFlip }) {
         {/* BACK */}
         <div className="card-face card-back-face absolute inset-0 overflow-y-auto
                         bg-[#13132a] border border-white/8 rounded-3xl px-6 py-7 select-text"
-             onClick={() => { if (!window.getSelection()?.toString()) onFlip() }}
+             onMouseDown={e => { mouseDown.current = { x: e.clientX, y: e.clientY } }}
+             onClick={handleBackClick}
              onContextMenu={handleContextMenu}>
 
           {/* Word header */}
